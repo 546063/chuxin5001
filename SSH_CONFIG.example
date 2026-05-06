@@ -1,0 +1,28 @@
+# Copy the relevant block into ~/.ssh/config on the home computer.
+# Replace placeholders before use.
+
+Host company-codex
+  HostName COMPANY_HOST_OR_IP
+  User COMPANY_USERNAME
+  Port 22
+  IdentityFile ~/.ssh/id_ed25519
+  IdentitiesOnly yes
+  ServerAliveInterval 30
+  ServerAliveCountMax 3
+
+# If the company machine is only reachable through a jump host or bastion:
+#
+# Host company-bastion
+#   HostName BASTION_HOST_OR_IP
+#   User BASTION_USERNAME
+#   Port 22
+#   IdentityFile ~/.ssh/id_ed25519
+#   IdentitiesOnly yes
+#
+# Host company-codex
+#   HostName INTERNAL_COMPANY_HOST_OR_IP
+#   User COMPANY_USERNAME
+#   Port 22
+#   IdentityFile ~/.ssh/id_ed25519
+#   IdentitiesOnly yes
+#   ProxyJump company-bastion
