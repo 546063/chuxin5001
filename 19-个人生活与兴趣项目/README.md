@@ -6,7 +6,7 @@ updated: "2026-05-17"
 type: "\"research_note\""
 status: "\"hold\""
 quality_level: "\"C\""
-summary_cn: "\"- 当前 Vault 的 `18-AI水族系统`（水族相关） - 当前 Vault 的 `09-国内业务/羽毛球馆`相关文档\""
+summary_cn: "\"- 当前 Vault 的 `01-AI水族系统`（水族相关） - 当前 Vault 的 `09-国内业务/羽毛球馆`相关文档\""
 summary_en: "\"Document regarding README. Reference for business and personal development.\""
 one_sentence_summary: "\"# 19-个人生活与兴趣项目  ## 这个目录放什么  - 生活管理 - 家庭事务 - 兴趣项目 - 临时个人项目  #...\""
 decision_value: "\"低 - 个人生活\""
@@ -59,7 +59,7 @@ routing_target:
 
 ## 未来迁移来源
 
-- 当前 Vault 的 `18-AI水族系统`（水族相关）
+- 当前 Vault 的 `01-AI水族系统`（水族相关）
 - 当前 Vault 的 `09-国内业务/羽毛球馆`
 
 ---

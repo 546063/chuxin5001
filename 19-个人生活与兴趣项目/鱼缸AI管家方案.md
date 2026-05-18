@@ -28,7 +28,7 @@ retrieval_keywords:
   - 南美生态缸AI
 related:
   - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[19-个人生活与兴趣项目/18-AI水族系统/AI-Workflows]]"
+  - "[[19-个人生活与兴趣项目/01-AI水族系统/AI-Workflows]]"
 ---
 
 # 鱼缸AI管家方案
@@ -82,9 +82,9 @@ AI-based aquarium monitoring system design including automatic data logging, wat
 
 当前已有以下AI分析能力：
 
-- `18-AI水族系统/AI-Analysis/` — AI初始巡检和趋势分析
-- `18-AI水族系统/Dashboard.md` — 总仪表板
-- `18-AI水族系统/AI-Workflows/` — AI工作流
+- `01-AI水族系统/AI-Analysis/` — AI初始巡检和趋势分析
+- `01-AI水族系统/Dashboard.md` — 总仪表板
+- `01-AI水族系统/AI-Workflows/` — AI工作流
 
 本方案是在此基础上的增强设计，待传感器数据接入后实现。
 

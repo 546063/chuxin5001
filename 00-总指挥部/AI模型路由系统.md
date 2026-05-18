@@ -13,7 +13,7 @@ routing_target:
   - "[[14-AI工具自动化MOC]]"
 related:
   - "[[00-总指挥部/AI总路由系统]]"
-  - "[[00-总指挥部/MOC/14-AI工具自动化MOC]]"
+  - "[[00-总指挥部/03-MOC/14-AI工具自动化MOC]]"
   - [[01-全库工作总览MOC]]
   - [[02-AI读取入口MOC]]
 retrieval_keywords:

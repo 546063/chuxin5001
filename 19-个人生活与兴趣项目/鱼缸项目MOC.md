@@ -24,8 +24,8 @@ scenario:
   - "设备管理"
 related:
   - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[19-个人生活与兴趣项目/18-AI水族系统/README]]"
-  - "[[19-个人生活与兴趣项目/18-AI水族系统/Dashboard]]"
+  - "[[19-个人生活与兴趣项目/01-AI水族系统/README]]"
+  - "[[19-个人生活与兴趣项目/01-AI水族系统/Dashboard]]"
 retrieval_keywords:
   - 鱼缸项目MOC
   - 水族系统总览
@@ -56,7 +56,7 @@ Overview entry point for the Aquarium OS project, routing to all aquarium-relate
 ├── 鱼缸维护SOP.md           ← 日常维护标准
 ├── 鱼缸异常处理SOP.md       ← 异常处理标准
 ├── 鱼缸AI管家方案.md        ← AI监控方案
-├── 18-AI水族系统/           ← 已有系统（保持原状）
+├── 01-AI水族系统/           ← 已有系统（保持原状）
 │   ├── README.md            ← 南美生态AI水族系统说明
 │   ├── Dashboard.md         ← 总仪表板
 │   ├── Tanks/               ← 各缸档案
@@ -83,8 +83,8 @@ Overview entry point for the Aquarium OS project, routing to all aquarium-relate
 
 | 缸名 | 路由到 |
 |---|---|
-| T01-关刀流域缸 | 18-AI水族系统/Tanks/T01-关刀流域缸/ |
-| T02 | 18-AI水族系统/Tanks/T02/ |
+| T01-关刀流域缸 | 01-AI水族系统/Tanks/T01-关刀流域缸/ |
+| T02 | 01-AI水族系统/Tanks/T02/ |
 
 ---
 
