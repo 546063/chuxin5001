@@ -1,0 +1,304 @@
+{
+  "records": [
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/bbe55042-e542-4189-ae3b-6e3d1099e558.jsonl",
+      "content_sha256": "3243240d752f77744e6a10b2c8d1c174a37331cba3c0385695510853625c3a69",
+      "imported_thread_id": "019dfaff-b733-71b2-9b20-1ad88abec8cc",
+      "imported_at": 1778032555
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/78324f84-5f41-4073-a732-bf816ede946c.jsonl",
+      "content_sha256": "12c568440fbed2f248a5ebf575eaa65a6b6ed6cb2b053f773d75218965b456c7",
+      "imported_thread_id": "019dfaff-b7ca-7382-b851-0a0944a9dfe7",
+      "imported_at": 1778032556
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/33db73d5-64cb-42eb-8db4-6ff5f6e38645.jsonl",
+      "content_sha256": "60f6b0ba9736667e673276ae392540ca34ae8f3ba7306f6e04554c2005beb437",
+      "imported_thread_id": "019dfaff-b7f3-7520-b6a3-b82ee30fdfc4",
+      "imported_at": 1778032556
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/6a5a3779-8eaf-40af-9033-7c06281dac8d.jsonl",
+      "content_sha256": "aaf0ff94112bf1a5b604957c039bd8dd02960d8299948861ec9d5eb0e3c4b0b0",
+      "imported_thread_id": "019dfaff-b834-7c52-99aa-ad8ceb62e517",
+      "imported_at": 1778032556
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/862e9b58-45a8-4cdf-847b-996894ff975e.jsonl",
+      "content_sha256": "5dcc0e57ada66733aab83a558883b5f2531082d8f28593b533bb4c32f4bf2728",
+      "imported_thread_id": "019dfaff-b8a1-7660-9fbb-b53786299b0f",
+      "imported_at": 1778032556
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/7a26afcd-4469-4d0b-a7e8-b9af1204bd77.jsonl",
+      "content_sha256": "472fbed6a1422a0408983d608541608f0db0b9de95d1547e7379d8dd79fc1209",
+      "imported_thread_id": "019dfaff-bc00-7181-8a37-6eca5da08998",
+      "imported_at": 1778032557
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/7fd3f9f7-b603-44cf-96a6-82d3fab5e07f.jsonl",
+      "content_sha256": "c6ef82334f2d8713568ac01c860af83813aece4713182e4ece667ec38d6ac9e2",
+      "imported_thread_id": "019dfaff-bcac-73e3-912f-72a671ddf565",
+      "imported_at": 1778032557
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/7cf1f507-b68c-4d34-bea1-79c821144b5c.jsonl",
+      "content_sha256": "c6d68db16a0510f3c665e42be6ad77181c3e0a9028ed8d53d362f4829efb7e2c",
+      "imported_thread_id": "019dfaff-bf80-7db1-b11a-fadeef3337c4",
+      "imported_at": 1778032558
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/c0fb7efe-d764-4ae4-a78d-315afc1ef059.jsonl",
+      "content_sha256": "062f8331b3dcd1a89d575759b4db2af1306b160737c81441bc0ba9f92c3cb907",
+      "imported_thread_id": "019dfaff-bfed-75d1-8bbc-21366a346e04",
+      "imported_at": 1778032558
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/dd608e19-54f4-4529-a921-4f3094ed6226.jsonl",
+      "content_sha256": "524aa8d5e6827740aa26a403e946309f9318425146422be3ecad6c80bc9ace52",
+      "imported_thread_id": "019dfaff-c0e4-7a92-8354-e96d22e9c33e",
+      "imported_at": 1778032558
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/fb7aeefa-056e-48ea-9d08-1230b2844e8a.jsonl",
+      "content_sha256": "daa3602735c656041b0c4b1682d438b5e88b126ea57b84680e76bb0ec9bc7c68",
+      "imported_thread_id": "019dfaff-c2ab-7b63-875e-dd5a5ccbbe36",
+      "imported_at": 1778032559
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/9360e571-8ab6-4d4f-9f4c-f0c11a824642.jsonl",
+      "content_sha256": "46083133de7800e82567c02b71000fb1ef415c8f84b8ad45999b31ec0f7aaef5",
+      "imported_thread_id": "019dfaff-c3cc-7172-a230-d3ea781031a6",
+      "imported_at": 1778032559
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/6e17fa44-37a2-43c9-b808-fd4903af77e8.jsonl",
+      "content_sha256": "05aa268199065f8f5a1fa8bf522c731c882b315834a68fe8baa92812b9a13f5e",
+      "imported_thread_id": "019dfaff-c544-7bd1-b5ae-a20810ad3ddd",
+      "imported_at": 1778032559
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/1908d8bf-a589-494c-9f1f-92110c120efc.jsonl",
+      "content_sha256": "252a4359191b1a8e63a874ba32f933e70985a0c99a9dc62c8e8e6fafa3618e34",
+      "imported_thread_id": "019dfaff-c70e-79c0-a1ed-33b62b5edd5e",
+      "imported_at": 1778032560
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/83d744c0-a20f-4e13-aeb4-6b4dd476aa63.jsonl",
+      "content_sha256": "40828ec83cac8ae44dea27a3bb3b5581c54ad9106ee0289a23f591ec484f224e",
+      "imported_thread_id": "019dfaff-c979-7760-9b0e-3090521d48e9",
+      "imported_at": 1778032560
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/44e9fc11-e5cd-467f-8556-efa9014af569.jsonl",
+      "content_sha256": "62419b4831f946acde804a4d1b0387caf493c7b7cc5b9a31ade4a4ce6c24d0ac",
+      "imported_thread_id": "019dfaff-cb2f-7c91-97ea-76cb167af758",
+      "imported_at": 1778032561
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac--claude-mem-observer-sessions/28e93bb7-8da6-4031-b3a5-6f179ce4e0d3.jsonl",
+      "content_sha256": "64ec288b750085ae334e8f285d91a9cd96b3d34bf16d3e439bce0191445beaaf",
+      "imported_thread_id": "019dfaff-cda6-7243-986f-524dd8faf117",
+      "imported_at": 1778032561
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac--claude-mem-observer-sessions/f3bb3679-97eb-416e-8326-a3103b8a5c15.jsonl",
+      "content_sha256": "7cffe30511890df9b28c808afc4a87ac74a6b94fb6cfe7838102f108bd08ca43",
+      "imported_thread_id": "019dfaff-d02f-77d0-8f2f-9fd6802ca881",
+      "imported_at": 1778032562
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/0b30081c-2f55-4734-af0f-72f45243bc6d.jsonl",
+      "content_sha256": "3674092f75a6428b997f7cf44bf2380ee764721ba9fd014d12316ffefbe950f5",
+      "imported_thread_id": "019dfaff-d133-7200-af24-5c4d0f379f00",
+      "imported_at": 1778032562
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac--claude-mem-observer-sessions/d5deefc4-c6e3-4c69-b916-980e3d8225a6.jsonl",
+      "content_sha256": "ac2d9784bdcd116415f8da99a4c5678c7cee100fc3e1e91349371641ffcb547c",
+      "imported_thread_id": "019dfaff-d423-7e83-989e-7981e022c18c",
+      "imported_at": 1778032563
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/e7fc4d7b-0ee2-4cda-b444-d7388fdcf1be.jsonl",
+      "content_sha256": "b767d3dbb03899082725bae76fc45164f28f66e96cc0d25659d01e8e7abdff6c",
+      "imported_thread_id": "019dfaff-d7a1-7410-9da2-cf02016414ee",
+      "imported_at": 1778032564
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/1cfea173-48bd-4511-97e0-b1797b141608.jsonl",
+      "content_sha256": "d0594888c0cff0278085080a2c5e6d74fb4398893670d3cb9a7f6eea6a3ca110",
+      "imported_thread_id": "019dfaff-da7e-7ad2-aef7-f26b3fa0d4b2",
+      "imported_at": 1778032566
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/5a543215-f19a-45ad-aae7-741e5a85f976.jsonl",
+      "content_sha256": "908635849d41cbe92b4bab78c56ccd5191c31a4b65202aec1eaae2bbd8f4fad1",
+      "imported_thread_id": "019dfaff-e054-7570-b76d-b464608b9b11",
+      "imported_at": 1778032567
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/0dfddcba-a2c6-44ce-8460-e5422e063e70.jsonl",
+      "content_sha256": "4cc0e41ccb7bff80b6df2eeabf22ef7a9f147c50db36906322ddedc81cf3dc18",
+      "imported_thread_id": "019dfaff-e4c9-71d3-8307-5fe1f8797714",
+      "imported_at": 1778032568
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/389921d9-9124-48af-aff5-fc47318d61c6.jsonl",
+      "content_sha256": "256af6fa68728339808d827c80edefddb90cac25b519fcf2e74b8701227c0b2d",
+      "imported_thread_id": "019dfaff-e7cd-7df1-a902-a673a230547d",
+      "imported_at": 1778032569
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/c9c8a55f-7d49-4995-a641-574edb20e10a.jsonl",
+      "content_sha256": "c6aed085d269cb65f575474f4319a0c74a9fbb6f438052e3a58701169d7f6752",
+      "imported_thread_id": "019dfaff-ec84-7153-ac49-65683254965e",
+      "imported_at": 1778032569
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/c0c9d9b5-ca0a-4a72-b99a-63d10d065a79.jsonl",
+      "content_sha256": "32d05c1f899b1f2a3707ab3decaca3a0bc722325669ad6f8a6976b2e5899d975",
+      "imported_thread_id": "019dfaff-ee3d-7ca3-90d8-649c9478063c",
+      "imported_at": 1778032570
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/390c9c61-fc49-4d90-abaa-f6c231a3464f.jsonl",
+      "content_sha256": "822406a741ea831a1041cd954ab9de53638944f67c5bbf228f60c30e8006a3e4",
+      "imported_thread_id": "019dfaff-efb8-7141-8668-ac48ffb71f6d",
+      "imported_at": 1778032570
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/f3956c00-9f16-4c3f-a43e-ee273abb31d1.jsonl",
+      "content_sha256": "d684f49c0c5228e63af6abc87bf815b34d56171ffe13eadd71492c218a14aa90",
+      "imported_thread_id": "019dfaff-f12b-7cc2-8d8e-af63c687bb1c",
+      "imported_at": 1778032570
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/1b656c21-a7ce-44d0-8eb3-b6b906216b9d.jsonl",
+      "content_sha256": "1ef39686a94675978a5dc00e979bf48d90c614ee3d1362b9e0ff6bc83672d4cd",
+      "imported_thread_id": "019dfaff-f25d-7722-b1ce-182728401f14",
+      "imported_at": 1778032571
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/f0a2885f-eb2c-4914-ba55-555f2ff461d0.jsonl",
+      "content_sha256": "bb24241250bc70d7f85d9cdbd2ccdd97fd45eee3ef9c6807685ffd33400c5127",
+      "imported_thread_id": "019dfaff-f30a-7a03-bc1d-d0683c0ba652",
+      "imported_at": 1778032571
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/ba7e84d1-740a-4b3f-948b-e6b243c4fcff.jsonl",
+      "content_sha256": "ba0f14c6507efc93917e3a1af4836d660816a1d0535282d160e7861cb8d61382",
+      "imported_thread_id": "019dfaff-f505-7ac2-834e-660311019f2a",
+      "imported_at": 1778032571
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac/e228b165-00e1-40f8-8c45-745b9ed9b8c9.jsonl",
+      "content_sha256": "c791730dcd6c4b316b9d7f131d1cca13866701c43f0ff4548080394fc3038645",
+      "imported_thread_id": "019dfaff-f5f5-7723-9f8c-b40eb9f572eb",
+      "imported_at": 1778032572
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/56c348cf-2c61-4c86-9a4c-47a97dddf56c.jsonl",
+      "content_sha256": "bcd93225b4f85eecd30269daed89ad74b66d72648811ae66db63e43fc23753b2",
+      "imported_thread_id": "019dfaff-f78d-7d11-af24-1a3f0a93b239",
+      "imported_at": 1778032572
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/77a71374-8281-44a7-9922-1cad0f6a0335.jsonl",
+      "content_sha256": "30c1bc996b7cb3c5b309549b2f59c1d9c4b572c3d779bc4b1e6ff00ab8e021a3",
+      "imported_thread_id": "019dfaff-f86c-7f30-b35c-be47d6fbd776",
+      "imported_at": 1778032572
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/e87a5ccd-9503-4c9d-a370-844e7c606ef4.jsonl",
+      "content_sha256": "fe2ca505ff5c076b64c23a132b0bc4a8f55866885c1c9718bc2abddc98009edc",
+      "imported_thread_id": "019dfaff-f9c5-7893-9d45-408eaae5515f",
+      "imported_at": 1778032573
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/717408fd-2478-4e25-954e-88731444970b.jsonl",
+      "content_sha256": "699bcd0ccc9f935409fbb0fe1966ebf92ecc809b503c319a969c397ae6d2af49",
+      "imported_thread_id": "019dfaff-fba8-7583-ae07-c1bc7a917240",
+      "imported_at": 1778032573
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/a866b018-2dd2-41c8-b240-08c4bb9502c6.jsonl",
+      "content_sha256": "dea8cfec443dc61b447a018b7340619b46c48a6f9b09c3f83394f3c21862482c",
+      "imported_thread_id": "019dfaff-fd28-7ea3-aa92-a1db73bcfcc2",
+      "imported_at": 1778032573
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/62fddbfc-5f43-4e6d-9125-dd5576078bc3.jsonl",
+      "content_sha256": "18be28c928a426db54b1ab6e070b4d22c5d7db75eb750383f8e7eb1483cd20a5",
+      "imported_thread_id": "019dfaff-fe94-73b0-9bff-fc79f4bec454",
+      "imported_at": 1778032574
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/db0cfd2e-5ecb-4f42-8e06-31171c0276bd.jsonl",
+      "content_sha256": "307b1b2993d3eb0c441cc705fbdd476cca88af594cb0b3a7ee87477ce3942592",
+      "imported_thread_id": "019dfaff-ff28-7013-b0da-a1cc3fd4280d",
+      "imported_at": 1778032574
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/c83ef0e6-14b1-4564-b7cc-dd9a947745f4.jsonl",
+      "content_sha256": "a5df42a242cd7341734ee4660f89801958d4835a723c47c11734eb6c58390201",
+      "imported_thread_id": "019dfb00-006f-7d63-8a85-71882ec601b7",
+      "imported_at": 1778032574
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/82d9a3c0-9dcd-49ff-8324-8b09a4785f7e.jsonl",
+      "content_sha256": "1e7bc669fffb4d46a9c5c4a7c665bff1eb9a58aaf283e51b2b1de53455af80dc",
+      "imported_thread_id": "019dfb00-0186-7860-b6bd-1eba84f400b8",
+      "imported_at": 1778032575
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/8da51a14-213d-4ba3-97a9-f7a4f3e84695.jsonl",
+      "content_sha256": "63b6e8479531de6c49e62488aa8d39f75819789ffef6e15f3ade4ff6e509289b",
+      "imported_thread_id": "019dfb00-057d-7141-9214-fb7d243f898c",
+      "imported_at": 1778032577
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/793ddeb8-fcfb-4e6a-83c5-5921b0de6bc3.jsonl",
+      "content_sha256": "c284f58dc1c6b262a9898e9fbae90f3ae271fdfdfc28fc5409debefdb6461a09",
+      "imported_thread_id": "019dfb00-0d3c-7520-ad42-806bb777baaf",
+      "imported_at": 1778032578
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/3ce1f29c-485a-42db-9fe9-7ec3b11c2434.jsonl",
+      "content_sha256": "22941f662a82250d0d81df6315469fd85b5ff0050e822efac8e6620a123d5443",
+      "imported_thread_id": "019dfb00-1309-7261-823e-26d1c2d598d2",
+      "imported_at": 1778032582
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/72c94ac1-d283-4d4d-a5fd-3ea8771b6b0d.jsonl",
+      "content_sha256": "1e298ec02cabe78c6e2229eb87e48d66866072f65e9f689c339eea5eb2024ab8",
+      "imported_thread_id": "019dfb00-2062-7b72-b8bf-ca4e1c187738",
+      "imported_at": 1778032583
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/79fa8545-c06f-4619-a391-44d75231d21b.jsonl",
+      "content_sha256": "af87ca55d8f854936d484ad1bb30ca9bbe850c9ad92373d32e1c7e24371da4a1",
+      "imported_thread_id": "019dfb00-21c3-71d3-887c-51846c23a97a",
+      "imported_at": 1778032583
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/57337d45-3895-4403-afda-82c56a68771a.jsonl",
+      "content_sha256": "655f0edcd81ce44c5a51d7fc57044314228841b821edb6fae3e1b4ff86e3af67",
+      "imported_thread_id": "019dfb00-22d6-7931-8840-e72a86c892e6",
+      "imported_at": 1778032584
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/62a16ee7-700b-4d77-a5a9-8456b3f462e9.jsonl",
+      "content_sha256": "1d691e7d781019df16a2d08f21058bf0b5b60b469aa5fb60744442d742faea0d",
+      "imported_thread_id": "019dfb00-2598-7fc0-b7b0-4e9797fca421",
+      "imported_at": 1778032584
+    },
+    {
+      "source_path": "/Users/mac/.claude/projects/-Users-mac-projects/b0497910-c68c-4b14-afd6-95b1d2731e73.jsonl",
+      "content_sha256": "46bbff0bc1c4ea124ab4f76823772cb87d7121b60fd442322b9ae719020c485e",
+      "imported_thread_id": "019dfb00-2728-7cd3-a4ad-75ca7b5e085d",
+      "imported_at": 1778032584
+    }
+  ]
+}

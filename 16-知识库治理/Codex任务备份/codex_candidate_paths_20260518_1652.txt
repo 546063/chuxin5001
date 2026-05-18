@@ -1,0 +1,200 @@
+/Users/mac/.codex
+/Users/mac/.codex/external_agent_session_imports.json
+/Users/mac/.codex/.codex-global-state.json.bak
+/Users/mac/.codex/archived_sessions
+/Users/mac/.codex/session_index.jsonl
+/Users/mac/.codex/sessions
+/Users/mac/.codex/.codex-global-state.json
+/Users/mac/ai-workspaces/codex-rescue
+/Users/mac/ai-workspaces/codex
+/Users/mac/Library/Application Support/com.apple.backgroundtaskmanagementagent
+/Users/mac/Library/Application Support/Codex
+/Users/mac/Library/Logs/com.openai.codex
+/Users/mac/.codex/sqlite/codex-dev.db
+/Users/mac/.codex/log/codex-tui.log
+/Users/mac/.codex/log/codex-login.log
+/Users/mac/.codex/computer-use/Codex Computer Use.app
+/Users/mac/ai-workspaces/codex-rescue/.codex.toml
+/Users/mac/ai-workspaces/codex-rescue/CODEX_RESCUE_RULES.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/codex.md
+/Users/mac/Library/Application Support/com.openai.chat/codex-taskItems-v2-archived-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/com.openai.chat/codex-environments-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/com.openai.chat/conversations-v3-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/com.openai.chat/codex-taskDetails-v1-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/com.openai.chat/codex-taskItems-v2-default-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/MobileSync/Backup
+/Users/mac/Library/Application Support/baidunetdisk/Session Storage
+/Users/mac/Library/Application Support/projects/latest_kickoff_task_outputs.db
+/Users/mac/Library/Application Support/Codex/Session Storage
+/Users/mac/Library/Application Support/Docker Desktop/Session Storage
+/Users/mac/Library/Application Support/CrashReporter/Codex_55FE95E1-BD7D-513E-994E-1A9331821A32.plist
+/Users/mac/Library/Application Support/CloudDocs/session
+/Users/mac/Library/Application Support/com.openai.chat/project-g-p-69fb43586d3c81918f871d8fc34ac236/conversations-v3-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/Library/Application Support/com.openai.chat/project-g-p-6a057acdc5d081919c8a4d40c41dd814/conversations-v3-cb5e2393-4f10-46a3-b6cf-1ba350289eae
+/Users/mac/.codex/skills/.system/.codex-system-skills.marker
+/Users/mac/.codex/tmp/arg0/codex-arg0FgBIEF
+/Users/mac/ai-workspaces/codex-rescue/bin/codex-rescue
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/15-AI自动化工兵营/10-Codex
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/Codex任务备份
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/_reports/FINAL-GOV-STEP-07-icloud-backup-report.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/_reports/FINAL-GOV-STEP-07-icloud-backup-plan.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/99-Archive/2026-05-16-Phase28-backup
+/Users/mac/Downloads/剪辑视频下载/output/backup_20260518
+/Users/mac/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/imagetasks.pixea.sfl3
+/Users/mac/Library/Application Support/com.apple.sharedfilelist/com.apple.LSSharedFileList.ApplicationRecentDocuments/com.openai.codex.sfl3
+/Users/mac/Library/Application Support/dingtalk-rewind-server/logs/session
+/Users/mac/Library/Application Support/com.apple.ap.promotedcontentd/APCS/Identifiers/AnonymousSessionId
+/Users/mac/Library/Application Support/com.apple.ap.promotedcontentd/APCS/Identifiers/SessionManagementIDsEnabled
+/Users/mac/.codex/.tmp/plugins/plugins/codex-security
+/Users/mac/.codex/tmp/arg0/codex-arg0FgBIEF/codex-execve-wrapper
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/认知框架/tdd-session-reviewer.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/用量统计/AI_Token_Consumption_Backup_FAST_20260512_202625 1.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/用量统计/AI_Token_Consumption_Backup_20260512_202340 1.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/用量统计/AI_Token_Consumption_Backup_FAST_20260512_202625.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/用量统计/AI_Token_Consumption_Backup_20260512_202340.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/15-AI工作流与自动化/AI工作流/tdd-session-reviewer.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1652.txt
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1651.txt
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/15-AI自动化工兵营/07-Claude code Memory与会话/Codex Memory 与会话资料说明.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/15-AI自动化工兵营/05-AI视频剪辑工作流/backup
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/15-AI自动化工兵营/10-Codex/codex.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/00-总指挥部/02-AI路由与入口/09-Codex总指挥规则.md
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.TickTick.task
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.burbn.instagram.encryptedBackups.plist
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.facebook.Messenger.encryptedBackups
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.TickTick.task.plist
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.facebook.Messenger.encryptedBackups.plist
+/Users/mac/Library/Application Support/CloudDocs/session/containers/iCloud.com.burbn.instagram.encryptedBackups
+/Users/mac/.codex/vendor_imports/skills/skills/.curated/migrate-to-codex
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/_empty_dirs_archive/15-AI自动化工兵营/03-Codex
+/Users/mac/.codex/.tmp/plugins/plugins/hyperframes/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/taxdown/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/attio/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/keybid-puls/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/granola/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/pitchbook/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/readwise/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/temporal/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/read-ai/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/teamwork-com/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/responsive/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/signnow/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/circleback/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/particl-market-research/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/ranked-ai/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/quicknode/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/test-android-apps/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/box/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/otter-ai/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/vercel/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/coderabbit/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/biorender/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/myregistry-com/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/omni-analytics/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/cogedim/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/docket/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/help-scout/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/zotero/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/notion/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/supabase/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/google-calendar/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/hubspot/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/fireflies/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/netlify/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/third-bridge/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/morningstar/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/fyxer/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/dovetail/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/marcopolo/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/scite/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/figma/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/skywatch/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/monday-com/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/brand24/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/outlook-email/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/game-studio/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/daloopa/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/statsig/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/heygen/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/google-drive/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/mt-newswires/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/govtribe/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/coupler-io/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/codex-security/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/hostinger/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/sharepoint/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/hugging-face/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/pylon/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/moody-s/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/streak/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/build-web-apps/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/finn/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/sendgrid/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/life-science-research/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/brex/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/highlevel/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/circleci/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/cube/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/pipedrive/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/linear/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/canva/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/demandbase/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/windsor-ai/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/cloudflare/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/yepcode/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/motherduck/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/cloudinary/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/alpaca/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/twilio-developer-kit/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/policynote/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/render/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/outlook-calendar/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/semrush/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/clickup/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/openai-developers/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/amplitude/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/expo/.codex-plugin
+/Users/mac/Library/Application Support/com.openai.chat/io.sentry/io.sentry/92591984237166f2146c8956dd9a93aa9c9228d7/session.current
+/Users/mac/.codex/.tmp/plugins/plugins/jam/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/sentry/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/conductor/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/coveo/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/superpowers/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/neon-postgres/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/atlassian-rovo/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/common-room/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/network-solutions/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/asana/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/dow-jones-factiva/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/gmail/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/build-macos-apps/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/remotion/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/tinman-ai/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/egnyte/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/waldo/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/teams/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/weatherpromise/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/cb-insights/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/channel99/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/quartr/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/slack/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/razorpay/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/domotz-preview/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/vantage/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/united-rentals/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/carta-crm/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/setu-bharat-connect-billpay/.codex-plugin
+/Users/mac/.codex/skills/.system/imagegen/references/codex-network.md
+/Users/mac/.codex/.tmp/plugins/plugins/mem/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/happenstance/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/stripe/.codex-plugin
+/Users/mac/.codex/.tmp/plugins/plugins/binance/.codex-plugin
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian/00-总指挥部/02-AI路由与入口/01-AI读取入口/09-Codex总指挥规则.md
+/Users/mac/ai-workspaces/AI-Workspace-Obsidian-Removed-Archive-20260517/99-Archive/06-待人工确认/AI生成待审查/Codex
+/Users/mac/Library/Logs/com.openai.codex/2026/05/18/codex-desktop-73923d86-66d8-4c2e-b393-111e1b68009d-10321-t1-i1-063830-0.log
+/Users/mac/Library/Logs/com.openai.codex/2026/05/18/codex-desktop-73923d86-66d8-4c2e-b393-111e1b68009d-10321-t0-i1-063826-0.log
+/Users/mac/Library/Logs/com.openai.codex/2026/05/11/codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t1-i1-070108-0.log
+/Users/mac/Library/Logs/com.openai.codex/2026/05/11/codex-desktop-cc78bd4b-5adf-47eb-a38f-88c697fb3f18-16421-t1-i1-045004-0.log
+/Users/mac/Library/Logs/com.openai.codex/2026/05/11/codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t0-i1-070105-0.log
