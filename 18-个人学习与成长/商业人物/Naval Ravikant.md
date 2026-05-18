@@ -1,0 +1,47 @@
+---
+title: "\"\\\"Naval Ravikant\\\"\""
+aliases: "\"[]\""
+tags: "\"[AI工作流, AI技能, ClaudeCode, Codex, Obsidian, OpenClaw, 商业人物, 工作流, 工具技能, 归档, 知识库维护]\""
+topic: "\"AI工作流\""
+created: "\"\\\"2026-05-10\\\"\""
+updated: "2026-05-17"
+type: "\"商业人物\""
+status: "\"archived\""
+quality_level: "\"B\""
+summary_cn: "\"Naval视角SKILL已归档至00-归档。如需恢复，请从备份中提取。相关文档\""
+summary_en: "\"Document regarding Naval Ravikant. Reference for business and personal development.\""
+one_sentence_summary: "\"# Naval Ravikant  Naval视角SKILL已归档至00-归档\""
+decision_value: "\"Naval财富观念和心智模型（特定知识、复利思维、杠杆）的原始记录，作为人物蒸馏素材存档。\""
+review_note: "\"商业人物蒸馏，决策框架与思维模式\""
+category: "\"AI工作流\""
+platform: "\"[Claude Code, Codex, OpenClaw]\""
+industry: "[]"
+scenario: "\"[知识库维护, 自动化]\""
+source_files: "[]"
+merged_from: "[]"
+old_versions: "[]"
+archived_reason: "[]"
+relations: "[]"
+related:
+retrieval_keywords:
+  - - - 义乌外贸案例复盘
+  - - - 硅谷101科技商业案例
+  - - - 跨海电波商业认知
+  - - - 创业增长认知笔记
+  - - - 播客商业启发笔记
+  - - --
+  - --
+routing_target:
+  - "[[16-学习成长蒸馏MOC]]"
+---
+
+# Naval Ravikant
+
+Naval视角SKILL已归档至00-归档。如需恢复，请从备份中提取。
+
+## 关联笔记
+- [[11-智囊团与知识蒸馏/MOC]]
+- [[11-智囊团与知识蒸馏/MOC]]
+- [[10-AI工具与自动化/MOC]]
+- [[11-智囊团与知识蒸馏/商业人物/Paul Graham|Paul Graham]]
+- [[11-智囊团与知识蒸馏/商业人物/Alex Hormozi|Alex Hormozi]]
