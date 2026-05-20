@@ -180,8 +180,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "84ffebc9d5632d72",
+  "active": "076c49c6ddd0e5f4",
   "lastOpenFiles": [
+    "15-AI自动化工兵营/ClaudeCode任务管理/Facebook广告知识库增量更新-ClaudeCode接管.md",
+    "15-AI自动化工兵营/ClaudeCode任务管理",
     "11-选品产品情报站/VR互动/VR互动飞机杯与成人科技产品整合.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1.md",
     "11-选品产品情报站/VR互动/成人用品独立站出海支付与合规检查清单-Obsidian文稿.md",
@@ -208,7 +210,6 @@
     "15-AI自动化工兵营/ClaudeCode_银羽视频严格仿剪修复提示词_V3.md",
     "15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5.md",
     "15-AI自动化工兵营/ClaudeCode_双机双工具剪辑提示词_V5.md",
-    "MECE原则思维模型.md",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t0-i1-070105-0.log",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-cc78bd4b-5adf-47eb-a38f-88c697fb3f18-16421-t1-i1-045004-0.log",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t1-i1-070108-0.log",
@@ -216,7 +217,6 @@
     "16-知识库治理/Codex任务备份/raw/20260518_1652",
     "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1652.txt",
     "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1651.txt",
-    "16-知识库治理/Codex任务备份/summaries",
-    "16-知识库治理/Codex任务备份/raw"
+    "16-知识库治理/Codex任务备份/summaries"
   ]
 }
