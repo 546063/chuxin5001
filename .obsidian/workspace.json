@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ea47208cb8007a1",
+        "id": "1592121542f393c5",
         "type": "tabs",
         "children": [
           {
-            "id": "4c90571ab0e231aa",
+            "id": "84ffebc9d5632d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18-个人学习与成长/书籍蒸馏/道德经-顺势经营与一人公司反脆弱模型.md",
+                "file": "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "道德经-顺势经营与一人公司反脆弱模型"
-            }
-          },
-          {
-            "id": "f823c387b2ffabfd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.50390243530273
+    "width": 250.50390243530273
   },
   "right": {
     "id": "98e449df5461178a",
@@ -191,43 +180,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "076c49c6ddd0e5f4",
+  "active": "84ffebc9d5632d72",
   "lastOpenFiles": [
+    "11-选品产品情报站/VR互动/VR互动飞机杯与成人科技产品整合.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1.md",
+    "11-选品产品情报站/VR互动/成人用品独立站出海支付与合规检查清单-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库.md",
+    "11-选品产品情报站/食品加工机械工厂清单.md",
+    "11-选品产品情报站/VR互动/01-VR同步飞机杯市场总览.md",
+    "11-选品产品情报站/00-数据来源验证.md",
+    "11-选品产品情报站/01-选品总手册.md",
+    "11-选品产品情报站/11-目录总览MOC.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒与KOL营销生态深度调研-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯外贸独立站SEO关键词矩阵-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯海关进出口数据与竞品独立站拆解-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿-新版.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研报告-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯全球市场趋势与增长预测-Obsidian文稿.md",
+    "11-选品产品情报站/VR互动/04-成人用品跨境合规与渠道风险.md",
+    "11-选品产品情报站/VR互动/03-VR同步飞机杯产品厂家与价格带.md",
+    "11-选品产品情报站/VR互动/02-VR同步飞机杯用户画像与国家机会.md",
+    "11-选品产品情报站/VR互动",
+    "11-选品产品情报站/00-知识库MAP.md",
+    "15-AI自动化工兵营/羽毛球招生视频剪辑师版本风格分析与SOP-V3.md",
+    "15-AI自动化工兵营/ClaudeCode_银羽视频严格仿剪修复提示词_V3.md",
+    "15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5.md",
+    "15-AI自动化工兵营/ClaudeCode_双机双工具剪辑提示词_V5.md",
+    "MECE原则思维模型.md",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t0-i1-070105-0.log",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-cc78bd4b-5adf-47eb-a38f-88c697fb3f18-16421-t1-i1-045004-0.log",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t1-i1-070108-0.log",
     "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_18_codex-desktop-73923d86-66d8-4c2e-b393-111e1b68009d-10321-t1-i1-063830-0.log",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian_00-总指挥部_02-AI路由与入口_01-AI读取入口_09-Codex总指挥规则.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian_00-总指挥部_02-AI路由与入口_09-Codex总指挥规则.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian_15-AI自动化工兵营_10-Codex_codex.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian_15-AI自动化工兵营_07-Claude_code_Memory与会话_Codex_Memory_与会话资料说明.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian-Removed-Archive-20260517_15-AI工作流与自动化_AI工作流_tdd-session-reviewer.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian-Removed-Archive-20260517_15-AI工作流与自动化_认知框架_tdd-session-reviewer.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian-Removed-Archive-20260517__reports_FINAL-GOV-STEP-07-icloud-backup-plan.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian-Removed-Archive-20260517__reports_FINAL-GOV-STEP-07-icloud-backup-report.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/ai-workspaces_AI-Workspace-Obsidian-Removed-Archive-20260517_codex.md",
     "16-知识库治理/Codex任务备份/raw/20260518_1652",
     "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1652.txt",
     "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1651.txt",
     "16-知识库治理/Codex任务备份/summaries",
-    "16-知识库治理/Codex任务备份/raw",
-    "16-知识库治理/Codex任务备份/README.md",
-    "16-知识库治理/Codex任务备份",
-    "16-知识库治理/二级三级目录序号统一_执行报告_20260518_1632.md",
-    "16-知识库治理/folder_rename_mapping_20260518_1632.csv",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/15-个人微信与OpenClaw连接说明.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/14-人的审判规则.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/13-噪音与垃圾信息处理规则.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/12-信息进入知识库SOP.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/11-知识质量判断标准.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/10-ClaudeCode执行规则.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/09-Codex总指挥规则.md",
-    "00-总指挥部/02-AI路由与入口/01-AI读取入口/08-claude-mem记忆规则.md",
-    "00-总指挥部/01-共享中枢/01-Clippings/obsidian-local-rest-api-check.md",
-    "00-总指挥部/01-共享中枢/01-Clippings/Obsidian跨境 知识库整理.md",
-    "00-总指挥部/01-共享中枢/01-Clippings/2026_classification_audit_v2.md",
-    "15-AI自动化工兵营/01-模型路由/02-模型路由器/默认调用链.md",
-    "15-AI自动化工兵营/01-模型路由/02-模型路由器/输出格式模板.md",
-    "15-AI自动化工兵营/01-模型路由/02-模型路由器/路由器测试案例.md"
+    "16-知识库治理/Codex任务备份/raw"
   ]
 }
