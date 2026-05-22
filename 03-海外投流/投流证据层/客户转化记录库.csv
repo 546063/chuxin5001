@@ -1,0 +1,2 @@
+conversion_id,customer_id,lead_id,case_id,source_platform,source_country,source_industry,source_product,first_contact_date,contact_method,lead_grade,follow_up_count,quote_sent_date,quote_amount,closed_date,closed_amount,conversion_days,conversion_status,loss_reason,data_source,verified_status,notes
+CONV-20260522-001,,待回填,,待回填,,待回填,,待回填,WhatsApp,待回填,待回填,待回填,待回填,待回填,待回填,待回填,pending,,manual_entry,pending,模板示例行，待真实数据回填

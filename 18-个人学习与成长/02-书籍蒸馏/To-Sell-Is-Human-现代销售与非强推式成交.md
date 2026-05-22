@@ -5,7 +5,7 @@ type: "book_note"
 status: "active"
 quality_level: "A"
 created: "2026-05-18"
-updated: "2026-05-18"
+updated: "2026-05-21"
 summary_cn: "《To Sell Is Human》适合转化成一套现代销售、提问、共情、清晰表达、非强推式成交和私聊承接SOP。"
 summary_en: "A work-connected note distilling To Sell Is Human into modern selling, attunement, buoyancy, clarity, pitching, improvisation, and non-pushy conversion SOPs."
 decision_value: "用于WhatsApp、LinkedIn、邮件私聊、客户开发、私域承接、B2B销售沟通和一人公司成交系统。"
@@ -14,6 +14,31 @@ platform: ["WhatsApp", "LinkedIn", "Email", "Facebook", "独立站"]
 industry: ["跨境社媒", "一人公司", "B2B获客", "销售沟通", "客户开发"]
 scenario: ["私聊成交", "LinkedIn私信", "WhatsApp承接", "邮件开发", "客户提问", "非强推式销售"]
 routing_target: "18-个人学习与成长/书籍模型库"
+tags:
+  - "#书籍蒸馏"
+  - "#决策框架"
+  - "#销售沟通"
+  - "#私聊成交"
+related:
+  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
+  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
+  - "[[16-学习成长蒸馏MOC]]"
+retrieval_keywords:
+aliases:
+  - To-Sell-Is-Human-现代销售与非强推式成交
+  - 书籍蒸馏
+  - 决策框架  - To Sell Is Human
+  - 现代销售
+  - 非强推式成交
+  - 私聊SOP
+  - 共情
+  - 提问技巧
+  - 清晰表达
+  - WhatsApp成交
+  - LinkedIn私信
+  - B2B销售
+  - 跨境社媒
+source: book
 ---
 
 # 《To Sell Is Human》｜现代销售与非强推式成交SOP

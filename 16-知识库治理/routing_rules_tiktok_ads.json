@@ -1,0 +1,146 @@
+{
+  "router_name": "tiktok_ads_router",
+  "version": "2026-05-22",
+  "priority": "P0",
+  "description": "Route questions about TikTok Ads, TikTok lead generation, creative, optimization, and B2B suitability for food processing machinery.",
+  "trigger_keywords": [
+    "TikTok投流",
+    "TikTok Ads",
+    "TikTok广告",
+    "TikTok线索",
+    "TikTok Lead Gen",
+    "TikTok素材",
+    "TikTok复盘",
+    "Spark Ads",
+    "TikTok B2B",
+    "食品机械TikTok",
+    "TikTok广告账户"
+  ],
+  "entry_notes": [
+    "03-海外投流/TikTok投流知识库/10-TikTok投流路由入口.md",
+    "03-海外投流/TikTok投流知识库/11-TikTok投流常见问题路由表.md"
+  ],
+  "routes": {
+    "tiktok_ads": {
+      "description": "TikTok 广告整体策略、账户结构、B2B适配",
+      "keywords": [
+        "TikTok广告",
+        "TikTok投流",
+        "TikTok账户",
+        "B2B投TikTok",
+        "食品机械TikTok"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/10-TikTok投流路由入口.md",
+        "03-海外投流/TikTok投流知识库/01-TikTok广告账户结构SOP.md",
+        "03-海外投流/TikTok投流知识库/05-TikTok投流B2B适配性分析.md"
+      ]
+    },
+    "tiktok_lead_ads": {
+      "description": "TikTok 线索广告、Lead Gen 表单、获客",
+      "keywords": [
+        "TikTok线索",
+        "Lead Gen",
+        "TikTok表单",
+        "TikTok获客",
+        "TikTok留资"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/02-TikTok线索广告SOP.md",
+        "03-海外投流/TikTok投流知识库/01-TikTok广告账户结构SOP.md"
+      ]
+    },
+    "tiktok_creative": {
+      "description": "TikTok 广告素材、视频脚本、Spark Ads",
+      "keywords": [
+        "TikTok素材",
+        "TikTok视频",
+        "钩子",
+        "Spark Ads",
+        "Creative Center"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/03-TikTok广告素材创意SOP.md"
+      ]
+    },
+    "tiktok_review": {
+      "description": "TikTok 广告数据复盘、指标、优化",
+      "keywords": [
+        "TikTok复盘",
+        "TikTok数据",
+        "CPL",
+        "CTR",
+        "素材衰减",
+        "放量"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/04-TikTok投流复盘指标体系.md"
+      ]
+    },
+    "platform_rules": {
+      "description": "TikTok Ads 平台规则与广告产品总览",
+      "keywords": [
+        "TikTok广告产品",
+        "TikTok平台规则",
+        "TikTok广告类型"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/06-TikTok Ads平台规则与广告产品总览.md",
+        "03-海外投流/TikTok投流知识库/01-TikTok广告账户结构SOP.md"
+      ]
+    },
+    "pre_launch_checklist": {
+      "description": "TikTok 投流前准备清单",
+      "keywords": [
+        "TikTok投流前准备",
+        "TikTok广告账户开通"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/07-TikTok投流前准备清单.md"
+      ]
+    },
+    "paid_ads_strategy": {
+      "description": "TikTok vs Facebook 投流差异与策略选择",
+      "keywords": [
+        "TikTok和Facebook区别",
+        "投流平台选择"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/08-TikTok与Facebook投流差异对比.md"
+      ]
+    },
+    "lead_generation_ads": {
+      "description": "TikTok 线索广告和 Lead Gen Form 投放",
+      "keywords": [
+        "TikTok线索广告",
+        "TikTok Lead Gen",
+        "TikTok表单广告"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/02-TikTok线索广告SOP.md"
+      ]
+    },
+    "creative_sop": {
+      "description": "TikTok 广告素材创意SOP",
+      "keywords": [
+        "TikTok广告素材",
+        "TikTok创意",
+        "TikTok视频素材"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/03-TikTok广告素材创意SOP.md"
+      ]
+    },
+    "b2b_adaptability": {
+      "description": "TikTok B2B设备广告适配性分析",
+      "keywords": [
+        "TikTok适合B2B吗",
+        "TikTok B2B设备",
+        "TikTok食品机械"
+      ],
+      "preferred_notes": [
+        "03-海外投流/TikTok投流知识库/05-TikTok投流B2B适配性分析.md"
+      ]
+    }
+  }
+}

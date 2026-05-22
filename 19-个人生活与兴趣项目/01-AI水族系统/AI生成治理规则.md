@@ -1,39 +1,40 @@
 ---
-title: "\"AI生成治理规则\""
-topic: "\"个人生活与兴趣项目\""
-created: "\"2026-05-14\""
-updated: "2026-05-17"
-type: "\"governance_rule\""
-status: "\"active\""
-quality_level: "\"A\""
-summary_cn: "\"> 本规则约束所有 AI 生成行为，防止重复文件、内容覆盖、AI 漂移。相关文档\""
-summary_en: "\"Document regarding AI生成治理规则. Reference for business and personal development.\""
-one_sentence_summary: "\"# AI 生成治理规则（生成锁机制）  > 本规则约束所有 AI 生成行为，防止重复文件、内容覆盖、AI 漂移\""
-decision_value: "\"高\""
-review_note: "\"AI生成内容治理规则\""
-category: "\"个人生活与兴趣项目\""
-platform: "[]"
-industry: "[]"
-scenario: "[]"
-source_files: "[]"
-merged_from: "[]"
-old_versions: "[]"
-archived_reason: "[]"
-relations: "[]"
+title: AI生成治理规则
+aliases:
+  - AI生成锁机制
+  - AI内容治理规则
+  - 防止AI漂移规则
+  - Aquarium AI Governance
+tags:
+  - #AI水族系统
+  - #鱼缸管理
+  - AI治理
+  - 生成锁
+type: note
+status: draft
+created: 2026-05-14
+updated: 2026-05-21
+summary_cn: 本规则约束所有AI生成行为，防止重复文件、内容覆盖、AI漂移。核心原则是目标文件存在时追加或更新，不存在时新建。是Aquarium OS系统AI生成内容的治理机制，确保AI操作的可控性和可追溯性。
+summary_en: "Governance rules for all AI-generated content in the Aquarium OS system, preventing duplicate files, content overwrites, and AI drift."
 related:
-  - [[01-全库工作总览MOC]]
+  - "[[19-个人生活与兴趣项目/鱼缸项目MOC]]"
+  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+  - "[[19-个人生活与兴趣项目/鱼缸异常处理SOP]]"
 retrieval_keywords:
-  - 水族系统维护
-  - 热带鱼水族箱管理
-  - AI水族巡检分析
-  - 观赏鱼养殖经验
-  - 水族箱过滤系统
+  - AI生成治理
+  - 生成锁
+  - AI漂移
+  - 内容覆盖防止
+  - 重复文件防止
+  - AI治理规则
+  - Aquarium OS
+  - AI操作规范
+  - 文件管理
+decision_value: 确保AI在Aquarium OS系统中的生成行为可控、可追溯，防止内容混乱和文件重复。
+quality_level: B
 routing_target:
-  - "[[鱼缸项目路由]]"
-  - "[[鱼缸项目MOC]]"
-project_route:
-  - "fish_tank"
-
+  - 生活项目
+source: user
 ---
 
 # AI 生成治理规则（生成锁机制）
@@ -103,7 +104,7 @@ tags: [<标签>]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 related:
-  - "[[相关档案]]"
+  - "[[01-全库工作总览MOC]]"
 ```
 
 ### 2.2 巡检文件额外字段

@@ -1,4 +1,43 @@
-# Claude Code 提示词：银羽视频严格仿剪修复 V3
+---
+title: ClaudeCode 银羽视频严格仿剪修复提示词 V3
+aliases:
+  - 银羽视频仿剪修复提示词
+  - 严格仿剪修复Prompt V3
+  - 剪辑师风格仿剪提示词
+  - AI视频修复提示词
+tags:
+  - #AI提示词
+  - #ClaudeCode
+  - #视频剪辑
+  - #自动化
+type: prompt
+status: active
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本提示词用于 Claude Code 执行"银羽羽毛球招生视频严格仿剪修复"任务。不是自由剪辑，而是读取4个剪辑师正确版本作为风格参考，总结它们的字幕、位置、字体、口型、镜头切换、B-roll、特效、结尾方式，然后用这些正确版本作为唯一风格标准，修复AI错误剪辑版本。包含输入文件角色定义、参考视频分析阶段、错误版本修复阶段的完整指令。
+summary_en: "This prompt instructs Claude Code to fix AI-edited videos by strictly mimicking four editor-approved reference videos, analyzing their subtitle style, lip-sync, B-roll logic, and ending patterns."
+related:
+  - "[[15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5]]"
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V4_三版本批量出片版]]"
+  - "[[00-总指挥部/AI总路由系统]]"
+retrieval_keywords:
+  - Claude Code提示词
+  - 严格仿剪
+  - 视频修复
+  - 剪辑师风格
+  - 风格模仿
+  - ffmpeg分析
+  - 字幕修复
+  - 口型修复
+  - 银羽招生
+  - 参考视频
+decision_value: 提供AI错误剪辑版本的修复方案，通过严格模仿剪辑师正确版本来恢复正确的剪辑风格。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 视频剪辑
+source: user
+---
 
 下面整段直接复制给 Claude Code 使用。
 

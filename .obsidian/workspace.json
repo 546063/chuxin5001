@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1.md",
-                "mode": "source",
+                "file": "11-选品产品情报站/VR互动/VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1"
+              "title": "VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.50390243530273
+    "width": 274.5026054382324
   },
   "right": {
     "id": "98e449df5461178a",
@@ -180,43 +180,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "076c49c6ddd0e5f4",
+  "active": "84ffebc9d5632d72",
   "lastOpenFiles": [
-    "15-AI自动化工兵营/ClaudeCode任务管理/Facebook广告知识库增量更新-ClaudeCode接管.md",
-    "15-AI自动化工兵营/ClaudeCode任务管理",
-    "11-选品产品情报站/VR互动/VR互动飞机杯与成人科技产品整合.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库 1.md",
-    "11-选品产品情报站/VR互动/成人用品独立站出海支付与合规检查清单-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研总报告-Obsidian知识库.md",
-    "11-选品产品情报站/食品加工机械工厂清单.md",
-    "11-选品产品情报站/VR互动/01-VR同步飞机杯市场总览.md",
-    "11-选品产品情报站/00-数据来源验证.md",
-    "11-选品产品情报站/01-选品总手册.md",
-    "11-选品产品情报站/11-目录总览MOC.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒与KOL营销生态深度调研-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯外贸独立站SEO关键词矩阵-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯海关进出口数据与竞品独立站拆解-Obsidian文稿.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿-新版.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯外贸全景调研报告-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/VR互动飞机杯全球市场趋势与增长预测-Obsidian文稿.md",
-    "11-选品产品情报站/VR互动/04-成人用品跨境合规与渠道风险.md",
-    "11-选品产品情报站/VR互动/03-VR同步飞机杯产品厂家与价格带.md",
-    "11-选品产品情报站/VR互动/02-VR同步飞机杯用户画像与国家机会.md",
-    "11-选品产品情报站/VR互动",
-    "11-选品产品情报站/00-知识库MAP.md",
-    "15-AI自动化工兵营/羽毛球招生视频剪辑师版本风格分析与SOP-V3.md",
-    "15-AI自动化工兵营/ClaudeCode_银羽视频严格仿剪修复提示词_V3.md",
-    "15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5.md",
-    "15-AI自动化工兵营/ClaudeCode_双机双工具剪辑提示词_V5.md",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t0-i1-070105-0.log",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-cc78bd4b-5adf-47eb-a38f-88c697fb3f18-16421-t1-i1-045004-0.log",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_11_codex-desktop-8642a9eb-db10-4fde-a6f6-9c14aee01131-14440-t1-i1-070108-0.log",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652/Library_Logs_com.openai.codex_2026_05_18_codex-desktop-73923d86-66d8-4c2e-b393-111e1b68009d-10321-t1-i1-063830-0.log",
-    "16-知识库治理/Codex任务备份/raw/20260518_1652",
-    "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1652.txt",
-    "16-知识库治理/Codex任务备份/codex_candidate_paths_20260518_1651.txt",
-    "16-知识库治理/Codex任务备份/summaries"
+    "16-知识库治理/Facebook与LinkedIn投流知识库整理Phase2报告.md",
+    "99-Archive/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-再营销线索.md",
+    "99-Archive/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-Ads-再营销线索.md",
+    "99-Archive/投流知识库旧版归档/Facebook案例重复项",
+    "11-选品产品情报站/VR互动/VR互动飞机杯海关进出口数据与竞品独立站拆解-Obsidian文稿.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn Lead Gen链路.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项/案例-食品加工机械-LinkedIn-B2B询盘.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项/案例-食品加工机械-LinkedIn-Ads-B2B询盘.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-B2B设备经销商招募.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-食品工厂决策层触达.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-内容营销+广告组合.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn获客结构.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn投流策略-食品加工机械.md",
+    "99-Archive/投流知识库旧版归档/LinkedIn源文件",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/账户结构与出价策略.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/策略决策框架.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/核心指标与ROAS拆解.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/数据指标体系.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/投流知识体系总览.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/执行SOP.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/学习期与归因机制.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/复盘模板.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/受众定向与Pixel_CAPI配置.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/优化诊断SOP.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/Meta广告竞价与算法机制.md",
+    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件",
+    "99-Archive/投流知识库旧版归档/Facebook源文件",
+    "99-Archive/投流知识库旧版归档",
+    "03-海外投流/LinkedIn投流知识库",
+    "03-海外投流/Facebook投流知识库",
+    "18-个人学习与成长/06-网上课程整理/安先生视频课程系统整理.md.tmp",
+    "01-外贸市场情报站/VR互动"
   ]
 }

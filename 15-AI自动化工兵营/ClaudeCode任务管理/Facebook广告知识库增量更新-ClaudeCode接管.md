@@ -1,24 +1,44 @@
 ---
 title: Facebook广告知识库增量更新-ClaudeCode接管
-type: automation_task
-status: active_manual_or_claude_managed
-owner: Claude Code
-old_owner: OpenClaw
-source_task: Facebook广告知识库每3天增量更新
-frequency: every_3_days
-quality_level: A
-decision_value: 用于持续更新Facebook广告投放知识库，服务海外投流、Meta广告、跨境社媒获客决策
-related:
-  - "[[03-海外投流]]"
-  - "[[02-跨境社媒获客]]"
-  - "[[15-AI自动化工兵营]]"
-  - "[[16-知识库治理]]"
+aliases:
+  - FB知识库ClaudeCode接管
+  - Facebook广告自动更新任务迁移
+  - OpenClaw转ClaudeCode
+  - 知识库增量更新任务
 tags:
-  - AI自动化
-  - ClaudeCode
-  - Facebook广告
-  - MetaAds
+  - #AI提示词
+  - #ClaudeCode
+  - #Facebook广告
+  - #自动化
   - 知识库增量更新
+  - MetaAds
+  - AI自动化
+type: prompt
+status: active
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本任务记录Facebook广告知识库增量更新从OpenClaw cron迁移到Claude Code管理的过程。原任务每3天自动执行，现在改为Claude Code管理，避免后台任务混乱，同时保留可恢复能力。包含原OpenClaw任务信息、迁移原因、Claude Code执行频率和步骤。
+summary_en: "This task documents the migration of Facebook Ads knowledge base incremental update from OpenClaw cron to Claude Code management, including original task details, migration rationale, and new execution plan."
+related:
+  - "[[15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5]]"
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V4_三版本批量出片版]]"
+  - "[[00-总指挥部/AI总路由系统]]"
+retrieval_keywords:
+  - OpenClaw迁移
+  - Claude Code接管
+  - 知识库自动更新
+  - cron任务管理
+  - Facebook广告
+  - 增量更新
+  - 任务备份
+  - Git回滚
+  - 自动化治理
+decision_value: 用于持续更新Facebook广告投放知识库，服务海外投流、Meta广告、跨境社媒获客决策，同时规范自动化任务管理。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 视频剪辑
+source: user
 ---
 
 # Facebook广告知识库增量更新-ClaudeCode接管

@@ -1,4 +1,43 @@
-# Claude Code 双机双工具剪辑提示词 V5
+---
+title: ClaudeCode 双机双工具剪辑提示词 V5
+aliases:
+  - 双机双工具剪辑提示词
+  - iMac CapCut Mac mini ffmpeg 提示词
+  - 视频剪辑ClaudeCode提示词V5
+  - 双机并行剪辑Prompt
+tags:
+  - #AI提示词
+  - #ClaudeCode
+  - #视频剪辑
+  - #自动化
+type: prompt
+status: active
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本提示词用于 Claude Code 建立"iMac CapCut完整剪辑 + Mac mini Claude Code/ffmpeg批量初稿"的双机双工具视频剪辑系统。核心分工是iMac负责最终剪辑（CapCut/剪映英文版完整剪辑、字幕样式、特效、转场、音乐、封面、最终修整和导出），Mac mini负责批量初稿（素材拆解、音画检查、字幕识别、ABCD初稿批量导出）。包含硬性规则（禁止拉慢视频匹配音频、禁止口播画面套其他音频等）和Mac mini执行内容清单。
+summary_en: "This prompt establishes a dual-machine video editing system for Claude Code: iMac handles CapCut final editing, Mac mini handles ffmpeg preprocessing and ABCD rough cuts."
+related:
+  - "[[15-AI自动化工兵营/双机双工具短视频剪辑SOP-V5]]"
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V4_三版本批量出片版]]"
+  - "[[00-总指挥部/AI总路由系统]]"
+retrieval_keywords:
+  - Claude Code提示词
+  - 双机双工具
+  - iMac CapCut
+  - Mac mini ffmpeg
+  - 批量初稿
+  - ABCD测试
+  - 音画检查
+  - Whisper字幕
+  - 口型同步
+  - 剪辑分工
+decision_value: 为双机双工具剪辑系统提供可直接复制给Claude Code执行的完整提示词，规范iMac和Mac mini的分工与规则。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 视频剪辑
+source: user
+---
 
 ## 复制给 iMac 主控 Claude Code
 

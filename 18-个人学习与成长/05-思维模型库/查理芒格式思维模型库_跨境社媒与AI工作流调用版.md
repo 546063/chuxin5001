@@ -1,7 +1,7 @@
 ---
 title: 查理芒格式思维模型库｜跨境社媒与AI工作流调用版
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-21
 type: model-library
 source_scope: web-research
 status: new-standalone-note
@@ -19,16 +19,20 @@ tags:
   - AI工作流
   - Obsidian模型库
 related:
-  - "[[15-AI工作流与自动化]]"
-  - "[[01-外贸认知与全球市场]]"
-  - "[[02-跨境社媒获客]]"
-  - "[[03-海外投流]]"
-  - "[[05-客户开发与成交]]"
-  - "[[10-食品加工机械作战体系]]"
-  - "[[16-知识库治理]]"
+  - "[[14-AI工具自动化MOC]]"
+  - "[[01-目录总览MOC]]"
+  - "[[02-目录总览MOC]]"
+  - "[[03-目录总览MOC]]"
+  - "[[05-目录总览MOC]]"
+  - "[[10-食品机械作战MOC]]"
+  - "[[16-目录总览MOC]]"
 summary_cn: "这是一份单独新建的查理芒格式思维模型库，不合并之前PDF模型文稿。它把芒格强调的多模型格栅、误判心理学、经济学、概率、商业护城河、系统工程等模型，转成适合跨境社媒、食品机械外贸获客、客户成交、投流复盘、AI工作流和Obsidian治理的可调用模型卡。"
 summary_en: "A standalone Obsidian library of Charlie Munger-style mental models, mapped to cross-border social media, B2B food machinery lead generation, ads, client conversion, AI workflows, and knowledge-base governance."
 quality_level: A
+source: web-research
+routing_target:
+  - AI工作流
+  - 知识库治理
 decision_value: "用于重大业务决策、客户开发、投流复盘、工厂筛选、知识库治理时，快速调用3-5个模型组合，避免单一视角误判。"
 retrieval_keywords:
   - 查理芒格

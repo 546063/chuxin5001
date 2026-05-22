@@ -1,21 +1,24 @@
 ---
 title: AI模型路由系统
-type: master_routing
-status: active
-date: 2026-05-17
-tags:
-  - AI路由
+aliases:
   - 模型路由
-  - 工具选择
-  - 执行器
-routing_target:
-  - "[[00-总指挥部/AI总路由系统]]"
-  - "[[14-AI工具自动化MOC]]"
+  - Model Routing System
+  - AI模型选择
+  - 执行器路由
+tags:
+  - #AI路由
+  - #知识库治理
+  - #入口文档
+type: moc
+status: active
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 本系统定义不同任务如何选择模型、工具和执行机器，避免所有任务都用同一个模型或同一个工具。按任务类型选模型，按风险等级选执行器，按写入范围选机器。包含检索与模型联动规则、模型选择原则（普通检索优先Qwen3.6-plus/Claude Code、只读扫描优先OpenClaw/Mac mini Worker、高风险判断交给ChatGPT/Codex/高级模型）。
+summary_en: "This system defines how different tasks select models, tools, and execution machines by routing based on task type, risk level, and write scope."
 related:
-  - "[[00-总指挥部/AI总路由系统]]"
-  - "[[00-总指挥部/03-MOC/14-AI工具自动化MOC]]"
-  - [[01-全库工作总览MOC]]
-  - [[02-AI读取入口MOC]]
+  - "[[01-全库工作总览MOC]]"
+  - "[[02-AI读取入口MOC]]"
+  - "[[AI知识库路由系统]]"
 retrieval_keywords:
   - AI模型路由
   - 模型选择
@@ -23,6 +26,16 @@ retrieval_keywords:
   - 执行器
   - Claude Code
   - OpenClaw
+  - 模型切换
+  - 任务类型
+  - 风险等级
+  - 性价比
+decision_value: 帮助AI按任务类型、风险等级和写入范围选择正确的模型和执行器，避免过度调用高成本模型。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 知识库治理
+source: user
 ---
 
 # AI模型路由系统

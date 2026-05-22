@@ -1,0 +1,72 @@
+{
+  "router_name": "linkedin_leads_router",
+  "version": "2026-05-22",
+  "priority": "P1",
+  "description": "Route questions about LinkedIn B2B lead generation, content marketing, outreach, and basic ads. Lightweight framework.",
+  "trigger_keywords": [
+    "LinkedIn获客",
+    "领英获客",
+    "LinkedIn B2B",
+    "LinkedIn内容",
+    "LinkedIn广告",
+    "LinkedIn私信",
+    "LinkedIn加好友",
+    "LinkedIn客户开发"
+  ],
+  "entry_notes": [
+    "03-海外投流/LinkedIn获客知识库/00-LinkedIn获客路由入口.md"
+  ],
+  "routes": {
+    "linkedin_b2b_content": {
+      "description": "LinkedIn B2B 内容获客",
+      "keywords": [
+        "LinkedIn获客",
+        "LinkedIn内容",
+        "B2B领英",
+        "LinkedIn发什么"
+      ],
+      "preferred_notes": [
+        "03-海外投流/LinkedIn获客知识库/00-LinkedIn获客路由入口.md",
+        "03-海外投流/LinkedIn获客知识库/01-LinkedIn B2B内容获客SOP.md"
+      ]
+    },
+    "linkedin_outreach": {
+      "description": "LinkedIn DM话术和私信开发SOP",
+      "keywords": [
+        "LinkedIn DM话术",
+        "LinkedIn私信",
+        "LinkedIn开发话术"
+      ],
+      "preferred_notes": [
+        "03-海外投流/LinkedIn获客知识库/04-LinkedIn DM话术库.md",
+        "03-海外投流/LinkedIn获客知识库/02-LinkedIn食品机械客户开发SOP.md"
+      ]
+    },
+    "linkedin_ads": {
+      "description": "LinkedIn 广告基础",
+      "keywords": [
+        "LinkedIn广告",
+        "Sponsored Content",
+        "LinkedIn Lead Gen",
+        "LinkedIn投流"
+      ],
+      "preferred_notes": [
+        "03-海外投流/LinkedIn获客知识库/03-LinkedIn广告基础结构SOP.md",
+        "03-海外投流/LinkedIn投流知识库/02-LinkedIn广告账户与Campaign Manager配置.md"
+      ]
+    },
+    "linkedin_strategy": {
+      "description": "LinkedIn B2B获客总策略和开发SOP",
+      "keywords": [
+        "LinkedIn获客",
+        "LinkedIn开发客户",
+        "LinkedIn B2B",
+        "LinkedIn内容营销"
+      ],
+      "preferred_notes": [
+        "03-海外投流/LinkedIn获客知识库/00-LinkedIn获客路由入口.md",
+        "03-海外投流/LinkedIn获客知识库/01-LinkedIn B2B内容获客SOP.md"
+      ]
+    }
+  }
+}

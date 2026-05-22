@@ -4,23 +4,27 @@ aliases:
   - 银羽视频剪辑师参考风格SOP
   - 羽毛球招生视频标准剪辑规范V3
   - 口型字幕同步剪辑SOP V3
-type: SOP
-project: 银羽国际俱乐部
-status: active
-quality_level: S
+  - 剪辑师版本分析SOP
 tags:
+  - #AI视频剪辑
+  - #SOP
+  - #银羽招生
   - 视频剪辑
   - 羽毛球招生
   - 短视频风格规范
   - 字幕规范
   - 口型同步
   - ClaudeCode
+type: sop
+status: active
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本文基于 256_raw、258_raw、408_raw、416_raw 四个剪辑师正确版本，总结银羽招生视频的剪辑风格、字幕位置、字幕形式、口型同步、镜头切换、B-roll 插入、结尾截断、导出标准，并形成 Claude Code 可执行的修复 SOP。核心要求是口播必须使用原始同期声、字幕强制全程存在、逐字稿讲完即结束、不保留空尾。
+summary_en: "This SOP extracts the style system from four editor-approved badminton recruitment videos and converts it into an executable standard for fixing AI-edited versions. It emphasizes lip-sync, subtitle sync, B-roll logic, transitions, and ending immediately after the transcript finishes."
 related:
-  - [[15-AI工作流与自动化]]
-  - [[04-内容素材与创意]]
-  - [[银羽国际俱乐部]]
-summary_cn: 本文基于 256_raw、258_raw、408_raw、416_raw 四个剪辑师正确版本，总结银羽招生视频的剪辑风格、字幕位置、字幕形式、口型同步、镜头切换、B-roll 插入、结尾截断、导出标准，并形成 Claude Code 可执行的修复 SOP。核心要求是：600/601 错误版必须严格按照剪辑师版本重做，字幕强制全程存在，口播必须原始音画绑定，逐字稿讲完即结束，不保留空尾。
-summary_en: This SOP extracts the style system from four editor-approved badminton recruitment videos and converts it into an executable standard for fixing AI-edited versions 600/601. It emphasizes lip-sync, subtitle sync, subtitle style, B-roll logic, transitions, and ending immediately after the transcript finishes.
+  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
+  - "[[06-内容素材创意MOC]]"
+  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
 retrieval_keywords:
   - 银羽招生视频
   - 剪辑师版本
@@ -29,7 +33,15 @@ retrieval_keywords:
   - B-roll切换
   - 视频结尾空白
   - Claude Code 视频修复
+  - 原始同期声
+  - 字幕样式
+  - 逐字稿截断
 decision_value: 用作以后所有银羽招生视频剪辑、复剪、AI 修复、Claude Code 执行的标准参考文档。
+quality_level: A
+routing_target:
+  - 视频剪辑
+  - AI工作流
+source: user
 ---
 
 # 羽毛球招生视频剪辑师版本风格分析与 SOP V3

@@ -1,34 +1,43 @@
 ---
 title: 鱼缸异常处理SOP
-type: sop
-status: draft
-date: 2026-05-17
+aliases:
+  - 鱼缸应急处理
+  - 水质异常处理
+  - 鱼病处理SOP
+  - Aquarium Emergency SOP
 tags:
-  - 鱼缸
+  - #AI水族系统
+  - #鱼缸管理
   - SOP
   - 异常处理
   - 应急
-routing_target:
-  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+  - 水质管理
+type: sop
+status: draft
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 鱼缸异常情况的紧急处理流程，包括水质突变（水变浑、变绿、变黄）、死鱼处理、设备故障（过滤器、加热棒、水泵）等场景的处理方法。提供分类处理指南和判断标准，帮助快速定位和解决鱼缸异常问题。
+summary_en: "Emergency procedures for aquarium anomalies including water quality issues, fish death, and equipment failure with categorized handling guides."
+related:
   - "[[19-个人生活与兴趣项目/鱼缸项目MOC]]"
-model_route:
-  - "claude-code"
-  - "chatgpt"
-project_route:
-  - "fish_tank"
-category: "个人生活与兴趣项目"
-scenario:
-  - "鱼缸异常"
-  - "应急处理"
+  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+  - "[[19-个人生活与兴趣项目/鱼缸异常处理SOP]]"
 retrieval_keywords:
   - 鱼缸异常处理
   - 水质紧急处理
   - 鱼病处理
   - 设备故障
   - 应急SOP
-related:
-  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[19-个人生活与兴趣项目/01-AI水族系统/Knowledge/鱼病百科]]"
+  - 硝化系统
+  - 水质突变
+  - 水变浑
+  - 加热棒故障
+  - 过滤器故障
+decision_value: 遇到鱼缸异常时可快速查阅处理方案，避免因慌乱操作导致更严重的生态问题。
+quality_level: B
+routing_target:
+  - 生活项目
+source: user
 ---
 
 # 鱼缸异常处理SOP

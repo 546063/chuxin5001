@@ -1,29 +1,46 @@
 ---
 title: AI总路由系统
-type: master_routing
-status: active
-date: 2026-05-17
+aliases:
+  - AI总路由
+  - AI Routing System
+  - 知识库总路由
+  - AI任务分发系统
 tags:
-  - AI路由
-  - 知识库治理
-  - 入口文档
-routing_target:
-  - "[[00-总指挥部/AI知识库路由系统]]"
-  - "[[00-总指挥部/AI模型路由系统]]"
-  - "[[00-总指挥部/03-MOC/01-全库工作总览MOC]]"
+  - #AI路由
+  - #知识库治理
+  - #入口文档
+type: moc
+status: active
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 本系统统一管理知识库路由、模型路由和项目专项路由。AI收到问题时，应先判断问题类型，再进入对应工作类型MOC、项目MOC、模型执行器，而不是全库乱搜。路由总原则包括：先判断任务类型、再判断业务领域、再判断是否需要工具执行、再判断使用哪个模型/执行器、再进入对应MOC和主文稿。
+summary_en: "The unified routing system for knowledge retrieval, model selection, and project-specific workflows. AI agents classify questions first, then route to appropriate MOCs, project MOCs, or model executors."
 related:
-  - "[[00-总指挥部/03-MOC/01-全库工作总览MOC]]"
-  - "[[00-总指挥部/03-MOC/02-AI读取入口MOC]]"
-  - "[[15-AI自动化工兵营/AI知识库路由系统]]"
+  - "[[01-全库工作总览MOC]]"
+  - "[[02-AI读取入口MOC]]"
+  - "[[AI知识库路由系统]]"
   - [[AI知识库路由系统]]
   - [[AI模型路由系统]]
   - [[鱼缸项目路由]]
+routing_target:
+  - AI工作流
+  - 知识库治理
 retrieval_keywords:
   - AI总路由
   - 知识库路由
   - 模型路由
   - 项目路由
   - 任务分发
+  - MOC导航
+  - 问题分类
+  - AI工作流
+  - 知识库治理
+  - 入口文档
+  - Claude Code
+  - 检索优先级
+decision_value: 作为AI知识库检索的第一入口，定义所有问题的分流规则，避免全库乱搜和token浪费。
+quality_level: A
+source: user
 ---
 
 # AI总路由系统

@@ -5,13 +5,16 @@ aliases:
   - "知识库路由配置"
   - "模型路由配置"
 tags:
+  - #AI路由
+  - #知识库治理
+  - #入口文档
   - "AI检索"
   - "路由配置"
   - "模型路由"
   - "Obsidian治理"
 topic: "AI检索、知识库路由、模型路由和项目专项路由配置"
 created: "2026-05-17"
-updated: "2026-05-17"
+updated: 2026-05-21
 type: "tool_config"
 status: "active"
 quality_level: "S"
@@ -53,7 +56,7 @@ related:
   - "[[AI总路由系统]]"
   - "[[AI知识库路由系统]]"
   - "[[AI模型路由系统]]"
-  - "[[鱼缸项目路由（待创建）]]"
+  - "[[鱼缸项目路由]]"
 retrieval_keywords:
   - "AI检索路由配置"
   - "知识库MOC路由表"
@@ -74,6 +77,7 @@ model_route:
   - "openclaw"
 project_route:
   - "knowledge_governance"
+source: user
 ---
 
 # AI检索路由配置

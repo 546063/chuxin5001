@@ -1,27 +1,42 @@
 ---
 title: AI知识库路由系统
-type: master_routing
-status: active
-date: 2026-05-17
+aliases:
+  - 知识库路由
+  - Knowledge Base Routing
+  - 问题分类路由
+  - MOC调用优先级
 tags:
-  - AI路由
-  - 知识库治理
-  - 入口文档
-routing_target:
-  - "[[00-总指挥部/AI总路由系统]]"
-  - "[[00-总指挥部/03-MOC/01-全库工作总览MOC]]"
-  - "[[00-总指挥部/03-MOC/02-AI读取入口MOC]]"
+  - #AI路由
+  - #知识库治理
+  - #入口文档
+type: moc
+status: active
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 本系统定义18个工作类型MOC的调用优先级、问题分类路由规则、routing_target字段使用规范。AI收到问题时，应先判断问题类型，再进入对应MOC，而不是全库乱搜。包含从S级到C级的MOC调用优先级表，覆盖外贸市场情报、跨境社媒获客、广告投流增长、内容素材创意、客户开发成交等全部工作领域。
+summary_en: "This system defines call priorities for 18 working-type MOCs, question classification routing rules, and routing_target field usage specifications for AI knowledge base navigation."
 related:
-  - "[[00-总指挥部/AI总路由系统]]"
-  - "[[00-总指挥部/03-MOC/01-全库工作总览MOC]]"
-  - "[[00-总指挥部/03-MOC/02-AI读取入口MOC]]"
-  - [[02-AI读取入口MOC]]
+  - "[[01-全库工作总览MOC]]"
+  - "[[02-AI读取入口MOC]]"
+  - "[[AI知识库路由系统]]"
 retrieval_keywords:
   - AI知识库路由
   - 问题分类
   - MOC导航
   - routing_target
   - 检索优先级
+  - 18个工作类型
+  - 知识库治理
+  - AI检索
+  - 任务分流
+  - 工作领域分类
+  - 调用优先级
+decision_value: 定义18个MOC的调用优先级和问题分类规则，是AI检索时决定先查哪里的核心路由文件。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 知识库治理
+source: user
 ---
 
 # AI知识库路由系统

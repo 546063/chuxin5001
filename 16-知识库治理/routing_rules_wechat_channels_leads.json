@@ -1,0 +1,104 @@
+{
+  "router_name": "wechat_channels_leads_router",
+  "version": "2026-05-22",
+  "priority": "P0",
+  "description": "Route questions about WeChat Channels (视频号) organic lead generation, private domain conversion, and B2B content strategy.",
+  "trigger_keywords": [
+    "视频号获客",
+    "微信视频号",
+    "视频号自然流量",
+    "视频号B2B",
+    "视频号发作品",
+    "视频号私域",
+    "视频号直播",
+    "国内视频号",
+    "视频号内容"
+  ],
+  "entry_notes": [
+    "02-跨境社媒获客/国内视频号获客/00-国内视频号自然获客路由入口.md"
+  ],
+  "routes": {
+    "wechat_channels_leads": {
+      "description": "视频号自然获客总入口",
+      "keywords": [
+        "视频号获客",
+        "视频号自然流量",
+        "微信视频号",
+        "视频号B2B"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/国内视频号获客/00-国内视频号自然获客路由入口.md",
+        "02-跨境社媒获客/国内视频号获客/01-视频号自然流量获客SOP.md"
+      ]
+    },
+    "wechat_channels_organic": {
+      "description": "视频号内容策略",
+      "keywords": [
+        "视频号拍什么",
+        "视频号内容",
+        "视频号选题"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/国内视频号获客/02-视频号B2B获客内容选题库.md",
+        "02-跨境社媒获客/国内视频号获客/01-视频号自然流量获客SOP.md"
+      ]
+    },
+    "private_domain_conversion": {
+      "description": "视频号私域承接与企微转化SOP",
+      "keywords": [
+        "视频号转私域",
+        "视频号转企微",
+        "视频号私域"
+      ],
+      "preferred_notes": [
+        "03-海外投流/国内视频号自然获客知识库/04-视频号私域承接与企微转化SOP.md"
+      ]
+    },
+    "organic_video_strategy": {
+      "description": "视频号自然流量获客策略和可行性分析",
+      "keywords": [
+        "视频号获客",
+        "视频号B2B",
+        "视频号自然流量",
+        "视频号适合B2B吗"
+      ],
+      "preferred_notes": [
+        "03-海外投流/国内视频号自然获客知识库/01-视频号自然获客平台规则总览.md",
+        "03-海外投流/国内视频号自然获客知识库/02-视频号B2B获客可行性分析.md"
+      ]
+    },
+    "wechat_channels": {
+      "description": "视频号获客总入口",
+      "keywords": [
+        "视频号",
+        "微信视频号",
+        "视频号运营"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/国内视频号获客/00-国内视频号自然获客路由入口.md",
+        "03-海外投流/国内视频号自然获客知识库/01-视频号自然获客平台规则总览.md"
+      ]
+    },
+    "review_metrics": {
+      "description": "视频号自然获客复盘指标体系",
+      "keywords": [
+        "视频号复盘",
+        "视频号数据指标"
+      ],
+      "preferred_notes": [
+        "03-海外投流/国内视频号自然获客知识库/06-视频号自然获客复盘指标体系.md"
+      ]
+    },
+    "content_topics": {
+      "description": "视频号B2B获客内容选题库",
+      "keywords": [
+        "视频号B2B选题",
+        "视频号内容选题",
+        "视频号发什么内容"
+      ],
+      "preferred_notes": [
+        "03-海外投流/国内视频号自然获客知识库/03-视频号B2B获客内容选题库.md"
+      ]
+    }
+  }
+}

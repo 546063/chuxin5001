@@ -1,0 +1,193 @@
+{
+  "router_name": "unified_ads_and_video_routing_master",
+  "version": "2026-05-22-v2",
+  "description": "统一投流与视频获客路由主索引，聚合所有平台独立路由文件。AI 先按平台关键词匹配到子路由，再进入子路由获取具体 routing_target。",
+  "platforms": {
+    "facebook_meta": {
+      "router_file": "routing_rules_facebook_ads.json",
+      "router_name": "facebook_ads_router",
+      "trigger_keywords": [
+        "Facebook投流", "Facebook广告", "Meta广告", "Meta Ads", "Facebook Ads",
+        "Messenger获客", "WhatsApp获客", "Click to WhatsApp", "留资广告",
+        "Lead Ads", "B2B广告", "食品机械广告", "切菜机广告", "切肉机广告",
+        "阿拉伯语广告", "中东广告", "竞品广告素材"
+      ],
+      "entry_point": "03-海外投流/Facebook投流知识库/10-Facebook投流路由入口.md",
+      "total_routes": 14,
+      "status": "active"
+    },
+    "douyin_ocean_engine": {
+      "router_file": "routing_rules_douyin_juliang_ads.json",
+      "router_name": "douyin_juliang_ads_router",
+      "trigger_keywords": [
+        "巨量引擎", "本地推", "抖音投流", "抖音广告", "AD广告",
+        "线索广告", "表单广告", "私信转化", "本地生活", "门店获客",
+        "投流案例", "广告素材", "投流复盘", "冷启动", "放量",
+        "客户诊断", "投流方案"
+      ],
+      "entry_point": "14-国内投流/巨量引擎与本地推/巨量引擎AD广告投流路由入口.md",
+      "total_routes": 37,
+      "status": "active"
+    },
+    "tiktok_paid": {
+      "router_file": "routing_rules_tiktok_ads.json",
+      "router_name": "tiktok_ads_router",
+      "trigger_keywords": [
+        "TikTok投流", "TikTok Ads", "TikTok广告", "TikTok线索",
+        "TikTok Lead Gen", "TikTok素材", "TikTok复盘", "Spark Ads",
+        "TikTok B2B", "食品机械TikTok"
+      ],
+      "entry_point": "03-海外投流/TikTok投流知识库/10-TikTok投流路由入口.md",
+      "total_routes": 4,
+      "status": "active"
+    },
+    "tiktok_organic": {
+      "router_file": "routing_rules_tiktok_ads.json",
+      "router_name": "tiktok_ads_router",
+      "trigger_keywords": [
+        "TikTok自然流量", "TikTok自然流", "TikTok免费获客", "TikTok发视频"
+      ],
+      "entry_point": "02-跨境社媒获客/海外视频自然获客/00-海外视频自然获客路由入口.md",
+      "total_routes": "via overseas_video_router",
+      "status": "active"
+    },
+    "overseas_video_organic": {
+      "router_file": "routing_rules_overseas_video_leads.json",
+      "router_name": "overseas_video_organic_router",
+      "trigger_keywords": [
+        "海外视频获客", "自然流量获客", "免费流量获客",
+        "YouTube Shorts", "Instagram Reels", "Facebook Reels",
+        "B2B视频获客", "工厂视频", "设备视频", "海外短视频"
+      ],
+      "entry_point": "02-跨境社媒获客/海外视频自然获客/00-海外视频自然获客路由入口.md",
+      "total_routes": 7,
+      "status": "active"
+    },
+    "linkedin": {
+      "router_file": "routing_rules_linkedin_leads.json",
+      "router_name": "linkedin_leads_router",
+      "trigger_keywords": [
+        "LinkedIn获客", "领英获客", "LinkedIn广告", "Sponsored Content",
+        "InMail广告", "B2B LinkedIn", "LinkedIn内容", "LinkedIn私信"
+      ],
+      "entry_point": "03-海外投流/LinkedIn获客知识库/00-LinkedIn获客路由入口.md",
+      "total_routes": 3,
+      "status": "active"
+    },
+    "wechat_channels": {
+      "router_file": "routing_rules_wechat_channels_leads.json",
+      "router_name": "wechat_channels_leads_router",
+      "trigger_keywords": [
+        "视频号获客", "微信视频号", "视频号自然流量", "视频号B2B",
+        "视频号私域", "视频号发作品"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/00-国内视频号自然获客路由入口.md",
+      "total_routes": 3,
+      "status": "active"
+    },
+    "simulated_test_plans": {
+      "router_file": "N/A - 直接指向方案文档",
+      "router_name": "simulated_test_plans_router",
+      "trigger_keywords": [
+        "模拟测试方案", "投放测试计划", "投流前测试", "cold start plan",
+        "投放前怎么测试", "先测哪个渠道", "测试预算", "模拟方案",
+        "Facebook测试方案", "TikTok测试方案", "巨量引擎测试",
+        "LinkedIn测试", "视频号测试方案", "YouTube测试"
+      ],
+      "entry_point": "03-海外投流/公开投流案例拆解库.md",
+      "total_routes": 7,
+      "status": "active",
+      "plan_documents": [
+        "03-海外投流/投流前模拟测试方案库/01-Facebook Ads模拟测试方案.md",
+        "03-海外投流/投流前模拟测试方案库/02-TikTok Ads模拟测试方案.md",
+        "03-海外投流/投流前模拟测试方案库/03-TikTok自然流量模拟运营方案.md",
+        "03-海外投流/投流前模拟测试方案库/04-YouTube Shorts模拟运营方案.md",
+        "03-海外投流/投流前模拟测试方案库/05-视频号模拟运营方案.md",
+        "03-海外投流/投流前模拟测试方案库/06-巨量引擎模拟测试方案.md",
+        "03-海外投流/投流前模拟测试方案库/07-LinkedIn模拟获客方案.md"
+      ]
+    },
+    "evidence_layer": {
+      "router_file": "N/A - 直接指向证据层文档",
+      "router_name": "evidence_layer_router",
+      "trigger_keywords": [
+        "投流证据层", "真实投流案例", "实际投放数据", "投流数据记录",
+        "广告素材截图", "客户转化记录", "询盘跟进记录", "竞品广告截图",
+        "真实ROI", "真实CPM", "真实CTR", "真实CPL",
+        "投放效果怎么样", "实际转化数据", "投流复盘",
+        "evidence layer", "real ad data", "real cases"
+      ],
+      "entry_point": "00-索引与导航/投流证据层总入口.md",
+      "total_routes": 10,
+      "status": "active",
+      "evidence_documents": [
+        "03-海外投流/投流证据层/投流真实案例库.md",
+        "03-海外投流/投流证据层/投流真实数据记录表.md",
+        "03-海外投流/投流证据层/广告素材截图索引.md",
+        "03-海外投流/投流证据层/客户转化记录库.md",
+        "03-海外投流/投流证据层/询盘跟进记录库.md",
+        "03-海外投流/投流证据层/竞品广告素材截图索引.md",
+        "03-海外投流/投流证据层/投流证据层字段规范.md",
+        "03-海外投流/投流证据层/投流证据层录入SOP.md",
+        "03-海外投流/投流证据层/投流证据层脱敏规则.md",
+        "03-海外投流/投流证据层/投流证据层复盘模板.md"
+      ]
+    }
+  },
+  "routing_logic": "1. 提取用户问题中的平台关键词 -> 2. 匹配到对应平台子路由 -> 3. 加载子路由 JSON 文件 -> 4. 用问题内容匹配子路由中的具体 routing_target -> 5. 返回 preferred_notes 路径",
+  "cross_platform_queries": "如果问题涉及跨平台对比（如 Facebook vs LinkedIn），同时返回多个平台的 entry_point",
+  "total_routes_all_platforms": 99,
+  "total_json_files": 7,
+  "evidence_layer_routes": 10,
+  "simulated_plan_routes": 7,
+  "knowledge_base_supplement": {
+    "description": "以下目录为本次深度补充的知识库模块，每个模块包含多篇 SOP/对比/选题/方案文档",
+    "facebook_supplements": [
+      "03-海外投流/Facebook投流知识库/09-Facebook投流前准备清单.md",
+      "03-海外投流/Facebook投流知识库/10-Facebook从0开始投放测试计划.md",
+      "03-海外投流/Facebook投流知识库/25-Facebook中东市场广告打法研究.md",
+      "03-海外投流/Facebook投流知识库/26-Facebook B2B广告素材拆解库.md"
+    ],
+    "tiktok_supplements": [
+      "03-海外投流/TikTok投流知识库/06-TikTok Ads平台规则与广告产品总览.md",
+      "03-海外投流/TikTok投流知识库/07-TikTok投流前准备清单.md",
+      "03-海外投流/TikTok投流知识库/08-TikTok与Facebook投流差异对比.md"
+    ],
+    "overseas_video_organic_supplements": [
+      "03-海外投流/海外视频自然获客知识库/01-海外视频自然获客平台规则总览.md",
+      "03-海外投流/海外视频自然获客知识库/02-TikTok自然流量获客深度SOP.md",
+      "03-海外投流/海外视频自然获客知识库/03-YouTube Shorts自然流量获客深度SOP.md",
+      "03-海外投流/海外视频自然获客知识库/04-Instagram Reels自然流量获客深度SOP.md",
+      "03-海外投流/海外视频自然获客知识库/05-Facebook Reels自然流量获客深度SOP.md",
+      "03-海外投流/海外视频自然获客知识库/06-B2B设备海外短视频内容矩阵.md",
+      "03-海外投流/海外视频自然获客知识库/07-食品加工机械海外短视频选题库.md",
+      "03-海外投流/海外视频自然获客知识库/08-海外短视频私信承接与WhatsApp转化SOP.md",
+      "03-海外投流/海外视频自然获客知识库/09-海外视频自然获客前30天执行计划.md",
+      "03-海外投流/海外视频自然获客知识库/10-海外视频自然获客复盘指标体系.md"
+    ],
+    "wechat_channels_supplements": [
+      "03-海外投流/国内视频号自然获客知识库/01-视频号自然获客平台规则总览.md",
+      "03-海外投流/国内视频号自然获客知识库/02-视频号B2B获客可行性分析.md",
+      "03-海外投流/国内视频号自然获客知识库/03-视频号B2B获客内容选题库.md",
+      "03-海外投流/国内视频号自然获客知识库/04-视频号私域承接与企微转化SOP.md",
+      "03-海外投流/国内视频号自然获客知识库/05-视频号自然获客前30天执行计划.md",
+      "03-海外投流/国内视频号自然获客知识库/06-视频号自然获客复盘指标体系.md",
+      "03-海外投流/国内视频号自然获客知识库/07-视频号与抖音平台差异对比.md"
+    ],
+    "ocean_engine_supplements": [
+      "03-海外投流/巨量引擎本地推知识库/01-巨量引擎公开投流案例拆解.md",
+      "03-海外投流/巨量引擎本地推知识库/02-巨量引擎投流前准备清单.md",
+      "03-海外投流/巨量引擎本地推知识库/03-巨量引擎投流测试计划.md",
+      "03-海外投流/巨量引擎本地推知识库/04-巨量引擎预算规划与成本估算.md",
+      "03-海外投流/巨量引擎本地推知识库/05-巨量引擎模拟投放案例.md",
+      "03-海外投流/巨量引擎本地推知识库/06-巨量引擎B2B素材方向扩展.md"
+    ],
+    "linkedin_supplements": [
+      "03-海外投流/LinkedIn获客知识库/01-LinkedIn公开投流案例拆解.md",
+      "03-海外投流/LinkedIn获客知识库/02-LinkedIn食品机械客户开发SOP.md",
+      "03-海外投流/LinkedIn获客知识库/03-LinkedIn前30天执行计划.md",
+      "03-海外投流/LinkedIn获客知识库/04-LinkedIn DM话术库.md",
+      "03-海外投流/LinkedIn获客知识库/05-LinkedIn与Facebook投流差异对比.md"
+    ]
+  }
+}

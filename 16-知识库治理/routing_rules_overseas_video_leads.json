@@ -1,0 +1,182 @@
+{
+  "router_name": "overseas_video_organic_router",
+  "version": "2026-05-22",
+  "priority": "P0",
+  "description": "Route questions about overseas organic video lead generation via TikTok organic, YouTube Shorts, Instagram Reels, and Facebook Reels.",
+  "trigger_keywords": [
+    "海外视频获客",
+    "自然流量获客",
+    "免费流量获客",
+    "TikTok自然流量",
+    "TikTok自然流",
+    "TikTok发视频获客",
+    "YouTube Shorts",
+    "Instagram Reels",
+    "Facebook Reels",
+    "B2B视频获客",
+    "工厂视频",
+    "设备视频",
+    "私信转化",
+    "海外短视频",
+    "内容矩阵",
+    "短视频选题"
+  ],
+  "entry_notes": [
+    "02-跨境社媒获客/海外视频自然获客/00-海外视频自然获客路由入口.md"
+  ],
+  "routes": {
+    "organic_video_router": {
+      "description": "海外视频自然获客总入口",
+      "keywords": [
+        "海外视频获客",
+        "自然流量获客",
+        "免费流量",
+        "视频获客"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/00-海外视频自然获客路由入口.md"
+      ]
+    },
+    "tiktok_organic": {
+      "description": "TikTok 自然流量获客",
+      "keywords": [
+        "TikTok自然流量",
+        "TikTok自然流",
+        "TikTok发视频",
+        "TikTok免费获客",
+        "TikTok工厂号"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/01-TikTok自然流量获客SOP.md",
+        "02-跨境社媒获客/海外视频自然获客/06-B2B设备短视频选题库.md"
+      ]
+    },
+    "youtube_shorts": {
+      "description": "YouTube Shorts 获客",
+      "keywords": [
+        "YouTube Shorts",
+        "YouTube短视频",
+        "YouTube获客"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/02-YouTube Shorts获客SOP.md"
+      ]
+    },
+    "instagram_reels": {
+      "description": "Instagram Reels 获客",
+      "keywords": [
+        "Instagram Reels",
+        "IG Reels",
+        "Instagram获客"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/03-Instagram Reels获客SOP.md"
+      ]
+    },
+    "facebook_reels": {
+      "description": "Facebook Reels 获客",
+      "keywords": [
+        "Facebook Reels",
+        "FB Reels",
+        "Facebook短视频"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/04-Facebook Reels获客SOP.md"
+      ]
+    },
+    "dm_to_whatsapp": {
+      "description": "海外短视频私信转化",
+      "keywords": [
+        "私信转化",
+        "DM转化",
+        "私信怎么回",
+        "私信转WhatsApp"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/05-海外短视频私信转化SOP.md",
+        "03-海外投流/Facebook投流知识库/15-Facebook客服营销SOP.md"
+      ]
+    },
+    "content_topics": {
+      "description": "B2B设备短视频选题",
+      "keywords": [
+        "拍什么",
+        "选题库",
+        "视频方向",
+        "内容规划"
+      ],
+      "preferred_notes": [
+        "02-跨境社媒获客/海外视频自然获客/06-B2B设备短视频选题库.md"
+      ]
+    },
+    "organic_video_strategy": {
+      "description": "海外视频自然流量获客总策略",
+      "keywords": [
+        "海外视频获客",
+        "自然流量获客",
+        "短视频B2B获客",
+        "TikTok自然流量",
+        "YouTube Shorts",
+        "Instagram Reels"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/01-海外视频自然获客平台规则总览.md",
+        "03-海外投流/海外视频自然获客知识库/02-TikTok自然流量获客深度SOP.md"
+      ]
+    },
+    "whatsapp_conversion": {
+      "description": "海外短视频私信承接与WhatsApp转化SOP",
+      "keywords": [
+        "短视频WhatsApp转化",
+        "私信承接",
+        "短视频DM转化"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/08-海外短视频私信承接与WhatsApp转化SOP.md"
+      ]
+    },
+    "content_matrix": {
+      "description": "B2B设备海外短视频内容矩阵搭建",
+      "keywords": [
+        "B2B短视频内容矩阵",
+        "工厂短视频",
+        "设备视频"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/06-B2B设备海外短视频内容矩阵.md"
+      ]
+    },
+    "topic_library": {
+      "description": "食品加工机械海外短视频选题库",
+      "keywords": [
+        "食品机械短视频选题",
+        "机械加工视频",
+        "设备展示视频"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/07-食品加工机械海外短视频选题库.md"
+      ]
+    },
+    "review_metrics": {
+      "description": "海外视频自然获客复盘指标体系",
+      "keywords": [
+        "短视频获客复盘",
+        "视频数据指标",
+        "视频获客效果"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/10-海外视频自然获客复盘指标体系.md"
+      ]
+    },
+    "paid_ads_strategy": {
+      "description": "投流策略选择和跨平台对比",
+      "keywords": [
+        "投流策略",
+        "平台选择"
+      ],
+      "preferred_notes": [
+        "03-海外投流/海外视频自然获客知识库/09-海外视频自然获客前30天执行计划.md"
+      ]
+    }
+  }
+}

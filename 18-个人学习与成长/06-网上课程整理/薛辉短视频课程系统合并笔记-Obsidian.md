@@ -7,7 +7,7 @@ aliases:
 type: course-note
 source: 用户上传课程文档
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-21
 tags:
   - 内容素材与创意
   - 短视频脚本
@@ -28,6 +28,23 @@ related:
   - 跨境社媒获客内容框架
 summary_cn: 本文将薛辉短视频课程压缩为一篇 Obsidian 主文稿，保留原始课程文字，并提炼素材库、爆款选题、教知识脚本、观点脚本、故事脚本、晒过程脚本、拍摄呈现、剪辑、电商选品和直播间搭建等实操模型，重点连接到食品机械和跨境社媒内容生产。
 summary_en: Consolidated Obsidian note for Xue Hui's short-video course, preserving source notes and extracting practical models for topic selection, scripting, filming, editing, ecommerce selection, and live room structure.
+retrieval_keywords:
+  - 薛辉
+  - 素材库
+  - 爆款选题
+  - 八大爆款元素
+  - 教知识脚本
+  - 观点脚本
+  - 晒过程脚本
+  - 口播表现力
+  - 运镜
+  - 景别
+  - 构图
+  - 电商选品
+  - 直播间
+  - 短视频脚本
+  - 跨境社媒
+status: draft
 ---
 
 # 薛辉短视频课程系统合并笔记

@@ -21,11 +21,11 @@ aliases:
   - 成人用品出海合规清单
   - adult toy ecommerce compliance
 related:
-  - "[[VR互动飞机杯产品研究]]"
+  - "[[VR互动飞机杯外贸全景调研报告-Obsidian文稿]]"
   - "[[VR互动飞机杯外贸全景调研报告]]"
-  - "[[VR互动飞机杯海外社媒营销生态调研]]"
-  - "[[成人用品独立站SEO]]"
-  - "[[成人用品合规]]"
+  - "[[VR互动飞机杯海外社媒营销生态调研-Obsidian文稿]]"
+  - "[[03-外贸市场情报MOC]]"
+  - "[[11-选品产品研究MOC]]"
 summary_cn: 成人用品独立站出海的最大风险不是建站，而是支付、清关、平台政策、年龄验证、隐私与拒付风控。PayPal只允许美国境内部分实体性取向商品交易，不允许美国以外相关交易；Stripe明确禁止成人内容/服务，并在巴西、印度等司法辖区禁止 sex accessories / sex toys；Shopify Payments对成人内容类商品限制明显，不能用作成人用品独立站的唯一支付方案。更稳路线是成人友好支付商 + 明确MCC + 年龄门槛 + 隐私包装 + CE/FCC/RoHS等电子产品合规 + 低拒付运营。
 summary_en: Adult-product DTC stores face high payment, customs, platform, age-verification, privacy, and chargeback risks. This report summarizes payment options, country-specific compliance, product certification, logistics, chargeback controls, and a practical checklist for VR interactive adult-toy ecommerce.
 decision_value: 高。用于判断成人智能硬件独立站是否可做、支付方案怎么选、哪些国家要规避、如何降低封号/拒付/清关风险。
@@ -40,6 +40,12 @@ retrieval_keywords:
   - chargeback rate threshold
   - adult toy customs
   - discreet packaging
+created: 2026-05-20
+updated: 2026-05-21
+quality_level: B
+routing_target:
+  - 外贸市场情报
+source: web_research
 ---
 
 # 成人用品独立站出海支付与合规检查清单

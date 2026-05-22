@@ -1,37 +1,40 @@
 ---
 title: 鱼缸项目MOC
-type: moc
-status: active
-date: 2026-05-17
+aliases:
+  - 鱼缸项目总览
+  - Aquarium OS MOC
+  - 水族系统总览
+  - 鱼缸入口MOC
 tags:
-  - 鱼缸
-  - 水族
+  - #AI水族系统
+  - #鱼缸管理
   - MOC
   - 项目总览
-routing_target:
-  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[00-总指挥部/AI总路由系统]]"
-model_route:
-  - "claude-code"
-  - "chatgpt"
-project_route:
-  - "fish_tank"
-category: "个人生活与兴趣项目"
-scenario:
-  - "鱼缸维护"
-  - "水质监控"
-  - "异常处理"
-  - "设备管理"
+  - 水族
+type: moc
+status: draft
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 鱼缸项目（Aquarium OS）的总览入口，汇总所有鱼缸文稿的导航。AI处理鱼缸相关问题时应首先查看本MOC，再进入具体子文稿。包含目录结构、核心文稿索引和相关项目链接。
+summary_en: "Overview entry point for the Aquarium OS project, routing to all aquarium-related documents."
 related:
+  - "[[19-个人生活与兴趣项目/鱼缸项目MOC]]"
   - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[19-个人生活与兴趣项目/01-AI水族系统/README]]"
-  - "[[19-个人生活与兴趣项目/01-AI水族系统/Dashboard]]"
+  - "[[19-个人生活与兴趣项目/鱼缸异常处理SOP]]"
 retrieval_keywords:
   - 鱼缸项目MOC
   - 水族系统总览
   - 南美生态缸
   - 鱼缸入口
   - 水质管理
+  - 水族导航
+  - Aquarium OS
+  - 鱼缸文档
+decision_value: 作为鱼缸项目的入口MOC，帮助AI快速了解鱼缸项目的文稿结构和导航路径。
+quality_level: B
+routing_target:
+  - 生活项目
+source: user
 ---
 
 # 鱼缸项目MOC

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.obsidian.weekly-deep-supplement</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/weekly-deep-supplement.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>22</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+        <key>Weekday</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/投流知识库治理记录/weekly-supplement.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/mac/ai-workspaces/AI-Workspace-Obsidian/16-知识库治理/投流知识库治理记录/weekly-supplement-error.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

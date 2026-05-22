@@ -1,39 +1,41 @@
 ---
-title: "\"Dashboard\""
-topic: "\"个人生活与兴趣项目\""
-created: "\"2026-05-14\""
-updated: "2026-05-17"
-type: "\"dashboard\""
-status: "\"active\""
-quality_level: "\"S\""
-summary_cn: "\"```dataview TABLE WITHOUT ID   file.link as \\"鱼缸\\",   health_score as \\"健康评分\\",   ecosystem_stability as \\"生态稳定度\\",   risk_level as \\"风险等级\\",   status as \\"状态\\",   focus_target as \\"重点关注\\" FROM \\"01-AI水族系统/Tanks\\" 相关文档\""
-summary_en: "\"Document regarding Dashboard. Reference for business and personal development.\""
-one_sentence_summary: "\"#  Aquarium OS 总控中心  > 南美生态 AI 水族操作系统 — 长期生态观察与风险预警  ---  ##...\""
-decision_value: "\"AI水族系统总控中心，聚合鱼缸状态、巡检记录、风险提醒、待办事项。是日常水族维护的主入口，用于快速了解全系统状态。\""
-review_note: "\"AI水族系统总控中心，聚合鱼缸状态、巡检记录、风险提醒\""
-category: "\"个人生活与兴趣项目\""
-platform: "[]"
-industry: "[]"
-scenario: "[]"
-source_files: "[]"
-merged_from: "[]"
-old_versions: "[]"
-archived_reason: "[]"
-relations: "[]"
+title: Dashboard
+aliases:
+  - 水族系统总控中心
+  - Aquarium OS Dashboard
+  - 鱼缸状态总览
+  - 水族仪表盘
+tags:
+  - #AI水族系统
+  - #鱼缸管理
+  - Dashboard
+  - 总控中心
+  - 状态监控
+type: note
+status: draft
+created: 2026-05-14
+updated: 2026-05-21
+summary_cn: Aquarium OS 总控中心，聚合鱼缸状态、巡检记录、风险提醒、待办事项。是日常水族维护的主入口，用于快速了解全系统状态。通过Dataview查询展示各鱼缸的健康评分、生态稳定度、风险等级和重点关注项。
+summary_en: "Aquarium OS dashboard aggregating tank status, inspection records, risk alerts, and todos as the main entry point for daily aquarium maintenance."
 related:
-  - [[01-全库工作总览MOC]]
+  - "[[19-个人生活与兴趣项目/鱼缸项目MOC]]"
+  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+  - "[[19-个人生活与兴趣项目/鱼缸异常处理SOP]]"
 retrieval_keywords:
-  - 水族系统维护
-  - 热带鱼水族箱管理
-  - AI水族巡检分析
-  - 观赏鱼养殖经验
-  - 水族箱过滤系统
+  - 水族系统总控
+  - 鱼缸Dashboard
+  - 健康评分
+  - 生态稳定度
+  - 风险等级
+  - 巡检记录
+  - Dataview查询
+  - 水族仪表盘
+  - 状态监控
+decision_value: 作为AI水族系统的日常主入口，快速了解全系统状态和风险提醒。
+quality_level: B
 routing_target:
-  - "[[鱼缸项目路由]]"
-  - "[[鱼缸项目MOC]]"
-project_route:
-  - "fish_tank"
-
+  - 生活项目
+source: user
 ---
 
 #  Aquarium OS 总控中心

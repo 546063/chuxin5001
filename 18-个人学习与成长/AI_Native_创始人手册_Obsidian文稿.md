@@ -1,5 +1,49 @@
 
 
+---
+title: AI Native 创始人手册｜中文精读版
+aliases:
+  - The Founder's Playbook
+  - AI Native Startup
+  - AI原生创业
+  - AI创始人手册
+tags:
+  - "#课程笔记"
+  - "#AI工作流"
+  - "#创业指南"
+  - "#一人公司"
+type: note
+status: draft
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本文精读 The Founder's Playbook: Building an AI-Native Startup，把AI原生创业理念转化为一人公司、跨境社媒、食品机械外贸获客、AI工作流和知识库治理的可执行框架。核心不是把AI接进旧流程，而是从第一天开始就把产品、运营、销售、内容、客户支持、内部协作和知识管理都重新设计成AI可参与、可放大、可自动化的系统。
+summary_en: A Chinese close-reading of The Founder's Playbook, translating AI-native startup principles into actionable frameworks for one-person companies, cross-border social media, food machinery B2B marketing, AI workflows, and knowledge governance.
+related:
+  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
+  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
+  - "[[16-学习成长蒸馏MOC]]"
+  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
+retrieval_keywords:
+  - AI Native
+  - AI原生创业
+  - Founder's Playbook
+  - AI工作流
+  - 自动化系统
+  - 一人公司
+  - 跨境社媒
+  - 食品机械
+  - AI内容生产
+  - AI客户支持
+  - 知识管理
+  - 多Agent协作
+decision_value: 用于判断哪些业务环节可以AI化、如何设计AI参与的工作流、一人公司如何用AI放大产能、跨境社媒如何用AI批量生产内容和自动化获客。
+quality_level: B
+routing_target:
+  - AI工作流
+  - 客户沟通
+source: media
+---
+
 # AI Native 创始人手册｜中文精读版
 
 > 原文：The Founder’s Playbook: Building an AI-Native Startup  

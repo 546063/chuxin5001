@@ -5,13 +5,16 @@ aliases:
   - "AI检索协议"
   - "知识库检索执行协议"
 tags:
+  - #AI路由
+  - #知识库治理
+  - #入口文档
   - "AI检索"
   - "知识库路由"
   - "Obsidian治理"
   - "RAG"
 topic: "AI如何在Obsidian知识库中快速检索正确文稿"
 created: "2026-05-17"
-updated: "2026-05-17"
+updated: 2026-05-21
 type: "standard"
 status: "active"
 quality_level: "S"
@@ -74,6 +77,7 @@ model_route:
   - "openclaw"
 project_route:
   - "knowledge_governance"
+source: user
 ---
 
 # AI检索执行协议

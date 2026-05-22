@@ -1,34 +1,41 @@
 ---
 title: 鱼缸AI管家方案
-type: plan
-status: draft
-date: 2026-05-17
+aliases:
+  - 鱼缸AI监控
+  - 智能水族方案
+  - Aquarium AI Butler
+  - 水族自动化监控
 tags:
-  - 鱼缸
+  - #AI水族系统
+  - #鱼缸管理
   - AI管家
   - 自动化
   - 监控
-routing_target:
-  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+type: note
+status: draft
+created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 基于AI的水族系统监控方案，包括自动数据记录、水质趋势分析、异常提醒的设计思路。目标是让AI辅助监控鱼缸，自动记录数据、发现问题、生成报告。包含监控目标（自动记录、趋势分析、异常预警）和实现路径。
+summary_en: "AI-based aquarium monitoring system design including automatic data logging, water quality trend analysis, and anomaly alerts."
+related:
   - "[[19-个人生活与兴趣项目/鱼缸项目MOC]]"
-model_route:
-  - "claude-code"
-  - "chatgpt"
-project_route:
-  - "fish_tank"
-category: "个人生活与兴趣项目"
-scenario:
-  - "AI监控"
-  - "自动化"
+  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
+  - "[[19-个人生活与兴趣项目/鱼缸异常处理SOP]]"
 retrieval_keywords:
   - 鱼缸AI管家
   - 水族AI
   - 自动化监控
   - 智能水族
   - 南美生态缸AI
-related:
-  - "[[19-个人生活与兴趣项目/鱼缸项目路由]]"
-  - "[[19-个人生活与兴趣项目/01-AI水族系统/AI-Workflows]]"
+  - 水质趋势分析
+  - 异常预警
+  - 自动记录
+  - 水族管家
+decision_value: 设计AI辅助鱼缸监控的完整方案，实现从手动记录到自动监控的升级，降低日常维护工作量。
+quality_level: B
+routing_target:
+  - 生活项目
+source: user
 ---
 
 # 鱼缸AI管家方案

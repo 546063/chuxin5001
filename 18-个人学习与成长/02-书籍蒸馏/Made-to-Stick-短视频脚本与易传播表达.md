@@ -5,7 +5,7 @@ type: "book_note"
 status: "active"
 quality_level: "A"
 created: "2026-05-18"
-updated: "2026-05-18"
+updated: "2026-05-21"
 summary_cn: "《Made to Stick》适合转化成一套让内容更容易被理解、记住、传播和复述的SUCCESs脚本检查模型。"
 summary_en: "A work-connected note distilling Made to Stick into the SUCCESs framework: Simple, Unexpected, Concrete, Credible, Emotional, Stories for sticky content."
 decision_value: "用于短视频脚本、产品素材、广告标题、LinkedIn内容、Facebook帖子、YouTube Shorts、客户案例和销售表达。"
@@ -14,6 +14,32 @@ platform: ["TikTok", "Facebook", "YouTube Shorts", "LinkedIn", "Instagram", "独
 industry: ["跨境社媒", "一人公司", "B2B获客", "短视频脚本", "内容营销"]
 scenario: ["短视频脚本", "产品素材", "案例表达", "广告标题", "内容传播", "客户教育"]
 routing_target: "18-个人学习与成长/书籍模型库"
+tags:
+  - "#书籍蒸馏"
+  - "#决策框架"
+  - "#内容创作"
+  - "#短视频脚本"
+related:
+  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
+  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
+  - "[[16-学习成长蒸馏MOC]]"
+retrieval_keywords:
+aliases:
+  - Made-to-Stick-短视频脚本与易传播表达
+  - 书籍蒸馏
+  - 决策框架  - Made to Stick
+  - SUCCESs模型
+  - 短视频脚本
+  - 易传播表达
+  - 内容粘性
+  - 简单
+  - 意外
+  - 具体
+  - 可信
+  - 情绪
+  - 故事
+  - 跨境社媒
+source: book
 ---
 
 # 《Made to Stick》｜短视频脚本与易传播表达模型

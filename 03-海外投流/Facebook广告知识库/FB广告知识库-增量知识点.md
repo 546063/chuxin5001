@@ -3,16 +3,43 @@ title: "FB广告知识库-增量知识点"
 aliases:
   - "FB广告知识库"
   - "Facebook广告知识点"
-created: "2026-05-18"
-updated: "2026-05-18"
-type: "note"
-status: "active"
+  - Facebook广告增量更新
+  - Meta广告知识库
 tags:
   - #Facebook广告
+  - #广告投流
   - #Meta广告
   - #知识库
-  - #增量更新/2026-05-18
-topic: "Facebook广告知识库"
+  - 增量更新
+type: note
+status: draft
+created: 2026-05-18
+updated: 2026-05-21
+summary_cn: 本文件为Facebook广告知识库的增量更新（2026-05-18），来源包括Social Media Examiner、Triple Whale、Madgicx。涵盖Andromeda算法（创意=定向）、创意多样性要求、Advantage+ Shopping Campaign优化、再营销策略等最新知识点，为海外投流提供决策参考。
+summary_en: "Incremental Facebook Ads knowledge base update covering Andromeda algorithm, creative diversity requirements, ASC optimization, and retargeting strategies from Social Media Examiner, Triple Whale, and Madgicx."
+related:
+  - "[[05-广告投流增长MOC]]"
+  - "[[03-目录总览MOC]]"
+  - "[[04-目录总览MOC]]"
+retrieval_keywords:
+  - Facebook广告
+  - Andromeda算法
+  - Meta广告
+  - Advantage+
+  - 创意定向
+  - 广告算法
+  - 再营销
+  - ASC优化
+  - 创意多样性
+  - CPM优化
+  - 海外投流
+  - 跨境广告
+decision_value: 持续更新Facebook广告投放最新策略和算法变化，服务海外投流、Meta广告、跨境社媒获客决策。
+quality_level: B
+routing_target:
+  - 海外投流
+  - 外贸获客
+source: web_research
 ---
 
 # Facebook 广告知识库 - 知识点

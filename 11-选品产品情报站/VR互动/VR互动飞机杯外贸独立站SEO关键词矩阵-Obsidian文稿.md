@@ -18,10 +18,10 @@ aliases:
   - interactive stroker SEO keywords
   - VR sex toy keyword matrix
 related:
-  - "[[VR互动飞机杯产品研究]]"
-  - "[[VR互动飞机杯竞品独立站全面拆解分析]]"
-  - "[[VR互动飞机杯海外社媒营销生态调研]]"
-  - "[[成人用品独立站SEO]]"
+  - "[[VR互动飞机杯外贸全景调研报告-Obsidian文稿]]"
+  - "[[VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿]]"
+  - "[[VR互动飞机杯海外社媒营销生态调研-Obsidian文稿]]"
+  - "[[03-外贸市场情报MOC]]"
 summary_cn: 本文为VR互动飞机杯/VR成人互动硬件独立站构建SEO关键词矩阵，按核心品类词、品牌竞品词、长尾场景词、内容营销词、德语/日语/法语/西语本地化关键词五层分类。由于Semrush/Ahrefs/Google Keyword Planner精确搜索量、KD、CPC需要账号导出，本文采用公开可复核的区间估算和优先级判断。建站初期建议优先攻打“Kiiroo替代词、The Handy替代词、Funscript兼容、Quest 3设置教程、VR互动stroker教程”等低竞争高意图词。
 summary_en: This document builds a full SEO keyword matrix for a VR interactive male masturbator DTC site, covering core category terms, competitor terms, long-tail use-case terms, informational content terms, and localized keywords in German, Japanese, French, and Spanish.
 decision_value: 高。用于独立站信息架构、SEO内容排期、产品页标题、博客选题、国家本地化页面和竞品截流策略。
@@ -38,6 +38,12 @@ retrieval_keywords:
   - interaktives Sexspielzeug
   - masturbateur VR
   - masturbador VR
+created: 2026-05-20
+updated: 2026-05-21
+quality_level: B
+routing_target:
+  - 外贸市场情报
+source: web_research
 ---
 
 # VR互动飞机杯外贸独立站SEO关键词矩阵

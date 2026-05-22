@@ -1,0 +1,324 @@
+{
+  "router_name": "facebook_ads_router",
+  "version": "2026-05-22",
+  "priority": "P0",
+  "description": "Route questions about Facebook Ads, Meta Ads, B2B advertising, Messenger leads, WhatsApp leads, lead ads, creatives, optimization, sales follow-up, and food processing machinery campaigns.",
+  "trigger_keywords": [
+    "Facebook投流",
+    "Facebook广告",
+    "Meta广告",
+    "Meta Ads",
+    "Facebook Ads",
+    "Messenger获客",
+    "WhatsApp获客",
+    "Click to WhatsApp",
+    "留资广告",
+    "Lead Ads",
+    "B2B广告",
+    "食品机械广告",
+    "海外投流",
+    "ROAS",
+    "CPL",
+    "CTR",
+    "CPC",
+    "无效线索",
+    "阿拉伯语广告",
+    "中东广告",
+    "竞品广告素材",
+    "切菜机广告",
+    "切肉机广告",
+    "Facebook怎么投",
+    "广告素材怎么做",
+    "客服怎么跟进线索"
+  ],
+  "entry_notes": [
+    "03-海外投流/Facebook投流知识库/10-Facebook投流路由入口.md",
+    "03-海外投流/Facebook投流知识库/16-Facebook投流常见问题路由表.md"
+  ],
+  "routes": {
+    "facebook_ads": {
+      "description": "Facebook / Meta 广告整体策略",
+      "keywords": [
+        "Facebook广告",
+        "Meta广告",
+        "Facebook投流",
+        "海外投流",
+        "Facebook怎么投"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/10-Facebook投流路由入口.md",
+        "03-海外投流/Facebook投流知识库/01-Facebook投流基础认知.md",
+        "03-海外投流/Facebook投流知识库/00-Facebook投流知识库总索引.md"
+      ]
+    },
+    "facebook_b2b_ads": {
+      "description": "B2B Facebook 广告和询盘获客",
+      "keywords": [
+        "B2B广告",
+        "询盘",
+        "海外客户",
+        "机械广告",
+        "B2B获客"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP.md",
+        "03-海外投流/Facebook投流知识库/02-Facebook广告账户与配置SOP.md",
+        "03-海外投流/Facebook投流知识库/22-食品加工机械Facebook投流案例库.md"
+      ]
+    },
+    "messenger_leads": {
+      "description": "Messenger 获客和对话广告",
+      "keywords": [
+        "Messenger",
+        "私信",
+        "聊天广告",
+        "对话广告",
+        "Messenger获客"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/12-Facebook Messenger获客链路SOP.md",
+        "03-海外投流/Facebook投流知识库/15-Facebook客服营销SOP.md"
+      ]
+    },
+    "whatsapp_leads": {
+      "description": "WhatsApp 获客和 Click to WhatsApp 广告",
+      "keywords": [
+        "WhatsApp",
+        "Click to WhatsApp",
+        "WhatsApp询盘",
+        "WhatsApp获客"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/13-Facebook WhatsApp获客链路SOP.md",
+        "03-海外投流/Facebook投流知识库/15-Facebook客服营销SOP.md"
+      ]
+    },
+    "facebook_lead_ads": {
+      "description": "Facebook 留资广告和表单线索",
+      "keywords": [
+        "Lead Ads",
+        "留资广告",
+        "表单",
+        "CPL",
+        "线索广告"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/06-Facebook线索广告与落地页.md",
+        "03-海外投流/Facebook投流知识库/14-Facebook无效线索过滤SOP.md"
+      ]
+    },
+    "facebook_creative": {
+      "description": "Facebook 广告素材、文案、视频脚本",
+      "keywords": [
+        "广告素材",
+        "广告文案",
+        "视频脚本",
+        "图片广告",
+        "素材怎么拍"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/18-Facebook广告素材创意SOP.md",
+        "03-海外投流/Facebook投流知识库/04-Facebook广告素材与脚本库.md",
+        "03-海外投流/Facebook投流知识库/21-食品加工机械Facebook广告素材库.md",
+        "03-海外投流/投流证据层/广告素材截图索引.md"
+      ]
+    },
+    "facebook_ad_optimization": {
+      "description": "Facebook 广告复盘和优化",
+      "keywords": [
+        "ROAS",
+        "CPL",
+        "CTR",
+        "CPC",
+        "复盘",
+        "优化",
+        "CTR低",
+        "CPL高"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/09-Facebook投流复盘与优化SOP.md",
+        "03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系.md",
+        "03-海外投流/Facebook投流知识库/20-Facebook投流实战数据记录模板.md",
+        "03-海外投流/投流证据层/投流真实数据记录表.md",
+        "03-海外投流/投流证据层/投流证据层复盘模板.md"
+      ]
+    },
+    "facebook_sales_followup": {
+      "description": "客服跟进、销售转化、无效线索过滤",
+      "keywords": [
+        "客服跟进",
+        "无效线索",
+        "线索过滤",
+        "客户转化",
+        "线索质量差"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/15-Facebook客服营销SOP.md",
+        "03-海外投流/Facebook投流知识库/14-Facebook无效线索过滤SOP.md",
+        "03-海外投流/Facebook投流知识库/13-Facebook WhatsApp获客链路SOP.md"
+      ]
+    },
+    "food_processing_machinery_ads": {
+      "description": "食品加工机械 Facebook 广告",
+      "keywords": [
+        "食品机械",
+        "切菜机",
+        "切肉机",
+        "包子机",
+        "饺子机",
+        "绞肉机",
+        "锯骨机",
+        "食品加工设备",
+        "去皮机",
+        "蔬菜清洗机",
+        "羊肉卷切片机",
+        "食品加工生产线"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/22-食品加工机械Facebook投流案例库.md",
+        "03-海外投流/Facebook投流知识库/21-食品加工机械Facebook广告素材库.md",
+        "03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP.md"
+      ]
+    },
+    "middle_east_ads": {
+      "description": "中东市场、阿拉伯语文案、广告合规",
+      "keywords": [
+        "中东",
+        "阿拉伯语",
+        "沙特",
+        "阿联酋",
+        "广告合规",
+        "中东市场"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板.md",
+        "03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单.md"
+      ]
+    },
+    "arabic_ad_copy": {
+      "description": "阿拉伯语广告文案",
+      "keywords": [
+        "阿拉伯语广告",
+        "阿拉伯语文案",
+        "中东文案"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板.md",
+        "03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单.md"
+      ]
+    },
+    "facebook_ad_policy": {
+      "description": "Facebook 广告政策和合规",
+      "keywords": [
+        "广告被拒",
+        "广告审核",
+        "Facebook政策",
+        "广告合规"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单.md"
+      ]
+    },
+    "invalid_lead_filtering": {
+      "description": "无效线索过滤和评分",
+      "keywords": [
+        "无效线索",
+        "垃圾询盘",
+        "线索评分",
+        "线索质量"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/14-Facebook无效线索过滤SOP.md",
+        "03-海外投流/Facebook投流知识库/06-Facebook线索广告与落地页.md"
+      ]
+    },
+    "facebook_competitor_research": {
+      "description": "竞品广告素材分析",
+      "keywords": [
+        "竞品素材",
+        "Meta Ad Library",
+        "竞品分析",
+        "广告拆解"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/19-Facebook竞品广告素材拆解SOP.md",
+        "03-海外投流/Facebook投流知识库/18-Facebook广告素材创意SOP.md",
+        "03-海外投流/投流证据层/竞品广告素材截图索引.md"
+      ]
+    },
+    "pre_launch_checklist": {
+      "description": "Facebook 投流前准备清单和检查项",
+      "keywords": [
+        "Facebook投流前准备",
+        "Facebook launch checklist",
+        "广告账户准备",
+        "Pixel准备"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/09-Facebook投流前准备清单.md",
+        "00-索引与导航/投流与视频获客启动前准备总清单.md"
+      ]
+    },
+    "simulated_campaign_plan": {
+      "description": "Facebook 模拟测试方案和从0开始投放计划",
+      "keywords": [
+        "Facebook模拟测试方案",
+        "Facebook投放测试计划",
+        "从0开始投Facebook"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/10-Facebook从0开始投放测试计划.md",
+        "03-海外投流/投流前模拟测试方案库/01-Facebook Ads模拟测试方案.md"
+      ]
+    },
+    "platform_rules": {
+      "description": "Facebook 平台规则和中东市场打法",
+      "keywords": [
+        "Facebook平台规则",
+        "Facebook广告政策",
+        "中东Facebook",
+        "沙特广告"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/25-Facebook中东市场广告打法研究.md",
+        "03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单.md"
+      ]
+    },
+    "creative_reference_library": {
+      "description": "Facebook B2B广告素材拆解和创意参考库",
+      "keywords": [
+        "Facebook广告素材拆解",
+        "B2B广告素材",
+        "竞品广告素材"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/26-Facebook B2B广告素材拆解库.md",
+        "03-海外投流/Facebook投流知识库/19-Facebook竞品广告素材拆解SOP.md"
+      ]
+    },
+    "competitor_case_analysis": {
+      "description": "竞品广告案例分析和Meta Ad Library观察",
+      "keywords": [
+        "竞品广告分析",
+        "Meta Ad Library",
+        "竞品观察"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/26-Facebook B2B广告素材拆解库.md",
+        "03-海外投流/公开投流案例拆解库.md"
+      ]
+    },
+    "paid_ads_strategy": {
+      "description": "投流策略选择和平台对比",
+      "keywords": [
+        "先投哪个平台",
+        "投流策略选择",
+        "平台对比"
+      ],
+      "preferred_notes": [
+        "03-海外投流/Facebook投流知识库/09-Facebook投流前准备清单.md",
+        "00-索引与导航/投流与视频获客启动前准备总清单.md"
+      ]
+    }
+  }
+}

@@ -1,15 +1,45 @@
 ---
 title: "Obsidian Local REST API 检测报告"
+aliases:
+  - Obsidian API检测
+  - Vault扫描报告
+  - 知识库结构检测
+tags:
+  - #AI路由
+  - #知识库治理
+  - #入口文档
+type: moc
+status: active
+created: 2026-05-14
+updated: 2026-05-21
+summary_cn: 本报告是 Obsidian Local REST API 对知识库 Vault 的检测扫描结果，记录了 Vault 路径、总文件数（1479个.md）、一级目录结构（19个目录）等基础设施信息。作为知识库治理的基线参考，帮助AI了解Vault的整体结构和目录分布。
+summary_en: "Obsidian Local REST API scan report of the vault infrastructure, documenting file count, directory structure, and accessibility status."
+related:
+  - "[[01-全库工作总览MOC]]"
+  - "[[02-AI读取入口MOC]]"
+  - "[[AI知识库路由系统]]"
+retrieval_keywords:
+  - Obsidian API
+  - Vault扫描
+  - 知识库结构
+  - 文件统计
+  - 目录结构
+  - REST API
+  - 知识库治理
+  - 基线检测
+  - 入口文档
+  - AI读取入口
+  - 知识库总索引
+  - Obsidian治理
+  - Claude Code规则
+decision_value: 提供Vault基础设施基线数据，帮助AI了解知识库整体规模和目录分布，是路由系统的参考背景。
+quality_level: A
+routing_target:
+  - AI工作流
+  - 知识库治理
+source: user
 topic: ""
-created: "2026-05-14"
-updated: "2026-05-17"
-type: "research_note"
-status: "active"
-quality_level: "C"
-summary_cn: "- **路径**: `/Users/mac/Library/Mobile Documents/iCloud~md~obsidian/Documents/` - **状态**: ✅ 存在，可访问 - **总 .md 文件数**: 1479 - **一级目录** (19个):   ```   00-索引与导航/          07-广告素材与创意/        14-学习与成长/   01-跨境相关文档"
-summary_en: "Document regarding obsidian-local-rest-api-check. Reference for business decisions."
 one_sentence_summary: "# Obsidian Local REST API 检测告  ## 检测时间  2026-05-14 15:47  ##..."
-decision_value: "Reference clipping, not actionable"
 review_note: "Clipping, low decision value"
 category: ""
 platform: []
@@ -20,15 +50,6 @@ merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[00-目录总览MOC]]
-retrieval_keywords:
-  - AI读取入口
-  - 知识库总索引
-  - Obsidian治理
-  - Claude Code规则
-routing_target:
-  - "[[00-目录总览MOC]]"
 ---
 
 # Obsidian Local REST API 检测告

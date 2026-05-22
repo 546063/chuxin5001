@@ -4,11 +4,11 @@ aliases:
   - iMac CapCut完整剪辑 SOP
   - Mac mini Claude Code ffmpeg批量初稿 SOP
   - 羽毛球招生视频双机并行剪辑系统
-type: SOP
-project: 银羽国际俱乐部
-status: active
-quality_level: S
+  - 双机双工具V5
 tags:
+  - #AI视频剪辑
+  - #SOP
+  - #银羽招生
   - 视频剪辑
   - CapCut
   - 剪映国际版
@@ -18,12 +18,16 @@ tags:
   - iMac
   - 口播混剪
   - ABCD测试
-related:
-  - [[15-AI工作流与自动化]]
-  - [[04-内容素材与创意]]
-  - [[银羽国际俱乐部]]
+type: sop
+status: active
+created: 2026-05-18
+updated: 2026-05-21
 summary_cn: 本 SOP 建立 iMac + Mac mini 双机并行剪辑系统。Mac mini 负责 Claude Code/ffmpeg 的素材拆解、音画检查、字幕、ABCD 初稿批量导出；iMac 负责 CapCut/剪映英文版完整剪辑、字幕样式、特效、转场、最终修整和发布母版。核心原则是口型同步优先，字幕强制同步，逐字稿讲完即结束。
-summary_en: This SOP defines a dual-machine workflow: Mac mini handles Claude Code/ffmpeg preprocessing and ABCD rough cuts; iMac handles full CapCut final editing, subtitles, effects, transitions, and master export.
+summary_en: "This SOP defines a dual-machine workflow: Mac mini handles Claude Code/ffmpeg preprocessing and ABCD rough cuts; iMac handles full CapCut final editing, subtitles, effects, transitions, and master export."
+related:
+  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
+  - "[[06-内容素材创意MOC]]"
+  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
 retrieval_keywords:
   - iMac CapCut完整剪辑
   - Mac mini ffmpeg批量剪辑
@@ -34,7 +38,13 @@ retrieval_keywords:
   - ABCD测试
   - 剪映国际版
   - Claude Code 视频工作流
+  - 批量初稿
 decision_value: 用于把招生短视频剪辑从单机单版本升级为双机多版本测试流程，提高产出速度，同时避免口型错配、字幕错位、结尾空尾和最终风格不统一。
+quality_level: A
+routing_target:
+  - 视频剪辑
+  - AI工作流
+source: user
 ---
 
 # 双机双工具短视频剪辑 SOP V5

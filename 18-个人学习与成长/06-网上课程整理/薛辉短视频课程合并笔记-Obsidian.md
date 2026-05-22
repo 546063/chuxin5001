@@ -1,16 +1,19 @@
----
 title: 薛辉短视频课程合并笔记
 aliases: [薛辉课程, 短视频脚本课, 短视频表现力, 直播间搭建, 短视频素材库]
 type: course_note
 source_type: uploaded_docx_merge
+status: draft
 created: 2026-05-17
+updated: 2026-05-21
+summary_cn: 本文将薛辉短视频课程压缩为一篇Obsidian主文稿，保留原始课程文字，并提炼素材库、爆款选题、教知识脚本、观点脚本、故事脚本、晒过程脚本、拍摄呈现、剪辑、电商选品和直播间搭建等实操模型，重点连接到食品机械和跨境社媒内容生产。
+summary_en: Consolidated Obsidian note for Xue Hui's short-video course, covering topic selection, scripting, filming, editing, ecommerce selection, and live room structure for cross-border content production.
 quality_level: S
 decision_value: 可直接用于短视频账号策划、选题库搭建、脚本创作、拍摄呈现、直播间搭建和内容复盘
 tags: [短视频, 抖音, 内容创作, 脚本, 账号策划, 视频表现力, 拍摄, 直播带货, 素材库, 课程笔记]
 related: [[短视频内容系统]], [[抖音运营]], [[跨境社媒获客]], [[食品机械短视频内容]], [[直播间搭建]], [[素材库建设]], [[爆款选题库]], [[AI内容生产工作流]]
 routing_target: [02-跨境社媒获客, 04-内容素材与创意, 05-客户开发与成交, 10-食品加工机械作战体系, 15-AI工作流与自动化]
 retrieval_keywords: [薛辉, 素材库, 爆款选题, 八大爆款元素, 教知识脚本, 观点脚本, 晒过程脚本, 口播表现力, VLOG, 运镜, 景别, 构图, 电商选品, 直播间玩法, 带货话术]
----
+source: web_research
 
 # 薛辉短视频课程合并笔记
 
