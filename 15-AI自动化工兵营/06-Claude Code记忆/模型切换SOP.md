@@ -50,7 +50,7 @@ model_route:
 需要用户提供的 3 个要素：
 1. **模型名称**：如 `qwen3.6-plus`
 2. **Base URL**：如 `https://coding.dashscope.aliyuncs.com/apps/anthropic`
-3. **API Key**：如 `sk-sp-xxxxx`
+3. **API Key**：如 `REMOVED_DASHSCOPE_API_KEY=REMOVED
 
 如果用户说"用记忆里的 XXX 模型"，从 [[CC-Connect配置体系]] 查找已有模型的端点和 key。
 
@@ -112,7 +112,7 @@ echo "你是哪个模型？只回复模型名。" | /opt/homebrew/bin/claude --p
 | ANTHROPIC_MODEL | 主模型名称 |
 | ANTHROPIC_BASE_URL | 端点地址 |
 | ANTHROPIC_AUTH_TOKEN | API Key |
-| ANTHROPIC_API_KEY | 备用 Key（通常空） |
+| ANTHROPIC_API_KEY=REMOVED
 | ANTHROPIC_SMALL_FAST_MODEL | 快速模型 |
 | ANTHROPIC_DEFAULT_HAIKU_MODEL | haiku 替代 |
 | ANTHROPIC_DEFAULT_SONNET_MODEL | sonnet 替代 |

@@ -1,0 +1,29 @@
+# Secrets and credentials
+.env
+*.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+*credential*
+credentials/
+secrets/
+
+# Local config
+config.local.*
+*.local.json
+*.local.toml
+
+# OS files
+.DS_Store
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Trash and logs
+.trash/
+*.log
+logs/

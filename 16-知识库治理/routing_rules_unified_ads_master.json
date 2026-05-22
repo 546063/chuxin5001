@@ -1,6 +1,6 @@
 {
   "router_name": "unified_ads_and_video_routing_master",
-  "version": "2026-05-22-v2",
+  "version": "2026-05-22-v3",
   "description": "统一投流与视频获客路由主索引，聚合所有平台独立路由文件。AI 先按平台关键词匹配到子路由，再进入子路由获取具体 routing_target。",
   "platforms": {
     "facebook_meta": {
@@ -107,6 +107,21 @@
         "03-海外投流/投流前模拟测试方案库/07-LinkedIn模拟获客方案.md"
       ]
     },
+    "free_traffic": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook Group获客", "Facebook Group发帖", "免费流量转WhatsApp",
+        "社媒私信承接", "免费流量30天计划", "30天起号", "地区内容偏好",
+        "中东社媒偏好", "东南亚社媒偏好", "平台选择判断",
+        "食品机械短视频怎么打免费流量", "食品机械100选题",
+        "成人用品合规", "VR互动合规", "免费流量获客",
+        "不投广告怎么获客", "自然流量获客", "Facebook免费发布"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/海外免费流量获客路由入口.md",
+      "total_routes": 6,
+      "status": "active"
+    },
     "evidence_layer": {
       "router_file": "N/A - 直接指向证据层文档",
       "router_name": "evidence_layer_router",
@@ -137,7 +152,7 @@
   "routing_logic": "1. 提取用户问题中的平台关键词 -> 2. 匹配到对应平台子路由 -> 3. 加载子路由 JSON 文件 -> 4. 用问题内容匹配子路由中的具体 routing_target -> 5. 返回 preferred_notes 路径",
   "cross_platform_queries": "如果问题涉及跨平台对比（如 Facebook vs LinkedIn），同时返回多个平台的 entry_point",
   "total_routes_all_platforms": 99,
-  "total_json_files": 7,
+  "total_json_files": 8,
   "evidence_layer_routes": 10,
   "simulated_plan_routes": 7,
   "knowledge_base_supplement": {
@@ -188,6 +203,15 @@
       "03-海外投流/LinkedIn获客知识库/03-LinkedIn前30天执行计划.md",
       "03-海外投流/LinkedIn获客知识库/04-LinkedIn DM话术库.md",
       "03-海外投流/LinkedIn获客知识库/05-LinkedIn与Facebook投流差异对比.md"
+    ],
+    "free_traffic_supplements": [
+      "02-跨境社媒获客/海外免费流量获客/Facebook Group发帖获客SOP.md",
+      "02-跨境社媒获客/海外免费流量获客/免费流量转WhatsApp承接SOP.md",
+      "02-跨境社媒获客/海外免费流量获客/海外免费流量30天执行检查表.md",
+      "02-跨境社媒获客/海外免费流量获客/海外免费流量地区内容偏好与平台选择判断表.md",
+      "02-跨境社媒获客/海外免费流量获客/海外免费流量获客路由入口.md",
+      "10-食品加工机械作战体系/食品机械海外短视频100选题库.md",
+      "11-选品产品情报站/成人用品与VR互动产品研究/成人用品VR互动平台合规发布边界清单.md"
     ]
   }
 }

@@ -81,7 +81,7 @@ model_route:
 ### 问题 1：Dashscope（qwen3.6-plus）API Key 已过期/无效
 - **严重等级**：严重
 - **影响范围**：cc-connect default 项目的主 provider（qwen36plus）、当前终端会话默认模型
-- **证据**：`curl` 测试 `https://coding.dashscope.aliyuncs.com/apps/anthropic/v1/messages` 返回 `{"error":{"code":"invalid_api_key","message":"invalid access token or token expired"...}}`，Key 前缀 `sk-sp-27bf****c225`
+- **证据**：`curl` 测试 `https://coding.dashscope.aliyuncs.com/apps/anthropic/v1/messages` 返回 `{"error":{"code":"invalid_api_key","message":"invalid access token or token expired"...}}`，Key 前缀 `REMOVED_DASHSCOPE_PARTIAL*c225`
 - **推测根因**：Dashscope 应用密钥已过期或被重置
 - **建议处理方式**：更新 Dashscope API Key，确认应用状态
 - **是否需要确认**：是，更新前请备份旧 Key
@@ -127,7 +127,7 @@ model_route:
 - **严重等级**：严重
 - **影响范围**：密钥泄露风险
 - **证据**：
-  - `~/.claude/.env.bak-kimi-20260507` → 含 `sk-kimi-KHTy****04spc`（1 处）
+  - `~/.claude/.env.bak-kimi-20260507` → 含 `REMOVED_KIMI_PARTIAL*04spc`（1 处）
   - `~/.codex/.codex-global-state.json.bak` → 含 `sk-`（1 处）
   - `~/.openclaw/openclaw.json.bak` → 含 `sk-`（1 处）
   - `~/.openclaw/openclaw.json.bak-kimi-20260507` → 含 `sk-`
@@ -508,7 +508,7 @@ ALL_PROXY=http://127.0.0.1:7897
 ## 16. 建议调整清单
 
 ### 1. 更新 Dashscope API Key
-- **为什么要改**：当前 Key (`sk-sp-27bf****c225`) 返回 `invalid_api_key / token expired`，导致 default 项目完全不可用
+- **为什么要改**：当前 Key (`REMOVED_DASHSCOPE_PARTIAL*c225`) 返回 `invalid_api_key / token expired`，导致 default 项目完全不可用
 - **改哪里**：`~/.cc-connect/config.toml` 第 16 行 `ANTHROPIC_AUTH_TOKEN`，`~/.claude/settings.json` 中的 `ANTHROPIC_AUTH_TOKEN`
 - **预期收益**：恢复 qwen3.6-plus 模型正常调用
 - **风险**：新 Key 需要验证可用性
@@ -632,7 +632,7 @@ ls -la ~/.ssh/id_* (权限)
 
 # 十二、API 连通性测试（轻量，不消耗 token）
 curl -s --connect-timeout 10 -m 15 --noproxy '*' https://coding.dashscope.aliyuncs.com/apps/anthropic/v1/messages \
-  -H "Content-Type: application/json" -H "x-api-key: sk-sp-27bf140****c225" \
+  -H "Content-Type: application/json" -H "x-api-key: REMOVED_DASHSCOPE_PARTIAL*c225" \
   -H "anthropic-version: 2023-06-01" -d '{"model":"qwen3.6-plus","max_tokens":5,"messages":[{"role":"user","content":"ping"}]}'
 
 # 十三、进程和环境

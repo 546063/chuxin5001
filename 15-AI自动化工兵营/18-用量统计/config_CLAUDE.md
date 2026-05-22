@@ -315,8 +315,8 @@ Common environment variables to document:
 - TAVILY_API_KEY
 - SERPER_API_KEY
 - SERPAPI_API_KEY, if used
-- OPENAI_API_KEY, if needed
-- ANTHROPIC_API_KEY, if needed
+- OPENAI_API_KEY=REMOVED
+- ANTHROPIC_API_KEY=REMOVED
 
 Security rules:
 
