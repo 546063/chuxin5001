@@ -1,7 +1,7 @@
 {
   "router_name": "free_traffic_leads_router",
-  "version": "2026-05-22-v2",
-  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/个人号/Marketplace/违规风险、TikTok自然流增强、YouTube Shorts增强、Instagram Reels增强、Reddit、X、Quora、爆款策略、机械设备专项、免费+付费联动。",
+  "version": "2026-05-22-v3",
+  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/个人号/Marketplace/Reels/违规风险、TikTok自然流增强、YouTube Shorts增强、Instagram Reels增强、Pinterest、Reddit、X、Quora、国内视频号、爆款策略、机械设备专项、食品机械多平台、成人用品合规总览、免费+付费联动、7天试运行。",
   "platforms": {
     "facebook_group": {
       "router_file": "routing_rules_free_traffic_leads.json",
@@ -230,13 +230,62 @@
       "entry_point": "02-跨境社媒获客/海外免费流量获客/免费流量与付费投流联动SOP.md",
       "routing_target": "free_traffic_leads",
       "status": "active"
+    },
+    "facebook_reels": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook Reels怎么做获客", "FB Reels快速起号",
+        "Facebook Reels算法怎么推", "FB Reels和IG Reels区别",
+        "Facebook Reels食品机械怎么拍", "Reels混排策略",
+        "Facebook Reels播放高没询盘"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook Reels快速获客增强版.md",
+      "routing_target": "facebook_reels_leads",
+      "status": "active"
+    },
+    "pinterest": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Pinterest怎么做B2B获客", "Pinterest Pin设计",
+        "Pinterest Idea Pin", "Pinterest食品机械",
+        "Pinterest SEO", "Pinterest机械设备"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Pinterest内容获客SOP.md",
+      "routing_target": "pinterest_leads",
+      "status": "active"
+    },
+    "wechat_channels": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "国内视频号怎么做免费流量", "视频号自然流量怎么获客",
+        "视频号B2B怎么打", "视频号怎么转私域",
+        "视频号食品机械内容", "视频号30天起号"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/国内视频号自然流量获客SOP.md",
+      "routing_target": "wechat_channels_leads",
+      "status": "active"
+    },
+    "trial_run": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "免费流量试运行", "免费流量路由测试",
+        "免费流量知识库验收", "7天试运行问题"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/海外免费流量7天试运行问题库.md",
+      "routing_target": "free_traffic_leads",
+      "status": "active"
     }
   },
   "routing_logic": "1. 提取用户问题中的平台/地区/行业关键词 -> 2. 匹配到对应子路由 -> 3. 返回 entry_point 路径供 AI 读取具体文档",
   "cross_platform_queries": "如果问题涉及跨平台策略（如多平台矩阵），先读取地区偏好判断表，再读取30天执行检查表。如果涉及免费+付费组合，读取联动SOP",
-  "total_routes": 19,
+  "total_routes": 24,
   "p0_routes": 6,
-  "p1_routes": 10,
-  "p2_routes": 3,
+  "p1_routes": 11,
+  "p2_routes": 5,
+  "p3_routes": 2,
   "status": "active"
 }
