@@ -1,7 +1,7 @@
 {
   "router_name": "free_traffic_leads_router",
-  "version": "2026-05-22-v3",
-  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/个人号/Marketplace/Reels/违规风险、TikTok自然流增强、YouTube Shorts增强、Instagram Reels增强、Pinterest、Reddit、X、Quora、国内视频号、爆款策略、机械设备专项、食品机械多平台、成人用品合规总览、免费+付费联动、7天试运行。",
+  "version": "2026-05-22-v4",
+  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/个人号/Marketplace/Reels/违规风险/总览、TikTok自然流增强+食品机械+钩子+成人合规、YouTube Shorts增强+机械设备SEO、Instagram Reels增强+成人合规、Pinterest、Reddit、X、X+VR合规、Quora、LinkedIn B2B自然获客+私信开发、国内视频号、抖音冷启动+话题库+蓝V+评论转化、抖音vs视频号对比、视频号可行性+直播对比+联动+企微承接、爆款策略、机械设备专项、食品机械多平台+拍摄SOP、成人用品合规总览、免费+付费联动+节奏+放量判断、数据诊断(播放高无询盘/完播率/互动率/封面CTR/新号零播/主页无私信)、短视频脚本模板+多语言字幕、合规风控(封号TOP10/多账号风险/GDPR/地区合规差异)、案例库(食品机械FB&TK/工业设备/中国制造商/小预算/视频号抖音)、7天试运行。",
   "platforms": {
     "facebook_group": {
       "router_file": "routing_rules_free_traffic_leads.json",
@@ -278,14 +278,488 @@
       "entry_point": "02-跨境社媒获客/海外免费流量获客/海外免费流量7天试运行问题库.md",
       "routing_target": "free_traffic_leads",
       "status": "active"
+    },
+    "facebook_free_overview": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook自然流量怎么做", "Facebook全平台免费获客",
+        "Facebook自然流量总览", "FB免费流量策略"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook自然流量获客总览.md",
+      "routing_target": "facebook_free_overview",
+      "status": "active"
+    },
+    "linkedin_b2b_organic": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "LinkedIn自然流量获客", "LinkedIn B2B获客",
+        "LinkedIn内容营销", "LinkedIn免费获客",
+        "LinkedIn个人品牌", "LinkedIn发帖获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/LinkedIn B2B自然获客SOP.md",
+      "routing_target": "linkedin_b2b_organic",
+      "status": "active"
+    },
+    "linkedin_dm_outreach": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "LinkedIn私信开发", "LinkedIn DM获客",
+        "LinkedIn私信话术", "LinkedIn内容+私信获客",
+        "LinkedIn主动开发客户"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/LinkedIn私信开发与内容获客SOP.md",
+      "routing_target": "linkedin_dm_outreach",
+      "status": "active"
+    },
+    "diagnostic_high_views_no_inquiry": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "播放高但没询盘", "视频播放高没转化",
+        "自然流量有播放没询盘", "播放高询盘少",
+        "视频火了但没客户"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/自然流量播放高但没询盘诊断框架.md",
+      "routing_target": "diagnostic_high_views_no_inquiry",
+      "status": "active"
+    },
+    "low_completion_rate": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "短视频完播率低", "视频完播率怎么提升",
+        "用户看到一半就走了", "完播率优化",
+        "视频留存率低"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/短视频完播率低优化SOP.md",
+      "routing_target": "low_completion_rate",
+      "status": "active"
+    },
+    "low_engagement_rate": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "短视频互动率低", "视频没评论没点赞",
+        "互动率怎么提升", "零评论零互动",
+        "视频不互动怎么办"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/短视频互动率低优化SOP.md",
+      "routing_target": "low_engagement_rate",
+      "status": "active"
+    },
+    "thumbnail_ctr_optimization": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "短视频封面点击率低", "封面怎么设计",
+        "视频封面CTR优化", "封面不点击怎么办",
+        "视频缩略图优化"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/短视频封面点击率优化SOP.md",
+      "routing_target": "thumbnail_ctr_optimization",
+      "status": "active"
+    },
+    "new_account_zero_views": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "新账号发10条没流量", "新号零播放",
+        "新账号冷启动没流量", "发了视频没人看",
+        "新号起号没播放"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/新账号发10条没流量处理SOP.md",
+      "routing_target": "new_account_zero_views",
+      "status": "active"
+    },
+    "high_profile_no_dm": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "主页访问高但没私信", "主页有人看没询盘",
+        "主页流量高没转化", "个人主页不转化",
+        "主页访问量高但没客户"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/主页访问高但没私信诊断SOP.md",
+      "routing_target": "high_profile_no_dm",
+      "status": "active"
+    },
+    "paid_boost_judgment": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "哪些视频值得投付费放量", "自然视频改广告标准",
+        "什么时候投付费放量", "视频投流判断",
+        "哪些数据好的视频值得投"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/哪些视频值得投付费放量判断表.md",
+      "routing_target": "paid_boost_judgment",
+      "status": "active"
+    },
+    "free_paid_rhythm": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "免费流量与付费投流最佳节奏", "免费和付费怎么搭配",
+        "先免费后付费节奏", "免费转付费时机",
+        "免费付费组合节奏"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/免费流量与付费投流最佳节奏.md",
+      "routing_target": "free_paid_rhythm",
+      "status": "active"
+    },
+    "gdpr_compliance": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "GDPR与外贸获客", "欧洲数据隐私合规",
+        "GDPR合规要求", "外贸数据隐私",
+        "欧洲客户数据收集合规"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/GDPR与外贸获客数据隐私.md",
+      "routing_target": "gdpr_compliance",
+      "status": "active"
+    },
+    "regional_content_sea_africa": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "东南亚非洲内容偏好", "东南亚vs非洲社媒偏好",
+        "东南亚客户喜欢什么内容", "非洲市场内容策略",
+        "东南亚和非洲市场对比"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/东南亚非洲内容偏好对比.md",
+      "routing_target": "regional_content_sea_africa",
+      "status": "active"
+    },
+    "low_cost_video_production": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "低成本视频拍摄设备", "工厂视频拍摄环境",
+        "便宜的视频拍摄方案", "设备清单视频拍摄",
+        "手机拍视频怎么拍"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/低成本视频拍摄设备与环境清单.md",
+      "routing_target": "low_cost_video_production",
+      "status": "active"
+    },
+    "x_vr_compliance": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "X平台VR互动合规", "X成人用品合规获客",
+        "Twitter VR产品合规", "X平台成人内容",
+        "VR互动飞机杯X获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/X与VR互动产品合规获客分析.md",
+      "routing_target": "x_vr_compliance",
+      "status": "active"
+    },
+    "small_budget_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "小预算获客案例", "低预算社媒获客",
+        "小钱做大流量案例", "预算有限怎么获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/小预算获客公开案例库.md",
+      "routing_target": "small_budget_cases",
+      "status": "active"
+    },
+    "wechat_douyin_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "视频号抖音外贸获客案例", "抖音外贸获客",
+        "视频号外贸案例", "视频号抖音B2B获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/视频号抖音外贸获客案例库.md",
+      "routing_target": "wechat_douyin_cases",
+      "status": "active"
+    },
+    "facebook_food_machinery_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "食品机械Facebook获客案例", "Facebook食品机械真实案例",
+        "食品机械FB获客怎么做的"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/食品机械Facebook获客公开案例库.md",
+      "routing_target": "facebook_food_machinery_cases",
+      "status": "active"
+    },
+    "tiktok_food_machinery_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "食品机械TikTok获客案例", "TikTok食品机械真实案例",
+        "食品机械TikTok怎么做的"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/食品机械TikTok获客公开案例库.md",
+      "routing_target": "tiktok_food_machinery_cases",
+      "status": "active"
+    },
+    "industrial_equipment_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "工业设备短视频获客案例", "机械设备短视频案例",
+        "工业设备社媒获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/工业设备短视频获客公开案例库.md",
+      "routing_target": "industrial_equipment_cases",
+      "status": "active"
+    },
+    "china_manufacturer_cases": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "中国制造商社媒出海案例", "工厂社媒出海",
+        "中国制造社媒获客", "制造商海外社媒"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/中国制造商社媒出海获客案例库.md",
+      "routing_target": "china_manufacturer_cases",
+      "status": "active"
+    },
+    "youtube_machinery_seo": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "YouTube机械设备频道SEO", "YouTube机械SEO",
+        "YouTube设备频道获客", "YouTube搜索优化机械",
+        "YouTube频道SEO获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/YouTube机械设备频道SEO获客SOP.md",
+      "routing_target": "youtube_machinery_seo",
+      "status": "active"
+    },
+    "instagram_adult_compliance": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Instagram成人用品合规", "IG成人内容边界",
+        "Instagram成人运营合规", "IG敏感内容",
+        "Instagram成人用品怎么发"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Instagram成人用品合规运营边界.md",
+      "routing_target": "instagram_adult_compliance",
+      "status": "active"
+    },
+    "multi_language_subtitle": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "多语言字幕制作", "视频多语言配音",
+        "低成本多语言字幕", "视频翻译字幕",
+        "多语种视频制作"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/多语言字幕配音低成本制作SOP.md",
+      "routing_target": "multi_language_subtitle",
+      "status": "active"
+    },
+    "b2b_script_templates": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "B2B短视频脚本模板", "B2B视频脚本怎么写",
+        "工厂视频脚本模板", "设备视频脚本"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/B2B短视频脚本模板库.md",
+      "routing_target": "b2b_script_templates",
+      "status": "active"
+    },
+    "food_machinery_shooting_sop": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "食品机械短视频拍摄", "食品机械怎么拍视频",
+        "食品机械视频拍摄SOP", "工厂视频拍摄标准"
+      ],
+      "entry_point": "10-食品加工机械作战体系/食品机械短视频拍摄SOP.md",
+      "routing_target": "food_machinery_shooting_sop",
+      "status": "active"
+    },
+    "account_ban_top10": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "外贸社媒封号原因", "社媒账号被封",
+        "为什么被封号", "社媒账号封号TOP10",
+        "账号被封怎么办", "社媒封号预防"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/外贸社媒获客封号原因TOP10.md",
+      "routing_target": "account_ban_top10",
+      "status": "active"
+    },
+    "multi_account_risk": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "多账号矩阵运营风险", "多账号运营风控",
+        "多账号会被封吗", "矩阵账号风险",
+        "多账号怎么管理"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/多账号矩阵运营风险与应对.md",
+      "routing_target": "multi_account_risk",
+      "status": "active"
+    },
+    "regional_compliance_diff": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "中东欧美合规差异", "欧美欧盟合规差异",
+        "不同地区合规要求", "中东vs欧美合规",
+        "美国欧盟合规对比"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/中东欧美美国欧盟合规差异.md",
+      "routing_target": "regional_compliance_diff",
+      "status": "active"
+    },
+    "tiktok_food_machinery_playbook": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "TikTok食品机械自然流量", "TikTok食品机械打法",
+        "食品机械TikTok怎么发", "TikTok食品机械获客"
+      ],
+      "entry_point": "02-跨境社媒获客/海外视频自然获客/TikTok食品机械自然流量打法.md",
+      "routing_target": "tiktok_food_machinery_playbook",
+      "status": "active"
+    },
+    "tiktok_3second_hook": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "TikTok开头3秒钩子", "TikTok完播率提升",
+        "视频开头怎么吸引人", "TikTok钩子怎么写",
+        "3秒钩子技巧"
+      ],
+      "entry_point": "02-跨境社媒获客/海外视频自然获客/TikTok开头3秒钩子与完播率提升SOP.md",
+      "routing_target": "tiktok_3second_hook",
+      "status": "active"
+    },
+    "tiktok_adult_compliance": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "TikTok成人用品合规", "TikTok成人内容边界",
+        "TikTok敏感内容限制", "TikTok成人用品怎么发"
+      ],
+      "entry_point": "02-跨境社媒获客/海外视频自然获客/TikTok成人用品合规边界清单.md",
+      "routing_target": "tiktok_adult_compliance",
+      "status": "active"
+    },
+    "douyin_cold_start": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "抖音B2B冷启动", "抖音机械设备冷启动",
+        "抖音新账号怎么起", "抖音冷启动策略",
+        "抖音B2B账号搭建"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/抖音B2B机械设备账号冷启动策略.md",
+      "routing_target": "douyin_cold_start",
+      "status": "active"
+    },
+    "douyin_hashtag_library": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "抖音食品机械话题", "抖音食品机械标签",
+        "抖音食品机械hashtag", "抖音食品机械话题库"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/抖音食品机械内容标签与话题库.md",
+      "routing_target": "douyin_hashtag_library",
+      "status": "active"
+    },
+    "douyin_blue_v": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "抖音蓝V企业号获客", "抖音蓝V怎么做",
+        "抖音企业号运营", "蓝V认证获客"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/抖音蓝V企业号获客SOP.md",
+      "routing_target": "douyin_blue_v",
+      "status": "active"
+    },
+    "douyin_vs_video_account": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "抖音和视频号对比", "抖音vs视频号外贸",
+        "抖音还是视频号获客", "抖音视频号选哪个"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/抖音与视频号外贸获客对比.md",
+      "routing_target": "douyin_vs_video_account",
+      "status": "active"
+    },
+    "douyin_comment_dm": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "抖音评论区留资", "抖音私信转化",
+        "抖音评论区获客", "抖音评论转私信",
+        "抖音留资转化SOP"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/抖音评论区私信留资转化SOP.md",
+      "routing_target": "douyin_comment_dm",
+      "status": "active"
+    },
+    "video_account_feasibility": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "视频号B2B机械获客可行吗", "视频号机械获客",
+        "视频号适合B2B吗", "视频号机械可行性"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/视频号B2B机械获客可行性分析.md",
+      "routing_target": "video_account_feasibility",
+      "status": "active"
+    },
+    "video_account_live_vs_short": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "视频号直播和短视频哪个好", "视频号直播vs短视频",
+        "视频号直播获客", "视频号短视频获客对比"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/视频号直播与短视频获客对比.md",
+      "routing_target": "video_account_live_vs_short",
+      "status": "active"
+    },
+    "video_account_moments_oa": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "视频号朋友圈公众号联动", "视频号联动获客",
+        "视频号朋友圈怎么联动", "视频号公众号联动"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/视频号朋友圈公众号联动获客SOP.md",
+      "routing_target": "video_account_moments_oa",
+      "status": "active"
+    },
+    "video_account_wecom": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "视频号私信转企业微信", "视频号企微承接",
+        "视频号私域转化", "视频号企业微信SOP"
+      ],
+      "entry_point": "02-跨境社媒获客/国内视频号获客/视频号私信与企业微信承接SOP.md",
+      "routing_target": "video_account_wecom",
+      "status": "active"
     }
   },
   "routing_logic": "1. 提取用户问题中的平台/地区/行业关键词 -> 2. 匹配到对应子路由 -> 3. 返回 entry_point 路径供 AI 读取具体文档",
   "cross_platform_queries": "如果问题涉及跨平台策略（如多平台矩阵），先读取地区偏好判断表，再读取30天执行检查表。如果涉及免费+付费组合，读取联动SOP",
-  "total_routes": 24,
-  "p0_routes": 6,
-  "p1_routes": 11,
-  "p2_routes": 5,
-  "p3_routes": 2,
+  "total_routes": 65,
+  "p0_routes": 8,
+  "p1_routes": 37,
+  "p2_routes": 17,
+  "p3_routes": 3,
   "status": "active"
 }
