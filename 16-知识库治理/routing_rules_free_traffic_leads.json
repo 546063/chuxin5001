@@ -1,7 +1,7 @@
 {
   "router_name": "free_traffic_leads_router",
-  "version": "2026-05-22-v1",
-  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/Reels、TikTok自然流、YouTube Shorts、Instagram Reels、Reddit、X、Quora、Pinterest，以及地区内容偏好、WhatsApp 承接、30天执行计划。",
+  "version": "2026-05-22-v2",
+  "description": "海外免费流量与自然短视频获客路由，覆盖 Facebook Group/Page/个人号/Marketplace/违规风险、TikTok自然流增强、YouTube Shorts增强、Instagram Reels增强、Reddit、X、Quora、爆款策略、机械设备专项、免费+付费联动。",
   "platforms": {
     "facebook_group": {
       "router_file": "routing_rules_free_traffic_leads.json",
@@ -12,6 +12,126 @@
       ],
       "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook Group发帖获客SOP.md",
       "routing_target": "facebook_group_leads",
+      "status": "active"
+    },
+    "facebook_page": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook Page怎么做自然流量", "Facebook Page获客",
+        "Facebook主页怎么包装", "Facebook Page发帖频率",
+        "Facebook Page内容栏目", "Facebook Reels混排"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook Page自然流量获客SOP.md",
+      "routing_target": "facebook_free_posting",
+      "status": "active"
+    },
+    "facebook_personal": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook个人号怎么做内容获客", "Facebook个人号加好友",
+        "Facebook个人号发帖", "Facebook个人号转WhatsApp",
+        "Facebook个人号B2B", "个人号获客不垃圾"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook个人号内容获客SOP.md",
+      "routing_target": "facebook_free_posting",
+      "status": "active"
+    },
+    "facebook_marketplace": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook Marketplace适合食品机械吗", "Facebook Marketplace怎么获客",
+        "Facebook Marketplace卖设备", "Facebook MarketplaceB2B",
+        "Facebook Marketplace替代方案"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook Marketplace获客可行性分析.md",
+      "routing_target": "facebook_free_posting",
+      "status": "active"
+    },
+    "facebook_risk": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Facebook免费发布有哪些违规风险", "Facebook发帖被封号",
+        "Facebook群组违规", "Facebook垃圾内容",
+        "Facebook成人用品违规", "Facebook账号受限"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Facebook免费发布违规风险清单.md",
+      "routing_target": "facebook_free_posting",
+      "status": "active"
+    },
+    "tiktok_enhanced": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "TikTok自然流量怎么快速获客", "TikTok起号快还是慢",
+        "TikTok播放高没询盘怎么办", "TikTok食品机械怎么发",
+        "TikTok机械设备内容", "TikTok成人用品限制"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/TikTok自然流量快速获客增强版.md",
+      "routing_target": "tiktok_organic_leads",
+      "status": "active"
+    },
+    "youtube_enhanced": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "YouTube Shorts怎么做长期搜索获客", "YouTube Shorts推荐机制",
+        "YouTube Shorts标题怎么写", "YouTube Shorts描述区引流",
+        "YouTube长视频联动", "搜索沉淀内容"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/YouTube Shorts快速获客增强版.md",
+      "routing_target": "youtube_shorts_leads",
+      "status": "active"
+    },
+    "instagram_enhanced": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Instagram Reels怎么做机械设备获客", "Instagram Reels食品机械视觉",
+        "Instagram私信承接", "Instagram和Facebook Reels联动",
+        "Instagram成人用品限制"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Instagram Reels快速获客增强版.md",
+      "routing_target": "instagram_reels_leads",
+      "status": "active"
+    },
+    "reddit": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Reddit怎么做合规内容获客", "Reddit subreddit选择",
+        "Reddit不能硬广", "Reddit B2B设备",
+        "Reddit成人用品社区", "Reddit独立站承接"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Reddit内容获客SOP.md",
+      "routing_target": "reddit_leads",
+      "status": "active"
+    },
+    "x_twitter": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "X怎么做成人用品合规获客", "X内容获客",
+        "Twitter线程帖", "X B2B设备话题",
+        "X私信承接", "X独立站承接"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/X内容获客SOP.md",
+      "routing_target": "x_leads",
+      "status": "active"
+    },
+    "quora": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "Quora怎么做B2B设备问答获客", "Quora回答问题怎么引流",
+        "Quora不能硬广", "Quora食品机械问题",
+        "Quora个人资料页承接", "Quora成人用品敏感话题"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/Quora问答获客SOP.md",
+      "routing_target": "quora_leads",
       "status": "active"
     },
     "whatsapp_conversion": {
@@ -61,6 +181,19 @@
       "routing_target": "food_machinery_short_video",
       "status": "active"
     },
+    "machinery_equipment_topics": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "机械设备短视频怎么拍", "包装机械视频怎么拍",
+        "清洗设备视频选题", "输送线视频怎么拍",
+        "分拣设备短视频", "切割设备视频内容",
+        "机械设备爆款结构"
+      ],
+      "entry_point": "10-食品加工机械作战体系/机械设备短视频专项打法库.md",
+      "routing_target": "machinery_equipment_short_video",
+      "status": "active"
+    },
     "adult_product_compliance": {
       "router_file": "routing_rules_free_traffic_leads.json",
       "router_name": "free_traffic_leads_router",
@@ -71,11 +204,39 @@
       "entry_point": "11-选品产品情报站/成人用品与VR互动产品研究/成人用品VR互动平台合规发布边界清单.md",
       "routing_target": "adult_product_compliance_marketing",
       "status": "active"
+    },
+    "viral_strategy": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "免费短视频怎么做爆款", "短视频钩子怎么写",
+        "食品机械短视频公式", "机械设备短视频怎么拍",
+        "播放高但没询盘怎么办", "爆款后怎么承接询盘",
+        "短视频内容结构"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/免费短视频爆款打流量策略库.md",
+      "routing_target": "viral_short_video_strategy",
+      "status": "active"
+    },
+    "free_paid_integration": {
+      "router_file": "routing_rules_free_traffic_leads.json",
+      "router_name": "free_traffic_leads_router",
+      "trigger_keywords": [
+        "免费流量和付费投流怎么联动", "免费流量怎么筛选广告素材",
+        "自然视频改广告", "TikTok爆款怎么改成Facebook广告",
+        "什么时候从免费转付费", "食品机械组合打法",
+        "成人用品合规组合", "免费流量和付费投流怎么组合"
+      ],
+      "entry_point": "02-跨境社媒获客/海外免费流量获客/免费流量与付费投流联动SOP.md",
+      "routing_target": "free_traffic_leads",
+      "status": "active"
     }
   },
   "routing_logic": "1. 提取用户问题中的平台/地区/行业关键词 -> 2. 匹配到对应子路由 -> 3. 返回 entry_point 路径供 AI 读取具体文档",
-  "cross_platform_queries": "如果问题涉及跨平台策略（如多平台矩阵），先读取地区偏好判断表，再读取30天执行检查表",
-  "total_routes": 6,
-  "status": "active",
-  "notes": "本文档为 rsync 恢复后重建，当前仅包含 P0 核心路由。后续可补充 Facebook Page/Marketplace/个人号、Pinterest/X/Quora 独立路由、爆款策略等 P2/P3 模块。"
+  "cross_platform_queries": "如果问题涉及跨平台策略（如多平台矩阵），先读取地区偏好判断表，再读取30天执行检查表。如果涉及免费+付费组合，读取联动SOP",
+  "total_routes": 19,
+  "p0_routes": 6,
+  "p1_routes": 10,
+  "p2_routes": 3,
+  "status": "active"
 }
