@@ -1,36 +1,50 @@
 ---
+
 title: B5 AB测试方法论
 topic: ''
 created: '2026-04-28'
-updated: '2026-05-17'
-type: knowledge
 status: active
-quality_level: B
-summary_cn: A/B测试三阶段框架：Phase 1发现（新素材同时测试）、Phase 2验证（新 vs 历史最佳）、Phase 3规模化（赢家导入CBO并淘汰底部20%）。测试优先级：素材（70-80%效果）>
-  Hook（前3秒）> Offer > 受众 > 版位 > 出价。素材疲劳5要素诊断（跑了2-4周/频次>2.5/CTR降>20%/CPA涨>30%/情绪重复），满足任意2项即触发迭代。轮换节奏：高预算小受众3-4天、中等预算7-10天、低预算大受众14-21天。
+summary_cn: A/B测试三阶段框架:Phase 1发现（新素材同时测试）、Phase 2验证（新 vs 历史最佳）、Phase 3规模化（赢家导入CBO并淘汰底部20%）。测试优先级:素材（70-80%效果）>
+  Hook（前3秒）> Offer > 受众 > 版位 > 出价。素材疲劳5要素诊断（跑了2-4周/频次>2.5/CTR降>20%/CPA涨>30%/情绪重复），满足任意2项即触发迭代。轮换节奏:高预算小受众3-4天、中等预算7-10天、低预算大受众14-21天。
 summary_en: Document regarding B5_AB测试方法论. Reference for business decisions.
-one_sentence_summary: A/B测试方法论：三阶段框架+单变量控制+统计显著性
-decision_value: Advertising and traffic documentation
+one_sentence_summary: A/B测试方法论:三阶段框架+单变量控制+统计显著性
 review_note: AB测试方法论参考
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/AB测试"
+    - "#facebook广告/测试方法论"
+    - "#facebook广告/迭代策略"
+related:
+    - "[[B3_优化策略框架]]"
+    - "[[C3_素材测试与迭代SOP]]"
+    - "[[A5_执行SOP]]"
+retrieval_keywords:
+    - 测试方法论
+    - 一句话总结
+    - 测试三阶段框架
+    - 迭代三大策略
+    - 轮换节奏
+    - 测试优先级排序
+    - 核心结论
+    - 待补充
+    - 适用场景
+    - 适合平台
+decision_value: "用于B5 AB测试方法论的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

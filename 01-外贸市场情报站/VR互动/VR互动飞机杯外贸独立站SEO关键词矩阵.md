@@ -19,7 +19,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 构建VR互动飞机杯外贸独立站的五层SEO关键词矩阵，覆盖核心品类词、功能场景词、长尾购买意图词、多语言本地化词和内容营销词。核心策略：头部品类词竞争极高但转化低，品牌对比词+长尾场景词是0-6个月最优切入点，6-18个月建立内容营销词壁垒+多语言覆盖。提供搜索量、KD、CPC估算及优先级标注。所有数据为行业估算值，精确数据需Ahrefs/Semrush验证。
+summary_cn: 构建VR互动飞机杯外贸独立站的五层SEO关键词矩阵，覆盖核心品类词、功能场景词、长尾购买意图词、多语言本地化词和内容营销词。核心策略:头部品类词竞争极高但转化低，品牌对比词+长尾场景词是0-6个月最优切入点，6-18个月建立内容营销词壁垒+多语言覆盖。提供搜索量、KD、CPC估算及优先级标注。所有数据为行业估算值，精确数据需Ahrefs/Semrush验证。
 summary_en: Five-tier SEO keyword matrix for VR interactive adult toy independent sites, covering core category terms, functional scenario keywords, long-tail purchase-intent phrases, and multi-language localization. Data estimated from Google Trends RSV and SERP analysis.
 related:
   - "[[01-目录总览MOC]]"

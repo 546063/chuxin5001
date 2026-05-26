@@ -21,7 +21,7 @@ type: research
 status: 调研完成
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: VR互动飞机杯外贸全景调研报告（总览MOC），整合13个子调研模块：产品技术架构、全球市场分析、搜索热度、增长潜力、产业带、竞品选品、海关数据、独立站拆解、SEO关键词矩阵、支付合规、社媒KOL营销等。核心结论：CAGR 60%+，当前市场规模约$1亿，2028年预测$4.2亿。最佳切入价格带$50-100的VR同步入门级产品。核心市场北美/西欧，核心产业带广东深圳/东莞，增长引擎依赖"联盟分销+Reddit口碑+X内容+OnlyFans创作者合作"。
+summary_cn: VR互动飞机杯外贸全景调研报告（总览MOC），整合13个子调研模块:产品技术架构、全球市场分析、搜索热度、增长潜力、产业带、竞品选品、海关数据、独立站拆解、SEO关键词矩阵、支付合规、社媒KOL营销等。核心结论:CAGR 60%+，当前市场规模约$1亿，2028年预测$4.2亿。最佳切入价格带$50-100的VR同步入门级产品。核心市场北美/西欧，核心产业带广东深圳/东莞，增长引擎依赖"联盟分销+Reddit口碑+X内容+OnlyFans创作者合作"。
 summary_en: Master overview report integrating 13 sub-research modules covering product tech, global markets, customs data, SEO keywords, competitor analysis, social media KOL ecosystem, payment compliance, and supply chain. Core finding: CAGR 60%+, $100M current market, predicted $420M by 2028.
 related:
   - "[[01-目录总览MOC]]"

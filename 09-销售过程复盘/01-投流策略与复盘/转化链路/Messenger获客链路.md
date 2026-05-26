@@ -9,7 +9,7 @@ platform: Facebook Messenger
 industry: 食品加工机械B2B
 scenario: Facebook获客转化
 quality_level: A
-summary_cn: Messenger获客链路：Facebook广告→Messenger互动→自动回复+标签分流→私聊→WhatsApp/邮件转移→成交。Messenger是Facebook平台的原生消息工具，优势是用户熟悉、响应率高。关键配置：自动回复规则、标签体系（#new_inquiry/#hot_lead等）、向WhatsApp/邮件转移的触发条件。与WhatsApp链路类似，但平台是Messenger。
+summary_cn: Messenger获客链路:Facebook广告→Messenger互动→自动回复+标签分流→私聊→WhatsApp/邮件转移→成交。Messenger是Facebook平台的原生消息工具，优势是用户熟悉、响应率高。关键配置:自动回复规则、标签体系（#new_inquiry/#hot_lead等）、向WhatsApp/邮件转移的触发条件。与WhatsApp链路类似，但平台是Messenger。
 summary_en: Messenger lead funnel: FB ads → Messenger interaction → auto-reply + tag → chat → WhatsApp/email transfer → deal. Messenger advantage: native FB tool, high response rate. Key: auto-reply rules, tag system, transfer triggers.
 tags:
   - - - - - #转化链路

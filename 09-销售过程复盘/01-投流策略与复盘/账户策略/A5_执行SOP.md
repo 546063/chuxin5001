@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: 账户策略执行SOP：从开户到上线的全流程操作清单。包含账户结构搭建→Pixel/CAPI安装→受众定向设置→出价策略配置→素材上传→冷启动监控→数据优化决策。核心原则：结构清晰、追踪完整、预算充足、耐心等待学习期。
+summary_cn: 账户策略执行SOP:从开户到上线的全流程操作清单。包含账户结构搭建→Pixel/CAPI安装→受众定向设置→出价策略配置→素材上传→冷启动监控→数据优化决策。核心原则:结构清晰、追踪完整、预算充足、耐心等待学习期。
 summary_en: Account strategy execution SOP: account setup → Pixel/CAPI → audience targeting → bidding → creative upload → cold start monitoring → data optimization.
 tags:
   - - - - - #投流策略

@@ -6,10 +6,10 @@ updated: '2026-05-17'
 type: strategy
 status: active
 quality_level: B
-summary_cn: 食品机械行业B2B广告素材策略。高客单价/低频次/长决策周期，核心目标是引发询盘。有效素材4标准：展示真实/数据支撑/建立信任/降低门槛。素材类型效果排名：对比型视频>工厂实拍Tour>设备运行特写>客户证言视频>产品轮播图。含文案钩子库（痛点型/数据型/信任型）和15秒/60秒视频制作指南。
+summary_cn: 食品机械行业B2B广告素材策略。高客单价/低频次/长决策周期，核心目标是引发询盘。有效素材4标准:展示真实/数据支撑/建立信任/降低门槛。素材类型效果排名:对比型视频>工厂实拍Tour>设备运行特写>客户证言视频>产品轮播图。含文案钩子库（痛点型/数据型/信任型）和15秒/60秒视频制作指南。
 summary_en: Effective B2B creative strategy for food machinery - high ticket, low
   frequency, long cycle. Core goal is generating inquiries.
-one_sentence_summary: B2B投流策略：客户类型×平台匹配，定向+预算+优化
+one_sentence_summary: B2B投流策略:客户类型×平台匹配，定向+预算+优化
 decision_value: Ad targeting and creative reference
 review_note: 广告素材策略参考
 category: 投流策略

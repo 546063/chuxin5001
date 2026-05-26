@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: Facebook广告优化诊断SOP：按CPM/CTR/CVR/CPA四维度的排查流程。每个维度包含：正常范围→异常识别→排查步骤→解决方案→预防措施。核心原则：数据驱动诊断，小步验证，避免大幅调整导致的系统波动。
+summary_cn: Facebook广告优化诊断SOP:按CPM/CTR/CVR/CPA四维度的排查流程。每个维度包含:正常范围→异常识别→排查步骤→解决方案→预防措施。核心原则:数据驱动诊断，小步验证，避免大幅调整导致的系统波动。
 summary_en: Facebook ad optimization diagnosis SOP: CPM/CTR/CVR/CPA four-dimension troubleshooting. Normal range → anomaly identification → troubleshooting → solution → prevention.
 tags:
   - - - - - #投流策略

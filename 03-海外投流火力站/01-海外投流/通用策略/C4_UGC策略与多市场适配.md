@@ -1,38 +1,51 @@
 ---
+
 title: C4 UGC策略与多市场适配
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: knowledge
 status: active
-quality_level: B
 summary_cn: UGC素材策略与多市场本地化方法论。UGC vs 品牌片选择（UGC转化通常更高）、5种UGC类型（开箱/对比测评/使用教程/用户证言/场景展示）、UGC采集SOP、微影响力者渠道（1K-10K粉丝）、Creator获取渠道（Billo/Fiverr/Upwork/TikTok
-  Creator Marketplace）。多市场适配：12个重点市场素材指南（美国/东南亚/西语/欧洲等），本地化Checklist（母语审核/货币/度量衡/文化敏感点）。
+  Creator Marketplace）。多市场适配:12个重点市场素材指南（美国/东南亚/西语/欧洲等），本地化Checklist（母语审核/货币/度量衡/文化敏感点）。
 summary_en: UGC creative strategy and multi-market adaptation - UGC vs brand film
   selection, 5 UGC types, creator acquisition SOP, 12 market adaptation guides, localization
   checklist.
-one_sentence_summary: UGC素材收集与授权：五步流程+免费备件包激励
-decision_value: Advertising and traffic documentation
+one_sentence_summary: UGC素材收集与授权:五步流程+免费备件包激励
 review_note: UGC策略参考
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/UGC策略"
+    - "#facebook广告/多市场适配"
+    - "#facebook广告/本地化"
+related:
+    - "[[C3_素材测试与迭代SOP]]"
+    - "[[C1_素材底层逻辑与算法偏好]]"
+retrieval_keywords:
+    - UGC
+    - 策略与多市场适配
+    - 一句话总结
+    - 采集
+    - SOP
+    - 品牌片选择
+    - 多市场适配
+    - 西语
+    - 东南亚注意事项
+    - 类型与测试预算
+decision_value: "用于C4 UGC策略与多市场适配的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

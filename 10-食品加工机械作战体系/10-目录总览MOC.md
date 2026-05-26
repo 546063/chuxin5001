@@ -45,7 +45,9 @@ This directory is the core operational knowledge system for food processing mach
 
 ## S级核心文稿
 
-（暂无）
+| 文件 | 说明 |
+|------|------|
+| [[食品机械B2B增长系统]] | 食品机械选品、内容、投流、承接、成交、复盘的增长闭环总入口 |
 
 ## A级高价值文稿
 

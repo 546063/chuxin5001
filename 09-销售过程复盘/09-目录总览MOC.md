@@ -57,7 +57,7 @@ This directory is the central hub for sales process review, covering the complet
 
 | 文件 | 说明 |
 |------|------|
-| [[投流知识体系总览]] | 投流获客知识体系（销售线索来源） |
+| [[09-销售过程复盘/投流知识体系总览]] | 投流获客知识体系（销售线索来源） |
 | [[README]] | 本目录说明与使用指南 |
 
 ## C级整合文稿

@@ -6,9 +6,9 @@ updated: "2026-05-17"
 type: "case"
 status: "active"
 quality_level: "A"
-summary_cn: "## 一句话总结 > AI在跨境贸易中的四个价值标杆：Tricon Steamship减少报关填表时间、Scentsy用ShipERP处理7.5万订单发运效率+70%、Nuvocargo提高清关效率降低费用、FlavorCloud自动HS代码匹配准确率达98%。相关文档"
+summary_cn: "## 一句话总结 > AI在跨境贸易中的四个价值标杆:Tricon Steamship减少报关填表时间、Scentsy用ShipERP处理7.5万订单发运效率+70%、Nuvocargo提高清关效率降低费用、FlavorCloud自动HS代码匹配准确率达98%。相关文档"
 summary_en: "Document regarding 案例-AI驱动跨境履约-Tricon-Scentsy-Nuvocargo-FlavorCloud. Reference for business and personal development."
-one_sentence_summary: "# 案例-AI驱动跨境履约  ## 一句话总结 > AI在跨境贸易中的四个价值标杆：Tricon Steamship减少..."
+one_sentence_summary: "# 案例-AI驱动跨境履约  ## 一句话总结 > AI在跨境贸易中的四个价值标杆:Tricon Steamship减少..."
 decision_value: "高"
 review_note: "AI驱动跨境履约案例"
 category: "典型案例"
@@ -27,6 +27,7 @@ retrieval_keywords:
 - 竞争对手
 routing_target:
   - "[[12-行业竞品案例MOC]]"
+---
 ------
 
 # 案例-AI驱动跨境履约

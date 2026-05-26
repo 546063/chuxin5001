@@ -8,7 +8,7 @@ platform: WhatsApp/LinkedIn/Email/表单
 industry: 食品加工机械B2B
 scenario: 客户询盘首响
 quality_level: A
-summary_cn: 客服首响SOP规范：从线索到首次响应的标准流程。核心指标：WhatsApp首响<15分钟（高意向A级客户），Email/表单<2小时，LinkedIn<30分钟。包含分级响应策略（A/B/C/D级客户对应不同响应时限）、首响话术模板（WhatsApp/Email两种渠道）、渠道差异策略（WhatsApp即时响应vs LinkedIn thought leadership）、工具自动化配置（CRM标记+内容自动发送）、质检与考核标准。首响质量直接决定线索转化率，Dairy Machinery案例显示71%的表单提交者会发起WhatsApp对话。
+summary_cn: 客服首响SOP规范:从线索到首次响应的标准流程。核心指标:WhatsApp首响<15分钟（高意向A级客户），Email/表单<2小时，LinkedIn<30分钟。包含分级响应策略（A/B/C/D级客户对应不同响应时限）、首响话术模板（WhatsApp/Email两种渠道）、渠道差异策略（WhatsApp即时响应vs LinkedIn thought leadership）、工具自动化配置（CRM标记+内容自动发送）、质检与考核标准。首响质量直接决定线索转化率，Dairy Machinery案例显示71%的表单提交者会发起WhatsApp对话。
 summary_en: Customer service first response SOP: WhatsApp <15min, Email <2hr, LinkedIn <30min. Graded response by lead quality (A/B/C/D). First response quality directly determines lead conversion rate.
 tags:
   - - - - - #客服首响

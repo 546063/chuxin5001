@@ -6,7 +6,7 @@ updated: "2026-05-17"
 type: "scenario_template"
 status: "active"
 quality_level: "B"
-summary_cn: "LinkedIn B2B客户开发场景模板：B2B主动开发+定位+信任证据+内容传播模型，输出账号定位/搜索方法/连接话术/内容策略。适用于怎么找到B端客户、账号怎么搭建、怎么发私信不被无视、LinkedIn内容怎么写才有询盘等场景。"
+summary_cn: "LinkedIn B2B客户开发场景模板:B2B主动开发+定位+信任证据+内容传播模型，输出账号定位/搜索方法/连接话术/内容策略。适用于怎么找到B端客户、账号怎么搭建、怎么发私信不被无视、LinkedIn内容怎么写才有询盘等场景。"
 summary_en: "LinkedIn B2B customer development template: B2B active development + positioning + trust evidence + content distribution models, output account positioning/search methods/connection scripts/content strategy."
 one_sentence_summary: "LinkedIn客户开发": "客户开发与成交"核心方法和实战经验。
 decision_value: "中 - LinkedIn是B2B决策者主战场，主动开发模型帮助找到精准客户，但依赖外部AI模型生成内容"

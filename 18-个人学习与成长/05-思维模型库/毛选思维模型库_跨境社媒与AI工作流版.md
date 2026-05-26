@@ -5,12 +5,15 @@ aliases:
   - 矛盾论模型库
   - 外贸决策模型库
   - 跨境社媒思维模型
-source: 毛选思维模型.pdf
-type: model-library
+topic: 思维模型
+created: 2026-05-17
+updated: "2026-05-23"
+type: "model-library"
 status: draft
 quality_level: B
-created: 2026-05-17
-updated: 2026-05-21
+summary_cn: 本文只整理《毛选思维模型.pdf》中的15个模型，不合并此前的100个思维模型或《模型思维》。核心用途是把“矛盾分析”转成外贸获客、食品机械选品、客户成交、投流复盘、AI工作流和知识库治理中的判断工具。重点不是政治化学习，而是把复杂业务拆成主次矛盾、对立统一、特殊性、斗争性、同一性、质量互变、否定之否定等可执行的分析框架。
+summary_en: "This note extracts only the 15 models from the uploaded Mao-selected-thinking-model PDF and maps them to cross-border social media, B2B food machinery marketing, factory selection, client conversion, ad optimization, AI workflow, and Obsidian knowledge governance."
+decision_value: 用于判断业务卡点、找主要矛盾、筛选工厂/客户/产品、设计投流实验、复盘成交失败原因、规划AI知识库治理优先级。
 tags:
   - 思维模型
   - 毛选
@@ -21,16 +24,13 @@ tags:
   - AI工作流
   - 决策模型
 related:
-  - [[14-AI工具自动化MOC]]
-  - [[02-目录总览MOC]]
-  - [[03-目录总览MOC]]
-  - [[05-目录总览MOC]]
-  - [[10-食品机械作战MOC]]
-  - [[11-选品产品研究MOC]]
-  - [[16-目录总览MOC]]
-summary_cn: 本文只整理《毛选思维模型.pdf》中的15个模型，不合并此前的100个思维模型或《模型思维》。核心用途是把“矛盾分析”转成外贸获客、食品机械选品、客户成交、投流复盘、AI工作流和知识库治理中的判断工具。重点不是政治化学习，而是把复杂业务拆成主次矛盾、对立统一、特殊性、斗争性、同一性、质量互变、否定之否定等可执行的分析框架。
-summary_en: This note extracts only the 15 models from the uploaded Mao-selected-thinking-model PDF and maps them to cross-border social media, B2B food machinery marketing, factory selection, client conversion, ad optimization, AI workflow, and Obsidian knowledge governance.
-decision_value: 用于判断业务卡点、找主要矛盾、筛选工厂/客户/产品、设计投流实验、复盘成交失败原因、规划AI知识库治理优先级。
+  - "[[15-AI工作流与自动化]]"
+  - "[[02-跨境社媒获客]]"
+  - "[[03-海外投流]]"
+  - "[[05-客户开发与成交]]"
+  - "[[10-食品加工机械作战体系]]"
+  - "[[11-选品与产品研究]]"
+  - "[[16-知识库治理]]"
 retrieval_keywords:
   - 主次矛盾
   - 矛盾特殊性
@@ -43,6 +43,7 @@ retrieval_keywords:
   - AI工作流决策
 routing_target:
   - "[[16-学习成长蒸馏MOC]]"
+source: 毛选思维模型.pdf
 ---
 
 # 毛选思维模型库｜跨境社媒与AI工作流版

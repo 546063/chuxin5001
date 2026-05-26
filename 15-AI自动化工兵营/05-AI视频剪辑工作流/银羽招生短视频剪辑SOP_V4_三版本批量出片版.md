@@ -2,41 +2,27 @@
 title: 银羽招生短视频剪辑SOP V4 - 三版本批量出片版
 aliases:
   - 银羽V4批量出片版SOP
-  - 三版本批量剪辑SOP
-  - 多版本出片规范
-tags:
-  - #AI视频剪辑
-  - #SOP
-  - #银羽招生
-  - 批量出片
-  - 多版本
+topic: AI视频剪辑
+created: 2026-05-18
+updated: 2026-05-23
 type: sop
 status: active
-created: 2026-05-18
-updated: 2026-05-21
-summary_cn: V4 定义三版本批量出片流程：同批素材一次输出嘴型同步版、B-roll 强化版、发布推荐版，每个版本独立抽帧验收和报告，最后推荐最佳版本。三版本分别为V5嘴型同步版（口播25-30%）、V6 B-roll强化版（口播≤15%）、V7发布推荐版（口播20%）。
-summary_en: "V4 defines a three-version batch output workflow: same materials produce lip-sync version, B-roll enhanced version, and publish-recommended version simultaneously, each with independent QA."
-related:
-  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
-  - "[[06-内容素材创意MOC]]"
-  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
-retrieval_keywords:
-  - 批量出片
-  - 多版本剪辑
-  - 三版本对比
-  - 嘴型同步版
-  - B-roll强化版
-  - 发布推荐版
-  - 抽帧验收
-  - 版本选择
-  - 银羽招生
-  - 短视频批量
-decision_value: 提高出片效率，一次生成多版本供选择，避免反复单次剪辑，最后推荐最佳版本发布。
 quality_level: A
+summary_cn: V4 定义三版本批量出片流程:同批素材一次输出嘴型同步版、B-roll 强化版、发布推荐版，每个版本独立抽帧验收和报告，最后推荐最佳版本。
+summary_en: Reference note about 银羽招生短视频剪辑SOP V4 - 三版本批量出片版.
+decision_value: 提高出片效率，一次生成多版本供选择，避免反复单次剪辑。
+tags:
+  - AI视频剪辑
+  - 银羽招生
+  - 批量出片
+  - 多版本
+related:
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V1]]"
+  - "[[银羽招生短视频剪辑SOP_V2_口播嘴型同步版]]"
+  - "[[银羽招生短视频剪辑SOP_V3_Broll混剪强化版]]"
 routing_target:
-  - 视频剪辑
-  - AI工作流
-source: user
+  - "[[15-AI工作流与自动化]]"
+version: v4
 ---
 
 # 银羽招生短视频剪辑 SOP V4 — 三版本批量出片版

@@ -6,9 +6,9 @@ updated: '2026-05-17'
 type: 方法论
 status: active
 quality_level: B
-summary_cn: '## 适用场景 - 适合平台：Claude Code - 适合行业： - 适合场景：知识库维护相关文档'
+summary_cn: '## 适用场景 - 适合平台:Claude Code - 适合行业: - 适合场景:知识库维护相关文档'
 summary_en: Document regarding README. Reference for business decisions.
-one_sentence_summary: '# 女娲顾问知识库 README  ## 适用场景 - 适合平台：Claude Code - 适合行业： - 适合场景：...'
+one_sentence_summary: '# 女娲顾问知识库 README  ## 适用场景 - 适合平台:Claude Code - 适合行业: - 适合场景:...'
 decision_value: AI automation documentation
 review_note: General AI doc
 category: AI工作流

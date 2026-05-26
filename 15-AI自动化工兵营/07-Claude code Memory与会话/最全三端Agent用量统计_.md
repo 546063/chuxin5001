@@ -267,12 +267,12 @@ model_route:
 
 ---
 ## 关联笔记
-- [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版]] — 五段路由架构的模型选择依据
-- [[01-记忆与配置/用量统计/Hermes模型用量统计_2026-04]] — Hermes 4月详细模型分布
+- [[15-AI自动化工兵营/08-Claude-Code/模型及建议 各个模型版]] — 五段路由架构的模型选择依据
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/Hermes模型用量统计_2026-04]] — Hermes 4月详细模型分布
 - [[10-AI工具与自动化/OpenClaw配置/openclaw 模型使用情况全部]] — OpenClaw全量模型使用统计
-- [[10-AI工具与自动化/Claude配置/ClaudeCode配置]] — Claude Code多模型轮转配置和Key清单
-- [[01-记忆与配置/用量统计/最全三端Agent用量统计_]] — 统一用量统计系统（cc_connect/crewai/hermes/open）
-- [[11-智囊团与知识蒸馏/认知框架/Karpathy认知框架]] — 龙虾智能体平台的配置，含Hermes/OpenClaw
+- [[15-AI自动化工兵营/08-Claude-Code/ClaudeCode配置]] — Claude Code多模型轮转配置和Key清单
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/最全三端Agent用量统计_]] — 统一用量统计系统（cc_connect/crewai/hermes/open）
+- [[18-个人学习与成长/03-商业人物/Karpathy认知框架]] — 龙虾智能体平台的配置，含Hermes/OpenClaw
 
 ## 标签
 #类型/资源 #主题/用量统计 #主题/Agent #主题/Hermes #主题/OpenClaw #主题/Claude-Code #状态/活跃

@@ -12,7 +12,7 @@ created: 2026-04-17
 updated: 2026-05-04
 type: journal
 status: active
-summary_cn: 2026年4月上半月三款AI工具使用统计：Hermes（主Agent）会话382次、消息7679条、Token 1173万；Claude Code CLI 会话277次；OpenClaw 日志无记录。工具调用以terminal（2045次）、web_search（234次）、read_file（171次）为主。统计周期2026-04-01至04-17，下次更新时间周三/周六22:00。供AI工具效能评估参考。
+summary_cn: 2026年4月上半月三款AI工具使用统计:Hermes（主Agent）会话382次、消息7679条、Token 1173万；Claude Code CLI 会话277次；OpenClaw 日志无记录。工具调用以terminal（2045次）、web_search（234次）、read_file（171次）为主。统计周期2026-04-01至04-17，下次更新时间周三/周六22:00。供AI工具效能评估参考。
 quality_level: A
 decision_value: 高
 retrieval_keywords:
@@ -30,7 +30,7 @@ category: 国内业务
 platform: 多平台
 industry: 多行业
 scenario: 获客
-summary_en: [EN] 2026年4月上半月三款AI工具使用统计：Hermes（主Agent）会话382次、消息7679条、Token 1173万；Claude Code CLI 会话277次；OpenClaw 日志无记录。...
+summary_en: [EN] 2026年4月上半月三款AI工具使用统计:Hermes（主Agent）会话382次、消息7679条、Token 1173万；Claude Code CLI 会话277次；OpenClaw 日志无记录。...
 one_sentence_summary: 三Agent使用统计报告（2026-04-01 ~ 2026-04-17）是国内业务领域的核心方法。
 routing_target:
   - "[[13-国内业务代运营MOC]]"

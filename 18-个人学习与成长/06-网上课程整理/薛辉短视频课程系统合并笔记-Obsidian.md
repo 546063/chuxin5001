@@ -4,10 +4,15 @@ aliases:
   - 薛辉视频总结
   - 薛辉课程
   - 短视频脚本拍摄模型库
-type: course-note
-source: 用户上传课程文档
+topic: 课程学习
 created: 2026-05-17
-updated: 2026-05-21
+updated: "2026-05-23"
+type: "course-note"
+status: active
+quality_level: A
+summary_cn: 本文将薛辉短视频课程压缩为一篇 Obsidian 主文稿，保留原始课程文字，并提炼素材库、爆款选题、教知识脚本、观点脚本、故事脚本、晒过程脚本、拍摄呈现、剪辑、电商选品和直播间搭建等实操模型，重点连接到食品机械和跨境社媒内容生产。
+summary_en: "Consolidated Obsidian note for Xue Hui's short-video course, preserving source notes and extracting practical models for topic selection, scripting, filming, editing, ecommerce selection, and live room structure."
+decision_value: 高:可用于素材库搭建、短视频脚本、拍摄呈现、直播展示、产品内容生产
 tags:
   - 内容素材与创意
   - 短视频脚本
@@ -15,36 +20,16 @@ tags:
   - 直播间搭建
   - 跨境社媒
   - 食品机械获客
-quality_level: A
-decision_value: 高：可用于素材库搭建、短视频脚本、拍摄呈现、直播展示、产品内容生产
-routing_target:
-  - 04-内容素材与创意
-  - 02-跨境社媒获客
-  - 03-海外投流
-  - 10-食品加工机械作战体系
 related:
-  - 安老师短视频课程系统合并笔记
-  - 食品机械短视频内容系统
-  - 跨境社媒获客内容框架
-summary_cn: 本文将薛辉短视频课程压缩为一篇 Obsidian 主文稿，保留原始课程文字，并提炼素材库、爆款选题、教知识脚本、观点脚本、故事脚本、晒过程脚本、拍摄呈现、剪辑、电商选品和直播间搭建等实操模型，重点连接到食品机械和跨境社媒内容生产。
-summary_en: Consolidated Obsidian note for Xue Hui's short-video course, preserving source notes and extracting practical models for topic selection, scripting, filming, editing, ecommerce selection, and live room structure.
-retrieval_keywords:
-  - 薛辉
-  - 素材库
-  - 爆款选题
-  - 八大爆款元素
-  - 教知识脚本
-  - 观点脚本
-  - 晒过程脚本
-  - 口播表现力
-  - 运镜
-  - 景别
-  - 构图
-  - 电商选品
-  - 直播间
-  - 短视频脚本
-  - 跨境社媒
-status: draft
+  - "[[安老师短视频课程系统合并笔记]]"
+  - "[[食品机械短视频内容系统]]"
+  - "[[跨境社媒获客内容框架]]"
+routing_target:
+  - "[[04-内容素材与创意]]"
+  - "[[02-跨境社媒获客]]"
+  - "[[03-海外投流]]"
+  - "[[10-食品加工机械作战体系]]"
+source: 用户上传课程文档
 ---
 
 # 薛辉短视频课程系统合并笔记

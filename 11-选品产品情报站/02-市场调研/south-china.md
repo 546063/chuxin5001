@@ -21,7 +21,7 @@ relations:
   - - note: 待关联
 summary_cn: 华南产业带工厂调研文件，涵盖广东/广西/海南产业分布、机电产品/食品机械/3C配件供应商分布、1688拿货攻略、产业带选品机会分析，支撑跨境选品供应链对接。
 summary_en: South China industrial belt factory research covering Guangdong/Guangxi/Hainan industrial distribution, supplier networks for electrical machinery, food processing equipment, and consumer electronics, supporting cross-border product selection and supply chain connection.
-one_sentence_summary: 华南产业带：广东机电/食品机械/3C配件产业带分布与供应商清单。
+one_sentence_summary: 华南产业带:广东机电/食品机械/3C配件产业带分布与供应商清单。
 related:
 source: AI整理-2026-05-11
 category: 跨境选品

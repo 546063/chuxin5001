@@ -63,4 +63,4 @@ OpenClaw Agent 执行任务时的默认知识库调用指令。
 ## 相关文件
 
 - [[Claude Code总控提示词]]
-- [[11-智囊团与知识蒸馏/模型路由器/model-router]]
+- [[15-AI自动化工兵营/01-模型路由/02-模型路由器/model-router]]

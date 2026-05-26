@@ -1,36 +1,51 @@
 ---
+
+
 aliases: '[B2B广告素材复盘, 食品机械素材测试, B2B素材数据指标]'
-tags: '[#B2B获客 #广告素材 #素材测试 #食品加工机械 #Facebook广告 #TikTok广告 #数据复盘]'
 topic: ''
 created: '2026-05-10'
-updated: '2026-05-17'
-type: 能力页
 status: active
-quality_level: B
-summary_cn: '> **与通用框架的区别**：B2B 食品机械客单价高（≥¥20,000）、决策周期长（3-12月）、转化目标不是购买而是询盘（Lead）。所有指标基准和诊断逻辑都围绕"获客"而非"电商转化"。相关文档'
+summary_cn: '> **与通用框架的区别**:B2B 食品机械客单价高（≥¥20,000）、决策周期长（3-12月）、转化目标不是购买而是询盘（Lead）。所有指标基准和诊断逻辑都围绕"获客"而非"电商转化"。相关文档'
 summary_en: Document regarding B2B食品机械素材测试特化. Reference for business decisions.
-one_sentence_summary: B2B投流策略：客户类型×平台匹配，定向+预算+优化
-decision_value: Ad targeting and creative reference
+one_sentence_summary: B2B投流策略:客户类型×平台匹配，定向+预算+优化
 review_note: B2B食品机械素材测试参考
 category: ''
 platform: []
 industry: []
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-retrieval_keywords:
-  - Facebook B2B获客
-  - Facebook素材测试
-  - Facebook再营销受众
-  - 广告预算分配
-  - 广告素材疲劳诊断
-  - --
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/数据指标"
+    - "#facebook广告/ROAS拆解"
+    - "#facebook广告/行业基准"
+related:
+    - "[[A8_实战案例]]"
+    - "[[C3_素材测试与迭代SOP]]"
+    - "[[C1_素材底层逻辑与算法偏好]]"
+retrieval_keywords:
+    - 食品机械广告素材测试特化
+    - 与通用框架的区别
+    - 食品机械客单价高
+    - 决策周期长
+    - 转化目标不是购买而是询盘
+    - Lead
+    - 所有指标基准和诊断逻辑都围绕
+    - 获客
+    - 而非
+    - 电商转化
+decision_value: "用于B2B食品机械素材测试特化的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
+
 ---
 
 # B2B 食品机械广告素材测试特化

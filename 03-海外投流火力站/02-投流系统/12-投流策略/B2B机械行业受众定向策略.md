@@ -6,9 +6,9 @@ updated: '2026-05-17'
 type: strategy
 status: active
 quality_level: B
-summary_cn: 跨平台B2B食品机械行业受众定向方法论。客户类型×平台匹配表：中央厨房→Facebook+LinkedIn；预制菜工厂→Facebook+TikTok；肉类加工厂→Facebook；烧烤供应链→TikTok。兴趣关键词库（核心词/平台专属词）、人群包构建流程（种子数据→Lookalike扩展→过滤优化）、决策角色定向（老板/生产经理/采购经理/质量经理）。
+summary_cn: 跨平台B2B食品机械行业受众定向方法论。客户类型×平台匹配表:中央厨房→Facebook+LinkedIn；预制菜工厂→Facebook+TikTok；肉类加工厂→Facebook；烧烤供应链→TikTok。兴趣关键词库（核心词/平台专属词）、人群包构建流程（种子数据→Lookalike扩展→过滤优化）、决策角色定向（老板/生产经理/采购经理/质量经理）。
 summary_en: Cross-platform B2B audience targeting methodology for food machinery industry.
-one_sentence_summary: B2B投流策略：客户类型×平台匹配，定向+预算+优化
+one_sentence_summary: B2B投流策略:客户类型×平台匹配，定向+预算+优化
 decision_value: Ad targeting and creative reference
 review_note: 受众定向策略参考
 category: 投流策略

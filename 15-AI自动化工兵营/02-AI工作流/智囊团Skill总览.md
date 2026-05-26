@@ -9,7 +9,7 @@ updated: '2026-05-17'
 type: 工具技能
 status: active
 quality_level: B
-summary_cn: '> 合并来源：CEO助理 + 投放官 + 编导 → 统一索引 > 各专家完整知识库请参考对应文件相关文档'
+summary_cn: '> 合并来源:CEO助理 + 投放官 + 编导 → 统一索引 > 各专家完整知识库请参考对应文件相关文档'
 summary_en: Document regarding 智囊团Skill总览. Reference for business decisions.
 one_sentence_summary: '"智囊团Skill总览"': AI工作流核心方法和实战经验。
 decision_value: AI automation documentation

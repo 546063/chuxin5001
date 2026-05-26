@@ -17,7 +17,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 基于Google Trends RSV指数和学术研究数据，分析"VR sex toy"/"interactive masturbator"/"haptic sex toy"等关键词过去5年全球搜索趋势。核心发现：属于高增长低基数长尾品类，2023-2024年随Meta Quest 3发布出现明显拐点。男性自慰器（masturbator）整体搜索趋势持续正增长（β=0.824），VR/交互子类增速更快。详述趋势走势、品类趋势对比、代理指标推断和多语言搜索行为差异。
+summary_cn: 基于Google Trends RSV指数和学术研究数据，分析"VR sex toy"/"interactive masturbator"/"haptic sex toy"等关键词过去5年全球搜索趋势。核心发现:属于高增长低基数长尾品类，2023-2024年随Meta Quest 3发布出现明显拐点。男性自慰器（masturbator）整体搜索趋势持续正增长（β=0.824），VR/交互子类增速更快。详述趋势走势、品类趋势对比、代理指标推断和多语言搜索行为差异。
 summary_en: Analyzes 5-year global search trends for VR sex toy keywords using Google Trends RSV and academic research. Finds high-growth low-base long-tail category with inflection point in 2023-2024 following Meta Quest 3 launch.
 related:
   - "[[01-目录总览MOC]]"

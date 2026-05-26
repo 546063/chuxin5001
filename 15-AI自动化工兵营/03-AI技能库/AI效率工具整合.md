@@ -6,11 +6,11 @@ updated: '2026-05-17'
 type: merged_knowledge_node
 status: active
 quality_level: B
-summary_cn: AI效率工具整合：涵盖DevOps运维、Apple系统、邮件管理、社交媒体、休闲娱乐、智能家居等分类的技能索引与工具配置。用于快速查找AI技能库中的效率工具类资源。
+summary_cn: AI效率工具整合:涵盖DevOps运维、Apple系统、邮件管理、社交媒体、休闲娱乐、智能家居等分类的技能索引与工具配置。用于快速查找AI技能库中的效率工具类资源。
 summary_en: 'AI productivity tools integration: covering DevOps, Apple systems, email
   management, social media, entertainment, and smart home skill indexes. Used for
   quickly finding productivity tool resources in AI skill library.'
-one_sentence_summary: '# AI效率工具整合  ## 一句话总结  AI效率工具技能库整合：DevOps、Apple、邮件、社媒、休闲娱乐、智能...'
+one_sentence_summary: '# AI效率工具整合  ## 一句话总结  AI效率工具技能库整合:DevOps、Apple、邮件、社媒、休闲娱乐、智能...'
 decision_value: AI tool usage and prompt engineering reference
 review_note: AI tool reference
 category: ''

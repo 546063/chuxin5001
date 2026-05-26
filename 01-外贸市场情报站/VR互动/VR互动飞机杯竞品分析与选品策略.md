@@ -17,7 +17,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 全面分析VR互动飞机杯市场竞争格局与选品策略。核心结论："两超多强"态势——Kiiroo Keon和The Handy 2占据高端，Lovense Max 2占据中端，Autoblow AI Ultra切入AI差异化，SVAKOM Sam Neo 2 Pro主打性价比。详述各竞品价格、核心技术、同步方式、兼容VR平台、Bedbible评分、优缺点对比。对新入局卖家，$50-100价格带的VR同步入门级产品是当前最大空白机会。
+summary_cn: 全面分析VR互动飞机杯市场竞争格局与选品策略。核心结论:"两超多强"态势——Kiiroo Keon和The Handy 2占据高端，Lovense Max 2占据中端，Autoblow AI Ultra切入AI差异化，SVAKOM Sam Neo 2 Pro主打性价比。详述各竞品价格、核心技术、同步方式、兼容VR平台、Bedbible评分、优缺点对比。对新入局卖家，$50-100价格带的VR同步入门级产品是当前最大空白机会。
 summary_en: Comprehensive competitor matrix for VR interactive male masturbators. "Two superpowers, multiple strong players"格局: Kiiroo Keon + The Handy 2 (high-end), Lovense Max 2 (mid-range), Autoblow AI Ultra (AI differentiation), SVAKOM Sam Neo 2 Pro (value). Identifies $50-100 VR-sync entry-level as the biggest gap opportunity.
 related:
   - "[[01-目录总览MOC]]"

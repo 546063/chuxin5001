@@ -21,7 +21,7 @@ tags:
 related: 
 created: '2026-05-10'
 source: 06-国内业务
-summary: 迁移自06-国内业务：龙虾MEMORY (1)
+summary: 迁移自06-国内业务:龙虾MEMORY (1)
 quality_level: B
 decision_value: 中
 review_note: 产业带与运营研究

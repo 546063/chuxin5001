@@ -24,7 +24,7 @@ related:
   - "[[VR互动飞机杯海外社媒营销生态调研-Obsidian文稿]]"
   - "[[11-选品产品研究MOC]]"
   - "[[11-选品产品研究MOC]]"
-summary_cn: 本文用公开可验证数据，对VR互动飞机杯/智能飞机杯相关HS编码、2022-2024年中国出口镜像数据、主要目标国从中国进口情况、Panjiva/ImportGenius公开样本、以及Kiiroo/Lovense/The Handy/Fleshlight/SexLikeReal等竞品独立站流量与营销结构进行整理。重点结论：智能飞机杯不能用一个HS编码精确覆盖，最常见代理编码是9019.10按摩器具；硅胶/塑料非电动件可能落3926.90；独立电功能设备可能落8543.70；现代电子VR头显常落8528.52而不是9004.90。中国9019.10出口2024年约47.88亿美元，美国、日本、德国、英国、澳大利亚、加拿大仍是最值得优先开发市场。
+summary_cn: 本文用公开可验证数据，对VR互动飞机杯/智能飞机杯相关HS编码、2022-2024年中国出口镜像数据、主要目标国从中国进口情况、Panjiva/ImportGenius公开样本、以及Kiiroo/Lovense/The Handy/Fleshlight/SexLikeReal等竞品独立站流量与营销结构进行整理。重点结论:智能飞机杯不能用一个HS编码精确覆盖，最常见代理编码是9019.10按摩器具；硅胶/塑料非电动件可能落3926.90；独立电功能设备可能落8543.70；现代电子VR头显常落8528.52而不是9004.90。中国9019.10出口2024年约47.88亿美元，美国、日本、德国、英国、澳大利亚、加拿大仍是最值得优先开发市场。
 summary_en: This report summarizes HS code mapping, China export mirror data, target-country import data, public Panjiva/ImportGenius shipment samples, and competitor DTC site analysis for VR interactive male masturbators and smart adult devices.
 decision_value: 高。用于判断出口编码、目标国优先级、买家开发、竞品SEO和独立站打法。
 retrieval_keywords:

@@ -1,45 +1,39 @@
 ---
-title: "《Contagious》｜社交传播与内容增长选题模型"
-topic: "书籍模型库"
-type: "book_note"
-status: "active"
-quality_level: "A"
+title: 《Contagious》｜社交传播与内容增长选题模型
+topic: 书籍模型库
 created: "2026-05-18"
-updated: "2026-05-21"
-summary_cn: "《Contagious》适合转化成一套用STEPPS设计社交传播、触发点、情绪、实用价值和故事包装的内容增长模型。"
+updated: "2026-05-23"
+type: book_note
+status: active
+quality_level: A
+summary_cn: 《Contagious》适合转化成一套用STEPPS设计社交传播、触发点、情绪、实用价值和故事包装的内容增长模型。
 summary_en: "A work-connected note distilling Contagious into the STEPPS framework: Social Currency, Triggers, Emotion, Public, Practical Value, and Stories."
-decision_value: "用于TikTok、Facebook、YouTube Shorts、LinkedIn内容选题、社交传播设计、产品素材、品牌话题和内容增长复盘。"
-category: "内容、社媒与增长"
-platform: ["TikTok", "Facebook", "YouTube Shorts", "LinkedIn", "Instagram", "WhatsApp"]
-industry: ["跨境社媒", "一人公司", "B2B获客", "内容增长", "社交传播"]
-scenario: ["内容选题", "社交传播", "短视频增长", "LinkedIn内容", "Facebook内容", "YouTube Shorts"]
-routing_target: "18-个人学习与成长/书籍模型库"
+decision_value: 用于TikTok、Facebook、YouTube Shorts、LinkedIn内容选题、社交传播设计、产品素材、品牌话题和内容增长复盘。
 tags:
-  - "#书籍蒸馏"
-  - "#决策框架"
-  - "#内容增长"
-  - "#社交传播"
-related:
-  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
-  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
-  - "[[16-学习成长蒸馏MOC]]"
-retrieval_keywords:
-aliases:
-  - Contagious-社交传播与内容增长
-  - 书籍蒸馏
-  - 决策框架  - Contagious
-  - STEPPS
-  - 社交货币
-  - 触发点
-  - 情绪传播
-  - 实用价值
+  - 书籍笔记
+  - 学习
+routing_target: "18-个人学习与成长/书籍模型库"
+category: 内容、社媒与增长
+platform:
+  - TikTok
+  - Facebook
+  - YouTube Shorts
+  - LinkedIn
+  - Instagram
+  - WhatsApp
+industry:
+  - 跨境社媒
+  - 一人公司
+  - B2B获客
   - 内容增长
   - 社交传播
-  - 病毒营销
-  - 跨境社媒选题
-  - TikTok增长
+scenario:
+  - 内容选题
+  - 社交传播
+  - 短视频增长
   - LinkedIn内容
-source: book
+  - Facebook内容
+  - YouTube Shorts
 ---
 
 # 《Contagious》｜社交传播与内容增长选题模型

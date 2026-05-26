@@ -19,7 +19,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 制定VR互动飞机杯海外社交媒体营销的可执行策略。核心结论：面临"主流平台封杀+支付通道受限"双重障碍，成功路径为X/Twitter作为唯一开放主流社交平台+Reddit社区口碑运营+联盟营销驱动KOC扩散+SEO长尾关键词截流。详述各平台政策红线、可操作社区/论坛列表、网红KOL合作模式、联盟营销体系搭建、内容营销策略和预算分配建议。PinkCherry和Lovense是已验证的成功模型。
+summary_cn: 制定VR互动飞机杯海外社交媒体营销的可执行策略。核心结论:面临"主流平台封杀+支付通道受限"双重障碍，成功路径为X/Twitter作为唯一开放主流社交平台+Reddit社区口碑运营+联盟营销驱动KOC扩散+SEO长尾关键词截流。详述各平台政策红线、可操作社区/论坛列表、网红KOL合作模式、联盟营销体系搭建、内容营销策略和预算分配建议。PinkCherry和Lovense是已验证的成功模型。
 summary_en: Actionable overseas social media marketing strategy for VR interactive adult toys. Dual challenge: platform bans + payment restrictions. Proven path: X/Twitter + Reddit community + affiliate KOC + SEO long-tail. PinkCherry and Lovense as validated success models.
 related:
   - "[[01-目录总览MOC]]"

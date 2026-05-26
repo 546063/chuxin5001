@@ -190,7 +190,7 @@ cc-connect daemon status
 
 cc-connect 配置（`~/.cc-connect/config.toml`）：
 ```toml
-[[01-记忆与配置/配置/TOOLS|projects]]
+[[15-AI自动化工兵营/07-Claude code Memory与会话/TOOLS|projects]]
 name = "claude-code-telegram"
 [projects.agent]
 type = "claudecode"

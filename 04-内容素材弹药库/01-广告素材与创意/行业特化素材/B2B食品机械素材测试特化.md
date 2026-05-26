@@ -1,35 +1,40 @@
 ---
 title: B2B食品机械素材测试特化
+tags:
+  - #facebook广告/素材测试
+  - #食品机械/视频素材
+type: "sop"
+domain: "video_factory"
+scenario: "ad_testing"
+related:
+  - "[[06-内容素材创意MOC]]"
+  - "素材测试与迭代SOP"
+  - "食品机械短视频拍摄SOP"
+retrieval_keywords:
+  - "食品机械"
+  - "B2B素材"
+  - "素材测试"
+  - "工业品广告"
+  - "机械设备"
+decision_value: "食品机械行业测试广告素材时使用本文的行业特化SOP，避免通用素材策略不适用B2B工业品。"
 topic: ''
 created: ''''''
 updated: '2026-05-17'
-type: 素材策略
 status: active
 quality_level: B
-summary_cn: '## 适用场景 - 适合平台：多平台 - 适合行业：食品加工机械 - 适合场景：素材测试相关文档'
+summary_cn: '## 适用场景 - 适合平台:多平台 - 适合行业:食品加工机械 - 适合场景:素材测试相关文档'
 summary_en: Document regarding B2B食品机械素材测试特化. Reference for business decisions.
-one_sentence_summary: B2B食品机械素材测试特化：工厂实拍+产品演示+客户见证
-decision_value: Reference for content creation and copywriting
+one_sentence_summary: B2B食品机械素材测试特化:工厂实拍+产品演示+客户见证
 review_note: 食品机械素材测试特化
 category: 广告素材与创意
 platform: 多平台
 industry: 食品加工机械
-scenario: 素材测试
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[06-内容素材创意MOC]]
-retrieval_keywords:
-- 短视频脚本
-- Facebook素材灵感
-- TikTok内容策划
-- 落地页模板
-- 钩子设计框架
-routing_target:
-  - "[[06-内容素材创意MOC]]"
+routing_target: 
 ---
 
 

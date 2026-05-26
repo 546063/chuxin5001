@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: AB测试方法论：测试设计（变量控制/样本分配）、样本量计算（统计显著性要求）、测试执行与监控、结果解读与决策、测试记录沉淀。核心原则：一次只测一个变量、样本量足够（通常50-100转化）、统计显著性>95%才下结论、测试结果归档指导后续决策。
+summary_cn: AB测试方法论:测试设计（变量控制/样本分配）、样本量计算（统计显著性要求）、测试执行与监控、结果解读与决策、测试记录沉淀。核心原则:一次只测一个变量、样本量足够（通常50-100转化）、统计显著性>95%才下结论、测试结果归档指导后续决策。
 summary_en: A/B testing methodology: test design (single variable control), sample size calculation (statistical significance), execution monitoring, result interpretation, test documentation.
 tags:
   - - - - - #投流策略

@@ -13,7 +13,7 @@ type: moc
 status: active
 created: 2026-05-17
 updated: 2026-05-21
-summary_cn: 本系统统一管理知识库路由、模型路由和项目专项路由。AI收到问题时，应先判断问题类型，再进入对应工作类型MOC、项目MOC、模型执行器，而不是全库乱搜。路由总原则包括：先判断任务类型、再判断业务领域、再判断是否需要工具执行、再判断使用哪个模型/执行器、再进入对应MOC和主文稿。
+summary_cn: 本系统统一管理知识库路由、模型路由和项目专项路由。AI收到问题时，应先判断问题类型，再进入对应工作类型MOC、项目MOC、模型执行器，而不是全库乱搜。路由总原则包括:先判断任务类型、再判断业务领域、再判断是否需要工具执行、再判断使用哪个模型/执行器、再进入对应MOC和主文稿。
 summary_en: "The unified routing system for knowledge retrieval, model selection, and project-specific workflows. AI agents classify questions first, then route to appropriate MOCs, project MOCs, or model executors."
 related:
   - "[[01-全库工作总览MOC]]"
@@ -103,6 +103,7 @@ AI后续回答任何需要检索知识库的问题时，必须先进入本层，
 
 | 问题类型 | 路由到 |
 |---|---|
+| 业务总控/增长作战 | [[业务总控台]] |
 | 食品机械 | [[10-食品机械作战MOC]] |
 | 投流广告 | [[05-广告投流增长MOC]] |
 | 内容素材 | [[06-内容素材创意MOC]] |

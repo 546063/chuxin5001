@@ -1,14 +1,39 @@
 ---
+
 title: "B2B机械行业免费流量获取"
 topic: ""
 created: "'2026-05-15'"
-updated: "2026-05-17"
-type: "strategy"
 status: "active"
-quality_level: "B"
-summary_cn: "不花钱也能获客的免费流量获取方法，适合预算有限的工厂和刚起步的跨境业务。渠道总览：TikTok自然内容（1-3个月见效）、YouTube SEO（3-6个月）、Facebook群组（2-4周）、LinkedIn内容（1-3个月）、Alibaba/平台（1-2周）、Google SEO（3-6个月）。各平台详细操作方法和零预算方案（每天投入2小时）。"
+summary_cn: "不花钱也能获客的免费流量获取方法，适合预算有限的工厂和刚起步的跨境业务。渠道总览:TikTok自然内容（1-3个月见效）、YouTube SEO（3-6个月）、Facebook群组（2-4周）、LinkedIn内容（1-3个月）、Alibaba/平台（1-2周）、Google SEO（3-6个月）。各平台详细操作方法和零预算方案（每天投入2小时）。"
 summary_en: "Free traffic acquisition methods for B2B machinery, suitable for factories with limited budgets."
-one_sentence_summary: "# B2B机械行业免费流量获取  ## 渠道总览  | 渠道 | 见效时间 | 难度 | 月均询盘 | |------|..."
+one_sentence_summary: "# B2B机械行业免费流量获取  ## 渠道总览  | 渠道 | 见效时间 | 难度 | 月均询盘 | |
+
+tags:
+    - "#facebook广告/数据指标"
+    - "#facebook广告/ROAS拆解"
+    - "#facebook广告/行业基准"
+related:
+    - "[[A5_执行SOP]]"
+    - "[[短视频平台运营策略]]"
+    - "[[UGC收集与授权流程]]"
+retrieval_keywords:
+    - decision
+    - value
+    - Advertising
+    - and
+    - traffic
+    - documentation
+    - review
+    - note
+    - 免费流量策略参考
+    - category
+decision_value: "用于B2B机械行业免费流量获取的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
+------|..."
 decision_value: "Advertising and traffic documentation"
 review_note: "免费流量策略参考"
 category: "投流策略"

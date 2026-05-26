@@ -1,8 +1,4 @@
-# FINAL-GOV-STEP-07: iCloud Backup Plan
-
-Date: 2026-05-17
-Target: /Users/mac/Library/Mobile Documents/iCloud~md~obsidian/Documents/AI-Workspace-Obsidian
-
+---
 ---
 
 ## iCloud Target Status
@@ -67,3 +63,9 @@ Before backup, verify:
 | Large vault = long upload time | Run during stable internet connection |
 
 ---
+
+<!-- 原始frontmatter前有非frontmatter内容，已移至此处供参考 -->
+# FINAL-GOV-STEP-07: iCloud Backup Plan
+
+Date: 2026-05-17
+Target: /Users/mac/Library/Mobile Documents/iCloud~md~obsidian/Documents/AI-Workspace-Obsidian

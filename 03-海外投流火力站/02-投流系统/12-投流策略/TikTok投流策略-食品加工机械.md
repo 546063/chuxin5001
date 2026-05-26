@@ -7,11 +7,11 @@ type: strategy
 status: active
 quality_level: B
 summary_cn: TikTok平台食品加工机械投放指南，CPM仅为Facebook的1/5-1/3，适合获取中小B端客户（餐厅老板、小食品厂）。涵盖Spark
-  Ads/In-Feed Ads受众定向、15-30秒高转化视频特征（前三秒展示核心卖点/快节奏剪辑/英文字幕）、直播策略（60分钟结构：开场→工厂参观→设备演示→QA→CTA）和免费流量方法。
+  Ads/In-Feed Ads受众定向、15-30秒高转化视频特征（前三秒展示核心卖点/快节奏剪辑/英文字幕）、直播策略（60分钟结构:开场→工厂参观→设备演示→QA→CTA）和免费流量方法。
 summary_en: TikTok advertising guide for food machinery. CPM is only 1/5-1/3 of Facebook,
   ideal for small-to-medium B-end clients. Covers Spark Ads, In-Feed Ads, high-conversion
   video characteristics, and live streaming strategy.
-one_sentence_summary: TikTok投流：CPM低适合中小B端获客，短视频素材为主
+one_sentence_summary: TikTok投流:CPM低适合中小B端获客，短视频素材为主
 decision_value: Ad targeting and creative reference
 review_note: TikTok投流策略参考
 category: 投流策略

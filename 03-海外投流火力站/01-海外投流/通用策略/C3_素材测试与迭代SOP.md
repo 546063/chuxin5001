@@ -1,37 +1,51 @@
 ---
+
 title: C3 素材测试与迭代SOP
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: knowledge
 status: active
-quality_level: A
 summary_cn: 素材测试与迭代系统化方法论，包含6维变量测试矩阵（Hook/视觉风格/时长/文案/CTA/版位适配）、每周素材测试SOP、爆量素材裂变SOP（改Hook/改文案/改CTA/改版位/改时长）、素材生产流水线（选题→脚本→拍摄→剪辑→适配→测试→扩量）、素材疲劳诊断与迭代、素材日历模板。目标是建立可持续的素材迭代体系。
 summary_en: Systematic creative testing and iteration methodology - 6-dimension test
   matrix, weekly testing SOP, viral creative fission, production pipeline, fatigue
   diagnosis, and content calendar.
-one_sentence_summary: 广告素材策略：工厂实拍+产品演示+客户见证高转化
-decision_value: Execute Facebook/Google/TikTok ad campaigns
+one_sentence_summary: 广告素材策略:工厂实拍+产品演示+客户见证高转化
 review_note: 素材测试迭代SOP核心
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/优化SOP"
+    - "#facebook广告/日常运营"
+    - "#facebook广告/扩量规则"
+related:
+    - "[[C1_素材底层逻辑与算法偏好]]"
+    - "[[C2_Hook设计与脚本框架]]"
+    - "[[C5_素材数据指标与诊断]]"
+retrieval_keywords:
+    - 素材测试与迭代
+    - SOP
+    - 一句话总结
+    - 维变量测试矩阵
+    - 爆量素材裂变
+    - 生产流水线
+    - 素材日历
+    - 素材疲劳诊断与迭代
+    - 核心结论
+    - 待补充
+decision_value: "用于C3 素材测试与迭代SOP的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "sop_building"
+type: "sop"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

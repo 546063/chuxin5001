@@ -48,7 +48,7 @@ This directory covers the complete methodology for domestic advertising platform
 
 | 文件 | 说明 |
 |------|------|
-| [[巨量本地推方法论总览]] | 巨量本地推完整方法论，POI定向、素材制作、出价策略、团购券、核销SOP、到店转化七步闭环 |
+| [[14-国内投流/巨量本地推方法论总览]] | 巨量本地推完整方法论，POI定向、素材制作、出价策略、团购券、核销SOP、到店转化七步闭环 |
 
 ---
 
@@ -109,7 +109,7 @@ This directory covers the complete methodology for domestic advertising platform
 
 ## AI调用规则
 
-1. 先读 [[巨量本地推方法论总览]] 获取核心方法论
+1. 先读 [[14-国内投流/巨量本地推方法论总览]] 获取核心方法论
 2. 根据具体渠道（抖音/小红书/本地推）进入对应子目录
 3. 复盘时参照 05-国内广告复盘 中的模板
 

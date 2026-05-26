@@ -6,11 +6,11 @@ updated: '2026-05-17'
 type: merged_knowledge_node
 status: active
 quality_level: B
-summary_cn: AI认知框架与方法论整合：涵盖TDD工作流、Karpathy认知框架、学习Pack模板、安全边际、心智定位、客户痛点诊断等核心认知文档。用于快速查找AI工作流与学习方法论。
+summary_cn: AI认知框架与方法论整合:涵盖TDD工作流、Karpathy认知框架、学习Pack模板、安全边际、心智定位、客户痛点诊断等核心认知文档。用于快速查找AI工作流与学习方法论。
 summary_en: 'AI cognitive frameworks and methodologies integration: covering TDD workflow,
   Karpathy framework, Learning Pack templates, safety margin, mental positioning,
   customer pain diagnosis and other core cognitive documents.'
-one_sentence_summary: '# AI认知框架整合  ## 一句话总结  AI认知框架与方法论：TDD工作流、Karpathy认知、学习Pack、安全...'
+one_sentence_summary: '# AI认知框架整合  ## 一句话总结  AI认知框架与方法论:TDD工作流、Karpathy认知、学习Pack、安全...'
 decision_value: AI tool usage and prompt engineering reference
 review_note: AI tool reference
 category: ''

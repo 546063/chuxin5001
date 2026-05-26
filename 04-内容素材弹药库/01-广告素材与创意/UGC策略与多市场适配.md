@@ -1,35 +1,40 @@
 ---
 title: UGC策略与多市场适配
+tags:
+  - #视频工厂/案例拆解
+  - #tiktok广告/素材策略
+type: "reference"
+domain: "video_factory"
+scenario: "content_production"
+related:
+  - "[[06-内容素材创意MOC]]"
+  - "素材灵感库"
+  - "素材测试与迭代SOP"
+retrieval_keywords:
+  - "UGC"
+  - "用户生成内容"
+  - "多市场"
+  - "素材适配"
+  - "本地化"
+decision_value: "需要在多市场部署UGC内容时使用本文，避免一套素材打所有市场的低效投放。"
 topic: ''
 created: ''''''
 updated: '2026-05-17'
-type: 素材策略
 status: active
 quality_level: B
 summary_cn: '## 一句话总结 UGC真实用户证言在Facebook广告中转化率高于品牌自产内容，测试期建议70%预算投入UGC，不同市场需要本地化重写而非简单翻译。相关文档'
 summary_en: Document regarding UGC策略与多市场适配. Reference for business decisions.
-one_sentence_summary: UGC策略：真实用户证言转化率高于品牌内容，测试期建议70%
-decision_value: Content and creative documentation
+one_sentence_summary: UGC策略:真实用户证言转化率高于品牌内容，测试期建议70%
 review_note: UGC策略参考
 category: 广告素材与创意
 platform: 多平台
 industry: 多行业
-scenario: 素材测试
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[06-内容素材创意MOC]]
-retrieval_keywords:
-- 短视频脚本
-- Facebook素材灵感
-- TikTok内容策划
-- 落地页模板
-- 钩子设计框架
-routing_target:
-  - "[[06-内容素材创意MOC]]"
+routing_target: 
 ---
 
 

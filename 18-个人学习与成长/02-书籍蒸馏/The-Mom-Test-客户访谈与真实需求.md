@@ -1,44 +1,40 @@
 ---
-title: "《The Mom Test》｜客户访谈与真实需求验证模型"
-topic: "书籍模型库"
-type: "book_note"
-status: "active"
-quality_level: "A"
+title: 《The Mom Test》｜客户访谈与真实需求验证模型
+topic: 书籍模型库
 created: "2026-05-18"
-updated: "2026-05-21"
-summary_cn: "《The Mom Test》适合转化成一套避免假需求、询问真实行为、验证客户痛点和采购动机的访谈系统。"
+updated: "2026-05-23"
+type: book_note
+status: active
+quality_level: A
+summary_cn: 《The Mom Test》适合转化成一套避免假需求、询问真实行为、验证客户痛点和采购动机的访谈系统。
 summary_en: "A work-connected note distilling The Mom Test into customer interviews, past behavior, demand validation, pain discovery, and anti-fake-demand questioning."
-decision_value: "用于海外客户访谈、产品验证、内容选题、服务设计、私信沟通、销售前调研和一人公司新方向判断。"
-category: "外贸、跨境与B2B生意"
-platform: ["LinkedIn", "Facebook", "WhatsApp", "Email", "独立站", "Zoom"]
-industry: ["跨境社媒", "一人公司", "B2B获客", "客户开发", "需求验证", "外贸"]
-scenario: ["客户访谈", "需求验证", "假需求识别", "市场调研", "私信沟通", "产品验证"]
-routing_target: "18-个人学习与成长/书籍模型库"
+decision_value: 用于海外客户访谈、产品验证、内容选题、服务设计、私信沟通、销售前调研和一人公司新方向判断。
 tags:
-  - "#书籍蒸馏"
-  - "#决策框架"
-  - "#客户访谈"
-  - "#需求验证"
-related:
-  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
-  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
-  - "[[16-学习成长蒸馏MOC]]"
-retrieval_keywords:
-aliases:
-  - The-Mom-Test-客户访谈与真实需求
-  - 书籍蒸馏
-  - 决策框架  - The Mom Test
-  - 客户访谈
-  - 真实需求
-  - 假需求识别
-  - 过去行为
-  - 需求验证
-  - 痛点发现
-  - 采购动机
-  - 产品验证
-  - 海外客户
+  - 书籍笔记
+  - 学习
+routing_target: "18-个人学习与成长/书籍模型库"
+category: 外贸、跨境与B2B生意
+platform:
+  - LinkedIn
+  - Facebook
+  - WhatsApp
+  - Email
+  - 独立站
+  - Zoom
+industry:
   - 跨境社媒
-source: book
+  - 一人公司
+  - B2B获客
+  - 客户开发
+  - 需求验证
+  - 外贸
+scenario:
+  - 客户访谈
+  - 需求验证
+  - 假需求识别
+  - 市场调研
+  - 私信沟通
+  - 产品验证
 ---
 
 # 《The Mom Test》｜客户访谈与真实需求验证模型

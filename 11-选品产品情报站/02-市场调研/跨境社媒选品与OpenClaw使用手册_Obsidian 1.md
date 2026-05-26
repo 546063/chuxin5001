@@ -6,9 +6,9 @@ updated: "2026-05-17"
 type: "行业研究"
 status: "draft"
 quality_level: "B"
-summary_cn: "> 用途：用于跨境社媒选品、外贸产品评估、OpenClaw 调研、产品对比、风险排查。   > 适用平台：Obsidian / 飞书文档 / Notion / Markdown 编辑器。   > 建议：每个产品单独复制一份“调查表模板”做记录，再配合“提示词库”和“使用流程”进行调研。相关文档"
+summary_cn: "> 用途:用于跨境社媒选品、外贸产品评估、OpenClaw 调研、产品对比、风险排查。   > 适用平台:Obsidian / 飞书文档 / Notion / Markdown 编辑器。   > 建议:每个产品单独复制一份“调查表模板”做记录，再配合“提示词库”和“使用流程”进行调研。相关文档"
 summary_en: "Document regarding 跨境社媒选品与OpenClaw使用手册_Obsidian 1. Reference for business decisions."
-one_sentence_summary: "# 跨境社媒选品与 OpenClaw 使用手册  > 用途：用于跨境社媒选品、外贸产品评估、OpenClaw 调研、产品..."
+one_sentence_summary: "# 跨境社媒选品与 OpenClaw 使用手册  > 用途:用于跨境社媒选品、外贸产品评估、OpenClaw 调研、产品..."
 decision_value: "选品与产品分析参考"
 review_note: "一般参考"
 category: "跨境选品"
@@ -27,6 +27,7 @@ retrieval_keywords:
 - 选品研究
 routing_target:
   - "[[11-选品产品研究MOC]]"
+---
 ------
 
 
@@ -2079,4 +2080,3 @@ OpenClaw 最适合做的是：
 
 ## 待补充
 - [ ] [需要补充的数据或信息]
-

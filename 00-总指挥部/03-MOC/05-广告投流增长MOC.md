@@ -11,7 +11,7 @@ quality_level: "S"
 summary_cn: "广告投流增长MOC是所有付费广告投放的统一入口，管辖Facebook/TikTok/LinkedIn/Google等海外投流和巨量本土推等国内投流。包含投流策略、受众定向、素材测试、数据诊断、投流案例、投流复盘、线索过滤和无效线索识别。当AI需要制定投流策略、分析账户问题、或查找案例参考时，先查这里。"
 summary_en: "Unified paid advertising hub covering Facebook, TikTok, LinkedIn, Google ads, and domestic platforms. Manages strategy, audience targeting, creative testing, data diagnostics, case studies, and lead filtering."
 one_sentence_summary: "所有付费广告投流统一入口，海外+国内，策略/案例/诊断/素材"
-decision_value: "帮助判断：预算如何分配、受众如何定向、素材怎么测试、数据怎么诊断、案例怎么复用、无效线索怎么过滤"
+decision_value: "帮助判断:预算如何分配、受众如何定向、素材怎么测试、数据怎么诊断、案例怎么复用、无效线索怎么过滤"
 review_note: "S级主MOC，广告投流核心入口，覆盖所有付费广告平台，贯穿投流学习-执行-复盘全链路"
 category: "外贸市场"
 platform: ["Facebook", "TikTok", "LinkedIn", "Google", "巨量引擎", "视频号"]

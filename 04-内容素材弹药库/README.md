@@ -10,7 +10,7 @@ summary_cn: 内容素材与创意知识库入口，含视频脚本、Reels与Sho
 summary_en: 'Content materials and creative hub: covers video scripts, Reels/Shorts,
   ad materials, industrial visuals, shooting checklists, material testing, templates,
   hook design, UGC and cases. Source of all acquisition content.'
-one_sentence_summary: 素材模板：内容创作参考
+one_sentence_summary: 素材模板:内容创作参考
 decision_value: Content and creative documentation
 review_note: 目录说明
 category: ''

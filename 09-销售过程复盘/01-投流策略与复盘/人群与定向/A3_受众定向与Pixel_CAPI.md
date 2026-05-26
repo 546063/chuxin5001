@@ -9,7 +9,7 @@ platform: Meta/LinkedIn/Google
 industry: 多行业
 scenario: 受众定向
 quality_level: B
-summary_cn: 受众定向与Pixel/CAPI配置指南：Facebook Pixel安装、事件追踪、CAPI对接、受众分层（核心受众/类似受众/自定义受众）、兴趣定向vs行为定向、Lookalike扩展策略。核心原则：数据追踪完整是优化基础，受众分层匹配投放目标，Dairy Machinery案例验证Visual-first受众筛选有效性。
+summary_cn: 受众定向与Pixel/CAPI配置指南:Facebook Pixel安装、事件追踪、CAPI对接、受众分层（核心受众/类似受众/自定义受众）、兴趣定向vs行为定向、Lookalike扩展策略。核心原则:数据追踪完整是优化基础，受众分层匹配投放目标，Dairy Machinery案例验证Visual-first受众筛选有效性。
 summary_en: Audience targeting and Pixel/CAPI setup guide. Facebook Pixel installation, event tracking, CAPI integration, audience layering (Core/Lookalike/Custom), interest vs behavior targeting. Core principle: complete tracking enables optimization.
 tags:
   - - - - - #投流策略

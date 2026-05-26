@@ -19,7 +19,7 @@ type: 市场调研
 status: active
 summary_cn: AI充气娃娃市场全景研究报告，整合市场数据（$426B情趣科技市场/AI品类CAGR 90%）、产品分类（充气款vs实体娃娃）、目标市场（东南亚/澳大利亚/UAE）、工厂供应链（珠三角中山WMDoll为主）
 summary_en: Comprehensive AI doll market research covering $426B sex tech market, product categories (inflatable vs solid), target markets (SE Asia/Australia/UAE), and factory supply chain (Pearl River Delta WMDoll focus).
-one_sentence_summary: AI充气娃娃：充气款无真正AI，实体娃娃$1500-6000，WMDoll为首选供应商
+one_sentence_summary: AI充气娃娃:充气款无真正AI，实体娃娃$1500-6000，WMDoll为首选供应商
 category: 跨境选品
 platform: 多平台
 industry: 成人用品
@@ -41,11 +41,11 @@ retrieval_keywords:
   - - UAE市场
 relations:
   - - type: part-of
-  - - target: [[跨境选品知识库]]
+  - - target: [[跨境选品知识库]]"
   - - note: AI充气娃娃选品核心文档
   - - strength: 3
   - - type: related-to
-  - - target: [[AI充气娃娃市场深度调研报告]]
+  - - target: [[AI充气娃娃市场深度调研报告]]"
   - - note: 完整版报告
   - - strength: 2
   - - --

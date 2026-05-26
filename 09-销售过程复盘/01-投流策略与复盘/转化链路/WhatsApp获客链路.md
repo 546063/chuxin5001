@@ -9,7 +9,7 @@ platform: Meta(Facebook/Instagram)+WhatsApp
 industry: 食品加工机械B2B
 scenario: 付费广告获客+私域成交
 quality_level: A
-summary_cn: WhatsApp获客链路：Meta广告（Reels/Lead Gen表单）→ WhatsApp自动欢迎+分流+标签管理→ 高意向客户转销售成交。核心指标：表单→WhatsApp转化率71%，CPL约₹42（印度卢比），4-7天完成主要转化。包含自动回复话术模板、分流规则、意向分层策略（A级/Hot即时跟进，C级/Cool一周后促销）。适合高意向工业设备买家通过WhatsApp快速建立联系并完成初步需求确认。
+summary_cn: WhatsApp获客链路:Meta广告（Reels/Lead Gen表单）→ WhatsApp自动欢迎+分流+标签管理→ 高意向客户转销售成交。核心指标:表单→WhatsApp转化率71%，CPL约₹42（印度卢比），4-7天完成主要转化。包含自动回复话术模板、分流规则、意向分层策略（A级/Hot即时跟进，C级/Cool一周后促销）。适合高意向工业设备买家通过WhatsApp快速建立联系并完成初步需求确认。
 summary_en: WhatsApp lead conversion funnel: Meta ads → WhatsApp auto-reply + tag management → sales follow-up. 71% form-to-WhatsApp conversion, ₹42 CPL (India), 4-7 day conversion window. Best for high-intent industrial equipment buyers.
 tags:
   - - - - - #转化链路

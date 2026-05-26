@@ -6,9 +6,9 @@ updated: '2026-05-17'
 type: note
 status: active
 quality_level: A
-summary_cn: '## 一句话总结 > B2B食品机械直播标准流程：T-7天筹备、60分钟标准结构（开场→拆解→演示→案例→Q&A→限时优惠→CTA）、5种互动玩法、播后72小时线索跟进。相关文档'
+summary_cn: '## 一句话总结 > B2B食品机械直播标准流程:T-7天筹备、60分钟标准结构（开场→拆解→演示→案例→Q&A→限时优惠→CTA）、5种互动玩法、播后72小时线索跟进。相关文档'
 summary_en: Document regarding 直播运营SOP. Reference for business decisions.
-one_sentence_summary: B2B直播SOP：T-7筹备+60分钟标准结构+五步流程
+one_sentence_summary: B2B直播SOP:T-7筹备+60分钟标准结构+五步流程
 decision_value: Execute Facebook/Google/TikTok ad campaigns
 review_note: 直播运营SOP核心 playbook
 category: 投流系统

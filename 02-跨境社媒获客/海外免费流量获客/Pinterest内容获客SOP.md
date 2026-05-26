@@ -15,7 +15,7 @@ routing_target:
   - pinterest_leads
   - free_traffic_leads
 quality_level: "A"
-summary_cn: "Pinterest内容获客SOP，覆盖B2B食品机械/机械设备的Pin设计、Board策略、SEO优化、承接路径。注意：Pinterest以视觉消费为主，B2B效果有限但可作为补充渠道。"
+summary_cn: "Pinterest内容获客SOP，覆盖B2B食品机械/机械设备的Pin设计、Board策略、SEO优化、承接路径。注意:Pinterest以视觉消费为主，B2B效果有限但可作为补充渠道。"
 summary_en: "Pinterest B2B lead generation SOP covering Pin design, Board strategy, SEO optimization, and conversion paths for food machinery and equipment. Note: Pinterest is visually-driven with limited B2B impact but serves as a supplementary channel."
 related:
   - "[[海外免费流量获客总索引]]"

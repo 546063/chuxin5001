@@ -21,7 +21,7 @@ tags:
 related: 
 created: '2026-05-10'
 source: 03-跨境选品
-summary: 迁移自03-跨境选品：UPS不间断电源 (Uninterruptible Power Supply)
+summary: 迁移自03-跨境选品:UPS不间断电源 (Uninterruptible Power Supply)
 quality_level: B
 decision_value: 中
 review_note: 产业带与运营研究

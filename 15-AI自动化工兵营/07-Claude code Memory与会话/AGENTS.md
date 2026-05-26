@@ -560,7 +560,7 @@ Always run the full suite before pushing changes.
 - [[10-AI工具与自动化/MOC]]
 - [[00_System_MOC]]
 - [[01-记忆与配置/MOC]]
-- [[01-记忆与配置/配置/AI知识库说明|AI知识库说明]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/AI知识库说明|AI知识库说明]]
 - [[01-记忆与配置/配置/MEMORY|MEMORY]]
 - [[01-记忆与配置/配置/SOUL|SOUL]]
 - [[01-记忆与配置/配置/USER|USER]]

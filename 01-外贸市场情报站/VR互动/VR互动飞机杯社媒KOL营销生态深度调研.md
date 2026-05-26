@@ -18,7 +18,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 本调研全面评估10个主流社交平台对VR互动成人用品的可用性与可操作性。核心结论：主流平台广告全面封杀，X/Twitter是唯一可规模化运营的主流社交平台，Reddit是最强口碑阵地但严禁自推，OnlyFans创作者合作是转化效率最高的渠道，联盟营销是0付费广告环境下的核心增长引擎。为新品牌冷启动提供"联盟分销+Reddit口碑+X内容+OnlyFans创作者合作"四轮驱动策略。
+summary_cn: 本调研全面评估10个主流社交平台对VR互动成人用品的可用性与可操作性。核心结论:主流平台广告全面封杀，X/Twitter是唯一可规模化运营的主流社交平台，Reddit是最强口碑阵地但严禁自推，OnlyFans创作者合作是转化效率最高的渠道，联盟营销是0付费广告环境下的核心增长引擎。为新品牌冷启动提供"联盟分销+Reddit口碑+X内容+OnlyFans创作者合作"四轮驱动策略。
 summary_en: Comprehensive evaluation of 10 social platforms for VR interactive adult toy marketing. Identifies X/Twitter as the only viable mainstream social platform, Reddit as the core word-of-mouth channel, OnlyFans creators as the highest-conversion partnership avenue, and affiliate marketing as the primary growth engine in an ad-blocked environment.
 related:
   - "[[01-目录总览MOC]]"

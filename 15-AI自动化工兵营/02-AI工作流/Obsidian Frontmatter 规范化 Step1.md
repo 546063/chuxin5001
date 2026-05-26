@@ -168,17 +168,17 @@ model_route:
 - ≥3 处待决策点
 
 ## 相关
-- [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]]
-- [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]]
-- [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - SKILL 定义]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 安装与使用指南]]
+- [[15-AI自动化工兵营/02-AI工作流/Code Review - 审查大师脚本]]
 
 ---
 ## 关联笔记
 - [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]] — Skill产出的frontmatter模板依赖本规范
-- [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]] — 需求文档中的frontmatter要求引用本规范
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 需求文档]] — 需求文档中的frontmatter要求引用本规范
 - [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]] — 安装指南中与frontmatter规范化项目的衔接
 - [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]] — 审查脚本的frontmatter也遵循本规范
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — 任务追踪中包含frontmatter完整性验证
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]] — 任务追踪中包含frontmatter完整性验证
 - [[11-AI技能与智囊团/系统工具/Obsidian整理-索引|Dataview查询]] — Dataview元数据依赖规范的frontmatter字段
 - [[11-AI技能与智囊团/系统工具/Obsidian整理-索引|Obsidian Properties]] — Obsidian官方Properties功能
 - [[01-记忆与配置/配置/SOUL|YAML Frontmatter]] — YAML语法规范

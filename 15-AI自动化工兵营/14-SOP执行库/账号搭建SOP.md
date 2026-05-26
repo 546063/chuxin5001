@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: sop
 status: active
 quality_level: A
-summary_cn: '### 1. 账号定位 - 根据 [[11-智囊团与知识蒸馏/母模型库/定位模型]] 确定定位 - 一句话定位 - 目标客户画像相关文档'
+summary_cn: '### 1. 账号定位 - 根据 [[15-AI自动化工兵营/01-模型路由/01-母模型库/定位模型]] 确定定位 - 一句话定位 - 目标客户画像相关文档'
 summary_en: Document regarding 账号搭建SOP. Reference for business decisions.
 one_sentence_summary: '# 账号搭建SOP  ## 目的  为一个新的客户账号完成从0到1的搭建'
 decision_value: Build AI automation workflows and scripts

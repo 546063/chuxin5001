@@ -6,11 +6,11 @@ updated: '2026-05-17'
 type: merged_knowledge_node
 status: active
 quality_level: A
-summary_cn: AI开发与自动化技能整合：涵盖Claude-Code、OpenClaw、Hermes、Agent工作流、模型路由、DSPy等AI开发框架与自动化工具的配置与使用方法。用于AI工作流搭建、智能体配置、代码自动化等场景。
+summary_cn: AI开发与自动化技能整合:涵盖Claude-Code、OpenClaw、Hermes、Agent工作流、模型路由、DSPy等AI开发框架与自动化工具的配置与使用方法。用于AI工作流搭建、智能体配置、代码自动化等场景。
 summary_en: 'AI development and automation skills integration: covering Claude-Code,
   OpenClaw, Hermes, Agent workflows, model routing, DSPy and other AI development
   frameworks. Used for AI workflow setup, agent configuration, and code automation.'
-one_sentence_summary: '# AI开发自动化整合  ## 一句话总结  AI开发与自动化技能库：Claude-Code、OpenClaw、Herm...'
+one_sentence_summary: '# AI开发自动化整合  ## 一句话总结  AI开发与自动化技能库:Claude-Code、OpenClaw、Herm...'
 decision_value: Build AI automation workflows and scripts
 review_note: Core AI automation playbook
 category: ''

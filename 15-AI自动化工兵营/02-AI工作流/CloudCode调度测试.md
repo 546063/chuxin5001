@@ -10,7 +10,7 @@ type: 工具技能
 status: active
 quality_level: B
 summary_cn:
-  - - - **目的**：验证 Claude Code 文件写入能力和内容输出格式相关文档'
+  - - - **目的**:验证 Claude Code 文件写入能力和内容输出格式相关文档'
 summary_en: Document regarding CloudCode调度测试. Reference for business decisions.
 one_sentence_summary: '"CloudCode调度测试"': AI工作流核心方法和实战经验。
 decision_value: AI automation documentation

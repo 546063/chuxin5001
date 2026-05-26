@@ -8,7 +8,7 @@ status: "archived"
 quality_level: "B"
 summary_cn: "华东产业带以上海、杭州、苏州、宁波为核心，是中国制造业的另一重要聚集地。相关文档"
 summary_en: "Document regarding factories-east-china. Reference for business decisions."
-one_sentence_summary: "> 📦 本文已归档：发电机选品数据已在选品研究目录  # 华东产业带工厂  华东产业带以上海、杭州、苏州、宁波为核心，是..."
+one_sentence_summary: "> 📦 本文已归档:发电机选品数据已在选品研究目录  # 华东产业带工厂  华东产业带以上海、杭州、苏州、宁波为核心，是..."
 decision_value: "选品与产品分析参考"
 review_note: "一般参考"
 category: "跨境选品"
@@ -27,8 +27,7 @@ retrieval_keywords:
 - 选品研究
 routing_target:
   - "[[11-选品产品研究MOC]]"
-
-------
+---
 
 
 
@@ -366,4 +365,3 @@ routing_target:
 
 ## 待补充
 - [ ] [需要补充的数据或信息]
-

@@ -149,9 +149,9 @@ Skill 产出在内部目录，不自动进 vault（保持"用完手动归档"的
 - "业务连接"层：每个学习包末尾自动生成业务应用点
 
 ## 相关
-- [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]]
-- [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]]
-- [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - SKILL 定义]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 需求文档]]
+- [[15-AI自动化工兵营/02-AI工作流/Obsidian Frontmatter 规范化 Step1]]
 - Hermes Skill 体系总览
 
 ---
@@ -159,18 +159,18 @@ Skill 产出在内部目录，不自动进 vault（保持"用完手动归档"的
 - [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]] — 安装的目标文件SKILL.md的完整定义
 - [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]] — 安装后的验收标准来自需求文档
 - [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]] — 安装指南中衔接frontmatter规范化项目
-- [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]] — 同属Hermes技能体系，安装方式类似
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — 任务追踪中包含Skill安装进度
+- [[15-AI自动化工兵营/02-AI工作流/Code Review - 审查大师脚本]] — 同属Hermes技能体系，安装方式类似
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]] — 任务追踪中包含Skill安装进度
 - [[01-记忆与配置/配置/SOUL]] — SOUL.md中注册Skill的配置方法
 - [[11-智囊团与知识蒸馏/MOC]] — 技能体系总索引
-- [[01-记忆与配置/记忆/ClaudeCode记忆|Obsidian Vault]] — 归档到vault的建议路径
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/ClaudeCode记忆|Obsidian Vault]] — 归档到vault的建议路径
 - [[00-方案总览|知识管理]] — 知识管理工具链
 - [[11-AI技能与智囊团/开发与运维/软件开发-索引|查即用测试]] — 验证Skill工作的三种测试方法
 - [[01-记忆与配置/配置/SOUL|Frontmatter模板]] — Skill产出的frontmatter模板
 - [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — Hermes AI Agent系统
 - [[11-AI技能与智囊团/AI自动化/OpenClaw导入技能-索引|Claude Skills]] — 与Claude Skills生态的联动建议
 - [[00-索引与导航/00-首页MOC|MOC体系]] — MOC索引体系设计
-- [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南|学习包归档]] — 归档到Obsidian的路径和方法
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 安装与使用指南|学习包归档]] — 归档到Obsidian的路径和方法
 
 ## 标签
 #工具/Hermes #类型/安装指南 #主题/技能部署 #状态/活跃 #领域/DevOps

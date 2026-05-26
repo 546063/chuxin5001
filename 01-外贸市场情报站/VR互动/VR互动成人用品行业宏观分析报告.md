@@ -19,7 +19,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 宏观分析VR互动成人用品行业2026-2029发展趋势。核心判断：正处于"从极客玩具向主流消费品过渡的临界点"。四大驱动：AI降低内容生产成本、触觉反馈技术突破、单身经济扩大刚需、云服务成熟降低使用门槛。三大风险：支付通道受限、合规成本上升、专利壁垒初现。详述VR设备轻量化趋势、触觉反馈技术演进（机械推拉/振动/气压/ResoTouch声波/电刺激）、AI+VR融合场景、关键博弈点和未来三年展望。
+summary_cn: 宏观分析VR互动成人用品行业2026-2029发展趋势。核心判断:正处于"从极客玩具向主流消费品过渡的临界点"。四大驱动:AI降低内容生产成本、触觉反馈技术突破、单身经济扩大刚需、云服务成熟降低使用门槛。三大风险:支付通道受限、合规成本上升、专利壁垒初现。详述VR设备轻量化趋势、触觉反馈技术演进（机械推拉/振动/气压/ResoTouch声波/电刺激）、AI+VR融合场景、关键博弈点和未来三年展望。
 summary_en: Macro analysis of VR adult SexTech industry 2026-2029. At the inflection point from "geek toy to mainstream consumer product." Four drivers (AI content production, haptic tech breakthrough, single economy, cloud services) vs three risks (payment restrictions, compliance costs, patent barriers).
 related:
   - "[[01-目录总览MOC]]"

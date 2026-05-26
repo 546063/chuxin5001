@@ -150,7 +150,7 @@ model_route:
 ---
 
 ## 相关链接
-- [[01-记忆与配置/记忆/OpenClaw记忆]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/OpenClaw记忆]]
 - [[10-AI工具与自动化/工作流/Hermes技能体系 MOC|OpenClaw技能库]]
 - [[11-智囊团与知识蒸馏/MOC]]
 

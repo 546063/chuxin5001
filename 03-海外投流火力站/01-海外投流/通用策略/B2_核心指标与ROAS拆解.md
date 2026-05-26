@@ -1,36 +1,51 @@
 ---
+
 title: B2 核心指标与ROAS拆解
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: methodology
 status: active
-quality_level: B
-summary_cn: ROAS 核心公式拆解：ROAS = 客单价 ÷ CPA = (CPM÷1000×CTR×CVR) 的倒数，通过四层指标联动（CPM→CTR→CPC→CPA→ROAS）帮助投手定位问题环节。交叉诊断矩阵（CPM×CTR、CVR×CPA、频次×生命周期）发现单一指标看不到的深层问题。MER框架在校因丢失时比ROAS更可靠。改善优先级：CVR（落地页，最易短期提升）>
+summary_cn: ROAS 核心公式拆解:ROAS = 客单价 ÷ CPA = (CPM÷1000×CTR×CVR) 的倒数，通过四层指标联动（CPM→CTR→CPC→CPA→ROAS）帮助投手定位问题环节。交叉诊断矩阵（CPM×CTR、CVR×CPA、频次×生命周期）发现单一指标看不到的深层问题。MER框架在校因丢失时比ROAS更可靠。改善优先级:CVR（落地页，最易短期提升）>
   CTR（素材）> CPM（竞争）> AOV（产品策略）。
 summary_en: Document regarding B2_核心指标与ROAS拆解. Reference for business decisions.
-one_sentence_summary: 数据指标与ROAS拆解：漏斗各层核心指标与优化方向
-decision_value: Advertising and traffic documentation
+one_sentence_summary: 数据指标与ROAS拆解:漏斗各层核心指标与优化方向
 review_note: ROAS拆解参考
 category: 海外投流
 platform: Facebook/Meta
 industry: 多行业
-scenario: 数据优化
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/数据指标"
+    - "#facebook广告/ROAS拆解"
+    - "#facebook广告/行业基准"
+related:
+    - "[[A6_数据指标体系]]"
+    - "[[B3_优化策略框架]]"
+    - "[[A7_诊断排查手册]]"
+    - "[[A1_底层逻辑与算法机制]]"
+retrieval_keywords:
+    - 核心指标与
+    - ROAS
+    - 拆解
+    - 一句话总结
+    - 拆解公式
+    - 核心指标联动关系
+    - 行业基准值
+    - 频率监控标准
+    - 广告质量诊断三指标
+    - 核心结论
+decision_value: "用于B2 核心指标与ROAS拆解的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 # B2 核心指标与ROAS拆解
@@ -354,7 +369,7 @@ ROAS = $50 / $33.33 = 1.5x
 ## 关联笔记
 - 同系列：[[A1_底层逻辑与算法机制]]、[[A6_数据指标体系]]、[[B1_学习期与归因机制]]
 - 数据优化：[[B3_优化策略框架]]、[[B4_数据优化执行SOP]]
-- 上游索引：[[Facebook投流索引]]、[[投流知识体系总览]]
+- 上游索引：[[Facebook投流索引]]、[[16-知识库治理/投流知识体系总览]]
 
 ## 标签
 #Facebook投流 #海外投流 #ROAS #CPA #CPM #CTR #CVR #MER #数据诊断 #指标联动 #行业基准 #ops #海外投流-B系列
@@ -368,5 +383,5 @@ ROAS = $50 / $33.33 = 1.5x
 - [[B1_学习期与归因机制]]
 - [[B3_优化策略框架]]
 - [[B4_数据优化执行SOP]]
-- [[投流知识体系总览]]
+- [[16-知识库治理/投流知识体系总览]]
 - [[Facebook投流索引]]

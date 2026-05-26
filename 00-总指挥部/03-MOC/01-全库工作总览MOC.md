@@ -157,6 +157,7 @@ Master navigation hub for all 18 vault MOCs. Routes any task to the correct doma
 
 ## 决策入口
 
+- 想统一调度投流、短视频、食品机械、客户成交、案例复盘 → [[业务总控台]]
 - 想找食品机械外贸全链路 → [[10-食品机械作战MOC]]
 - 想让AI快速读取知识库 → [[02-AI读取入口MOC]]
 - 想配置AI工具和自动化 → [[14-AI工具自动化MOC]]

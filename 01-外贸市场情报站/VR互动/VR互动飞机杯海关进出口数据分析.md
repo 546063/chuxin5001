@@ -19,7 +19,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 基于World Bank WITS/UN Comtrade/中国海关总署数据，分析VR互动飞机杯海关进出口数据。核心发现：海关无独立"成人用品"HS编码，产品以"按摩器具"(HS 901910)/"塑料制品"(3926.90)/"电子设备"(8543.70)名义申报。中国电动飞机杯绝大多数申报为9019101000。详述2022-2024年中国出口总额/数量趋势、各HS编码申报实例、美国/欧盟/日本进口数据、税率差异（美国9019.10免税vs3926.90的5.3%+Section 301关税）和主要贸易伙伴分布。
+summary_cn: 基于World Bank WITS/UN Comtrade/中国海关总署数据，分析VR互动飞机杯海关进出口数据。核心发现:海关无独立"成人用品"HS编码，产品以"按摩器具"(HS 901910)/"塑料制品"(3926.90)/"电子设备"(8543.70)名义申报。中国电动飞机杯绝大多数申报为9019101000。详述2022-2024年中国出口总额/数量趋势、各HS编码申报实例、美国/欧盟/日本进口数据、税率差异（美国9019.10免税vs3926.90的5.3%+Section 301关税）和主要贸易伙伴分布。
 summary_en: Analyzes customs import/export data for VR interactive adult toys using World Bank WITS, UN Comtrade, and China Customs data. Key finding: no independent HS code exists; products declared under massage devices (HS 901910), plastics (3926.90), or electronics (8543.70). Details China export trends 2022-2024 and tariff differentials across US/EU/Japan.
 related:
   - "[[01-目录总览MOC]]"

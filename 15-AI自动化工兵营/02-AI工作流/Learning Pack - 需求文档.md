@@ -180,18 +180,18 @@ model_route:
 3. **原子性**：抽 5 张 Anki 卡 → 每张 Back 只有 1 个考点
 
 ## 相关
-- [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]]
-- [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]]
-- [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - SKILL 定义]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 安装与使用指南]]
+- [[15-AI自动化工兵营/02-AI工作流/Obsidian Frontmatter 规范化 Step1]]
 
 ---
 ## 关联笔记
 - [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]] — 本需求文档对应的Skill技术定义
 - [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]] — 安装部署和测试流程
 - [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]] — 产出物frontmatter的字段规范来源
-- [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]] — 同属Hermes技能体系的另一个Skill
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — 任务追踪中包含Learning Pack开发进度
-- [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|速查卡]] — 产出物层级1：速查卡的设计要求
+- [[15-AI自动化工兵营/02-AI工作流/Code Review - 审查大师脚本]] — 同属Hermes技能体系的另一个Skill
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]] — 任务追踪中包含Learning Pack开发进度
+- [[15-AI自动化工兵营/08-Claude-Code/模型及建议 各个模型版|速查卡]] — 产出物层级1：速查卡的设计要求
 - [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|精要手册]] — 产出物层级2：精要手册的设计要求
 - [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|抽认卡]] — 产出物层级3：Anki格式抽认卡设计要求
 - [[00-索引与导航/00-首页MOC|MOC索引]] — 产出物层级4：内容地图索引设计要求
@@ -199,7 +199,7 @@ model_route:
 - [[14-学习与成长/政策周报/00-README-使用说明|信源质量标准]] — 信源优先级和交叉验证要求
 - [[00-方案总览|知识检索]] — 5秒检索的核心目标
 - [[00-方案总览|一人公司]] — 老板背景：时间稀缺的一人公司创始人
-- [[01-记忆与配置/记忆/ClaudeCode记忆|Obsidian Vault]] — 笔记存储在iCloud同步的Obsidian vault
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/ClaudeCode记忆|Obsidian Vault]] — 笔记存储在iCloud同步的Obsidian vault
 - [[11-智囊团与知识蒸馏/MOC]] — 技能体系总索引
 - [[01-记忆与配置/配置/SOUL]] — Hermes的SOUL.md配置文件
 

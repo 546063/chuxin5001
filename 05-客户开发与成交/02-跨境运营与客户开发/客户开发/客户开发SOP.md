@@ -1,41 +1,50 @@
 ---
+
 title: "客户开发SOP"
 topic: "跨境运营"
 created: "'2026-05-04'"
-updated: "2026-05-17"
-type: "SOP"
 status: "evergreen"
-quality_level: "A"
-summary_cn: "跨境B2B客户开发完整SOP：询盘来源（TikTok/WhatsApp/FB/海关数据/展会）→首次触达→报价策略（整单≥¥20,000底线）→跟进流程（30分钟跟进原则）→异议处理→成交转化。覆盖WhatsApp/LinkedIn/Facebook/TikTok/海关数据多渠道，30分钟内跟进接通率提升至75%。"
+summary_cn: "跨境B2B客户开发完整SOP:询盘来源（TikTok/WhatsApp/FB/海关数据/展会）→首次触达→报价策略（整单≥¥20,000底线）→跟进流程（30分钟跟进原则）→异议处理→成交转化。覆盖WhatsApp/LinkedIn/Facebook/TikTok/海关数据多渠道，30分钟内跟进接通率提升至75%。"
 summary_en: "Complete cross-border B2B customer development SOP: lead sources → first contact → quoting strategy (¥20K+ floor) → follow-up (30-min rule) → objection handling → conversion. Multi-channel (WhatsApp/LinkedIn/FB/TikTok/customs data), 75% connect rate within 30 min."
 one_sentence_summary: "客户开发SOP": "跨境运营"核心方法和实战经验。
-decision_value: "高 - 客户开发SOP是外贸团队的基础工作框架，标准化流程帮助新人快速上手，30分钟跟进原则是成交关键因子"
 review_note: "高价值参考"
 category: "跨境运营"
 platform: "multi-platform"
 industry: "综合"
-scenario: "客户开发"
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-retrieval_keywords:
-  - - - WhatsApp首次触达
-  - - - 30分钟跟进原则
-  - - - 报价策略底线
-  - - - 海关数据开发
-  - - - TikTok询盘获取
-  - - - LinkedIn决策者触达
-  - - - 展会客户开发
-  - - - Facebook群组获客
-  - - - 跟进节奏设计
-  - - - 异议处理话术
-  - - --
-  - --
 routing_target:
   - "[[07-客户开发成交MOC]]"
+
+tags:
+    - "#客户开发/询盘承接"
+    - "#客户开发/WhatsApp承接"
+    - "#客户开发/私信开场"
+related:
+    - "[[B2B-Lead-SOP]]"
+    - "[[WhatsApp转化结构]]"
+    - "[[私域转化]]"
+    - "[[客户分层]]"
+retrieval_keywords:
+    - 客户开发
+    - SOP
+    - 合并来源
+    - 业务
+    - 合集
+    - 客户获取
+    - 一句话总结
+    - 跨境
+    - 客户开发完整
+    - 覆盖询盘来源
+decision_value: "用于客户开发SOP的决策参考和方法指导。"
+domain: "client_development"
+scenario: "lead_followup"
+type: "sop"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

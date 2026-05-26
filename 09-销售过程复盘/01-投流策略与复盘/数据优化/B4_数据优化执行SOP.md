@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: 数据优化执行SOP：日常/周/月优化操作清单，调预算/换素材/调受众的标准流程。日常：检查数据波动、异常标记、竞争对手动态；周度：分析账户表现、素材更替、受众调整；月度：ROAS复盘、预算再分配、策略迭代。核心原则：小步快跑、观察2-3天再做判断、避免频繁大幅调整。
+summary_cn: 数据优化执行SOP:日常/周/月优化操作清单，调预算/换素材/调受众的标准流程。日常:检查数据波动、异常标记、竞争对手动态；周度:分析账户表现、素材更替、受众调整；月度:ROAS复盘、预算再分配、策略迭代。核心原则:小步快跑、观察2-3天再做判断、避免频繁大幅调整。
 summary_en: Data optimization execution SOP: daily/weekly/monthly checklist, standard process for budget adjustment/creative rotation/audience changes. Small incremental changes, 2-3 day observation period.
 tags:
   - - - - - #投流策略

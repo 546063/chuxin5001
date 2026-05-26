@@ -11,7 +11,7 @@ quality_level: "S"
 summary_cn: "外贸市场情报是食品机械外贸的业务认知基础，管辖外贸基础认知（贸易术语、国际付款、国际物流）、全球市场判断（国家市场画像）、买家认知（采购商类型、决策链、文化差异）和认证体系（CE/FDA/NSF等）。当AI需要判断某个国家市场是否值得做、某个买家类型如何应对、或需要外贸术语解释时，先查这里。"
 summary_en: "Foreign trade market intelligence hub covering trade terms, payment methods, logistics, country market profiles, buyer personas, and certification requirements for food machinery export."
 one_sentence_summary: "外贸认知与全球市场判断总入口，贸易基础，买家类型，认证体系"
-decision_value: "帮助判断：哪个国家值得进入、买家类型如何应对、外贸术语和流程怎么走、认证要求是什么"
+decision_value: "帮助判断:哪个国家值得进入、买家类型如何应对、外贸术语和流程怎么走、认证要求是什么"
 review_note: "S级主MOC，外贸业务认知基础，所有外贸动作的判断起点，管辖01-外贸市场情报站全部核心内容"
 category: "外贸市场"
 platform: []

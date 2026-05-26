@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84ffebc9d5632d72",
+            "id": "38903bce6d601a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-选品产品情报站/VR互动/VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿.md",
+                "file": "04-内容素材弹药库/获客文案方法论/客资文案获询盘完全指南.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿"
+              "title": "客资文案获询盘完全指南"
+            }
+          },
+          {
+            "id": "d5ed9b2c5d3cec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-05-26_近五天文稿属性规范化最终检查报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-26_近五天文稿属性规范化最终检查报告"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5026054382324
+    "width": 274.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "98e449df5461178a",
@@ -180,42 +195,42 @@
       "bases:新建数据库": false
     }
   },
-  "active": "84ffebc9d5632d72",
+  "active": "38903bce6d601a14",
   "lastOpenFiles": [
+    "2026-05-26_近五天文稿属性规范化最终检查报告.md",
+    "04-内容素材弹药库/获客文案方法论/客资文案获询盘完全指南.md",
+    "04-内容素材弹药库/获客文案方法论/10类询盘的文案类型.md",
+    "04-内容素材弹药库/获客文案方法论/10类最容易带来客户咨询和询盘的文案类型.md",
+    "03-海外投流火力站/国内视频号自然获客知识库/01-视频号自然获客平台规则总览.md",
+    "主库结构与属性错误审计报告-20260523-1608.md",
+    "16-知识库治理/P0属性错误修复报告-20260523-1619.md",
+    "16-知识库治理/P0属性错误修复DryRun-20260523-1619.md",
+    "05-客户开发与成交/本地推客户沟通/AD广告客户常见异议处理.md",
+    "05-客户开发与成交/本地推客户沟通/巨量引擎投流方案PPT大纲.md",
+    "05-客户开发与成交/本地推客户沟通/本地推客户首次诊断话术.md",
+    "08-交付与售后复盘/08-目录总览MOC.md",
+    "13-国内业务与代运营/装修家居获客总览.md",
+    "13-国内业务与代运营/教育培训获客总览.md",
+    "13-国内业务与代运营/韩国医美旅游获客总览.md",
+    "00-总指挥部/投流与视频获客常见问题总路由表.md",
+    "11-选品产品情报站/VR互动/VR互动飞机杯竞品独立站全面拆解分析-Obsidian文稿.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒与KOL营销生态深度调研-Obsidian文稿.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿-新版.md",
     "11-选品产品情报站/VR互动/VR互动飞机杯海外社媒营销生态调研-Obsidian文稿.md",
     "16-知识库治理/Facebook与LinkedIn投流知识库整理Phase2报告.md",
-    "99-Archive/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-再营销线索.md",
-    "99-Archive/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-Ads-再营销线索.md",
-    "99-Archive/投流知识库旧版归档/Facebook案例重复项",
+    "99-历史档案馆/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-再营销线索.md",
+    "99-历史档案馆/投流知识库旧版归档/Facebook案例重复项/案例-食品加工机械-Facebook-Ads-再营销线索.md",
+    "99-历史档案馆/投流知识库旧版归档/Facebook案例重复项",
     "11-选品产品情报站/VR互动/VR互动飞机杯海关进出口数据与竞品独立站拆解-Obsidian文稿.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn Lead Gen链路.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项/案例-食品加工机械-LinkedIn-B2B询盘.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项/案例-食品加工机械-LinkedIn-Ads-B2B询盘.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn案例重复项",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-B2B设备经销商招募.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-食品工厂决策层触达.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/案例-LinkedIn-内容营销+广告组合.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn获客结构.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件/LinkedIn投流策略-食品加工机械.md",
-    "99-Archive/投流知识库旧版归档/LinkedIn源文件",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/账户结构与出价策略.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/策略决策框架.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/核心指标与ROAS拆解.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/数据指标体系.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/投流知识体系总览.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/执行SOP.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/学习期与归因机制.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/复盘模板.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/受众定向与Pixel_CAPI配置.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/优化诊断SOP.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件/Meta广告竞价与算法机制.md",
-    "99-Archive/投流知识库旧版归档/Facebook-Meta源文件",
-    "99-Archive/投流知识库旧版归档/Facebook源文件",
-    "99-Archive/投流知识库旧版归档",
-    "03-海外投流/LinkedIn投流知识库",
-    "03-海外投流/Facebook投流知识库",
+    "99-历史档案馆/投流知识库旧版归档/LinkedIn源文件/LinkedIn Lead Gen链路.md",
+    "99-历史档案馆/投流知识库旧版归档/LinkedIn案例重复项/案例-食品加工机械-LinkedIn-B2B询盘.md",
+    "99-历史档案馆/投流知识库旧版归档/LinkedIn案例重复项",
+    "99-历史档案馆/投流知识库旧版归档/LinkedIn源文件",
+    "99-历史档案馆/投流知识库旧版归档/Facebook-Meta源文件",
+    "99-历史档案馆/投流知识库旧版归档/Facebook源文件",
+    "99-历史档案馆/投流知识库旧版归档",
+    "03-海外投流火力站/LinkedIn投流知识库",
+    "03-海外投流火力站/Facebook投流知识库",
     "18-个人学习与成长/06-网上课程整理/安先生视频课程系统整理.md.tmp",
     "01-外贸市场情报站/VR互动"
   ]

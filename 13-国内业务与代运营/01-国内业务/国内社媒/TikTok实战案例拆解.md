@@ -12,7 +12,7 @@ created: 2026-04-17
 updated: 2026-05-04
 type: journal
 status: active
-summary_cn: TikTok运营实战案例库，包含工厂型/贸易型/小团队个人三种商家类型，涵盖护发素/义乌香水/深圳内衣/手机膜/玩具/鞋子等品类。优秀案例：矩阵账号（广东广告灯牌/深圳手机膜数据线）、工厂型（拖布/家居/蓝牙音箱/佛山面料/床垫/洗衣珠/工业机器人/包装纸盒）。达人案例：护肤品/塑身衣/耳环/牙膏/监控摄像头。工具分析：Fassmoss/echotik/kalodata数据分析，wotohub达人管理，CapCut剪辑。适合TikTok出海品牌运营策略参考。
+summary_cn: TikTok运营实战案例库，包含工厂型/贸易型/小团队个人三种商家类型，涵盖护发素/义乌香水/深圳内衣/手机膜/玩具/鞋子等品类。优秀案例:矩阵账号（广东广告灯牌/深圳手机膜数据线）、工厂型（拖布/家居/蓝牙音箱/佛山面料/床垫/洗衣珠/工业机器人/包装纸盒）。达人案例:护肤品/塑身衣/耳环/牙膏/监控摄像头。工具分析:Fassmoss/echotik/kalodata数据分析，wotohub达人管理，CapCut剪辑。适合TikTok出海品牌运营策略参考。
 quality_level: A
 decision_value: 高
 retrieval_keywords:
@@ -33,7 +33,7 @@ category: 国内业务
 platform: 多平台
 industry: 多行业
 scenario: 获客
-summary_en: [EN] TikTok运营实战案例库，包含工厂型/贸易型/小团队个人三种商家类型，涵盖护发素/义乌香水/深圳内衣/手机膜/玩具/鞋子等品类。优秀案例：矩阵账号（广东广告灯牌/深圳手机膜数据线）、工厂型（拖布/家...
+summary_en: [EN] TikTok运营实战案例库，包含工厂型/贸易型/小团队个人三种商家类型，涵盖护发素/义乌香水/深圳内衣/手机膜/玩具/鞋子等品类。优秀案例:矩阵账号（广东广告灯牌/深圳手机膜数据线）、工厂型（拖布/家...
 one_sentence_summary: TIkTOK 实战案例拆解是国内业务领域的核心方法。
 routing_target:
   - "[[13-国内业务代运营MOC]]"

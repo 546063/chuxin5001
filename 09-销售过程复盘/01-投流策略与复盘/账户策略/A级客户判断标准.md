@@ -27,7 +27,7 @@ related:
 - "[[客户开发SOP]]"
 quality_level: B
 decision_value: 中
-summary_cn: A级客户判断标准框架：基于需求明确度、预算范围、时间紧迫性、职级决策权、行业匹配度五个维度进行加权评分，A级客户（70-100分）优先即时跟进，B级客户（40-69分）24小时内跟进，是高价值线索识别的核心标准。
+summary_cn: A级客户判断标准框架:基于需求明确度、预算范围、时间紧迫性、职级决策权、行业匹配度五个维度进行加权评分，A级客户（70-100分）优先即时跟进，B级客户（40-69分）24小时内跟进，是高价值线索识别的核心标准。
 summary_en: A-level customer judgment criteria: weighted scoring model based on 5 dimensions (need clarity, budget, timeline, seniority, industry match). Score 70-100 gets priority immediate follow-up, 40-69 gets 24hr follow-up.
 one_sentence_summary: A级客户五维加权评分，70分以上优先跟进
 - 高价值客户识别

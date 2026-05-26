@@ -4,11 +4,16 @@ aliases:
   - 银羽招生视频SOP
   - 羽毛球招生剪辑规范
   - 银羽视频剪辑标准
-  - 银羽V1 SOP
+topic: AI视频剪辑
+created: 2026-05-18
+updated: "2026-05-23"
+type: sop
+status: active
+quality_level: A
+summary_cn: "本 SOP 约束银羽招生短视频的剪辑流程:只保留女孩主口播声音，按用户提供文案生成 ASS 字幕，用 1–2 秒 B-roll 快切覆盖大部分画面，并通过抽帧验收确保字幕、声音、画面、方向、嘴型同步全部合格。"
+summary_en: "This SOP defines the editing workflow for YinYu badminton recruitment short videos, including clean female voiceover, strict transcript-based ASS subtitles, fast B-roll editing, and frame-level QA."
+decision_value: "防止 AI 自由发挥、字幕过大、混入杂音、口播画面过多、B-roll 不足、字幕与声音不一致。"
 tags:
-  - #AI视频剪辑
-  - #SOP
-  - #银羽招生
   - AI视频剪辑
   - 银羽国际俱乐部
   - 羽毛球招生
@@ -16,16 +21,10 @@ tags:
   - 口播混剪
   - B-roll
   - ClaudeCode工作流
-type: sop
-status: active
-created: 2026-05-18
-updated: 2026-05-21
-summary_cn: 本 SOP 约束银羽招生短视频的剪辑流程：只保留女孩主口播声音，按用户提供文案生成 ASS 字幕，用 1-2 秒 B-roll 快切覆盖大部分画面，并通过抽帧验收确保字幕、声音、画面、方向、嘴型同步全部合格。
-summary_en: "This SOP defines the editing workflow for YinYu badminton recruitment short videos, including clean female voiceover, strict transcript-based ASS subtitles, fast B-roll editing, and frame-level QA."
 related:
-  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
-  - "[[06-内容素材创意MOC]]"
-  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
+  - "[[15-AI工作流与自动化]]"
+  - "[[04-内容素材与创意]]"
+  - "[[02-跨境社媒获客]]"
 retrieval_keywords:
   - 银羽招生
   - 羽毛球招生视频
@@ -35,14 +34,10 @@ retrieval_keywords:
   - 字幕字号
   - libass
   - ffmpeg
-  - 抽帧验收
-  - 口播混剪
-decision_value: 防止 AI 自由发挥、字幕过大、混入杂音、口播画面过多、B-roll 不足、字幕与声音不一致。
-quality_level: A
 routing_target:
-  - 视频剪辑
-  - AI工作流
-source: user
+  - "[[15-AI工作流与自动化]]"
+version: v1
+target_folder: "15-AI工作流与自动化/AI视频剪辑工作流"
 ---
 
 # 银羽招生短视频剪辑 SOP V1
@@ -557,8 +552,3 @@ Claude Code 每次剪辑前必须先读本文档。
 9. 烧录 ASS。
 10. 抽帧验收。
 11. 写报告。
-
-## 合并来源
-- 已归并：[[银羽招生短视频剪辑SOP_V1_01目录早期草稿]]
-- 归并日期：2026-05-21
-- 处理原因：疑似重复/早期草稿（01-目录版本222行，05-目录版本559行更完整）

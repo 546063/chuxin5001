@@ -11,7 +11,7 @@ quality_level: "S"
 summary_cn: "内容素材创意MOC是所有广告素材、短视频脚本、图文文案的创作入口。管辖素材灵感库、Hook设计、脚本框架、素材类型库（工厂实拍/对比型/痛点型）、素材测试诊断、UGC策略、和落地页。当AI需要创作广告素材、写短视频脚本、或者设计产品卖点表达时，先查这里。"
 summary_en: "Creative content hub for all advertising materials, short video scripts, copy, hooks, and visual assets. Manages inspiration libraries, script frameworks, creative testing, and landing pages for B2B food machinery export."
 one_sentence_summary: "广告素材创意总入口，短视频脚本/Hook设计/素材类型库/落地页"
-decision_value: "帮助判断：素材怎么写开头钩子、脚本框架是什么、不同类型素材怎么创作、产品卖点如何表达、素材效果怎么诊断"
+decision_value: "帮助判断:素材怎么写开头钩子、脚本框架是什么、不同类型素材怎么创作、产品卖点如何表达、素材效果怎么诊断"
 review_note: "S级主MOC，内容素材创意统一入口，贯穿从创意到测试到复盘全链路"
 category: "外贸市场"
 platform: ["Facebook", "TikTok", "LinkedIn", "Google", "YouTube"]

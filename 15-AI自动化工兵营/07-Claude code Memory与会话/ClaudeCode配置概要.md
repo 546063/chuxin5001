@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: journal
 status: active
 quality_level: B
-summary_cn: '## 适用场景 - 适合平台： - 适合行业： - 适合场景：相关文档'
+summary_cn: '## 适用场景 - 适合平台: - 适合行业: - 适合场景:相关文档'
 summary_en: Document regarding ClaudeCode配置概要. Reference for business decisions.
 one_sentence_summary: ClaudeCode配置概要是AI工具领域的核心方法。
 decision_value: AI tool usage and prompt engineering reference
@@ -141,12 +141,12 @@ model_route:
 ---
 
 ## 相关链接
-- [[01-记忆与配置/记忆/ClaudeCode记忆]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/ClaudeCode记忆]]
 - [[11-智囊团与知识蒸馏/MOC]]
 
 ## 关联笔记
 - [[01-记忆与配置/MOC]]
-- [[01-记忆与配置/记忆/兴趣与爱好]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/兴趣与爱好]]
 
 
 ## 相关知识点

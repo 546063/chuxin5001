@@ -2,41 +2,26 @@
 title: 银羽招生短视频剪辑SOP V3 - B-roll混剪强化版
 aliases:
   - 银羽V3Broll强化版SOP
-  - B-roll混剪规范
-  - 快节奏剪辑SOP
-tags:
-  - #AI视频剪辑
-  - #SOP
-  - #银羽招生
-  - B-roll混剪
-  - 快节奏
+topic: AI视频剪辑
+created: 2026-05-18
+updated: 2026-05-23
 type: sop
 status: active
-created: 2026-05-18
-updated: 2026-05-21
-summary_cn: V3 专注 B-roll 混剪节奏优化，每 1.0-2.0 秒切画面，每句话换场景，关键词匹配画面，女孩口播最多 1-2 句。解决画面单调、女孩坐着说话太久、B-roll 不足的问题。定义了口播画面限制（坐着最多1-2句、总占比≤25%）和快切节奏规则。
-summary_en: "V3 focuses on B-roll editing rhythm optimization: scene change every 1-2 seconds, keyword-matched visuals, talking-head limited to 1-2 sentences."
-related:
-  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
-  - "[[06-内容素材创意MOC]]"
-  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
-retrieval_keywords:
-  - B-roll混剪
-  - 快节奏剪辑
-  - 画面切换
-  - 场景匹配
-  - 关键词剪辑
-  - 口播占比
-  - 抖音风格
-  - 视频号剪辑
-  - 银羽招生
-  - 短视频节奏
-decision_value: 解决画面单调、女孩坐着说话太久、B-roll 不足的问题，打造快节奏抖音/视频号风格招生视频。
 quality_level: A
+summary_cn: V3 专注 B-roll 混剪节奏优化，每 1.0-2.0 秒切画面，每句话换场景，关键词匹配画面，女孩口播最多 1-2 句。
+summary_en: Reference note about 银羽招生短视频剪辑SOP V3 - B-roll混剪强化版.
+decision_value: 解决画面单调、女孩坐着说话太久、B-roll 不足的问题。
+tags:
+  - AI视频剪辑
+  - 银羽招生
+  - B-roll混剪
+  - 快节奏
+related:
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V1]]"
+  - "[[银羽招生短视频剪辑SOP_V2_口播嘴型同步版]]"
 routing_target:
-  - 视频剪辑
-  - AI工作流
-source: user
+  - "[[15-AI工作流与自动化]]"
+version: v3
 ---
 
 # 银羽招生短视频剪辑 SOP V3 — B-roll 混剪强化版

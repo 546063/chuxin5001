@@ -7,7 +7,7 @@ updated: "2026-05-17"
 type: "model_router"
 status: "active"
 quality_level: "B"
-summary_cn: "知识库AI调用的大脑入口，实现问题分类、模型选择和资料检索的自动化路由。五段路由架构：L1免费层→L2日常主力→L3国产深度→L4全球尖刀→L5特殊备胎，覆盖85%国产流量+15%全球最强尖刀。"
+summary_cn: "知识库AI调用的大脑入口，实现问题分类、模型选择和资料检索的自动化路由。五段路由架构:L1免费层→L2日常主力→L3国产深度→L4全球尖刀→L5特殊备胎，覆盖85%国产流量+15%全球最强尖刀。"
 summary_en: "Document regarding model-router. Reference for business decisions."
 one_sentence_summary: "模型路由器": ""核心方法和实战经验。
 decision_value: "AI automation documentation"

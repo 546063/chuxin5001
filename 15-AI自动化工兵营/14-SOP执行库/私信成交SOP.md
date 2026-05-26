@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: sop
 status: active
 quality_level: A
-summary_cn: '### 1. 客户分层 - A类：有明确需求、有预算、有决策权 - B类：有兴趣但还没决定 - C类：随便问问相关文档'
+summary_cn: '### 1. 客户分层 - A类:有明确需求、有预算、有决策权 - B类:有兴趣但还没决定 - C类:随便问问相关文档'
 summary_en: Document regarding 私信成交SOP. Reference for business decisions.
 one_sentence_summary: '# 私信成交SOP  ## 目的  系统化将私信中的询盘转化为实际成交'
 decision_value: Build AI automation workflows and scripts
@@ -60,7 +60,7 @@ model_route:
 - 提问了解客户真实需求
 
 ### 3. 需求挖掘
-- 用 [[11-智囊团与知识蒸馏/母模型库/客户痛点差距模型]] 设计问题
+- 用 [[15-AI自动化工兵营/01-模型路由/01-母模型库/客户痛点差距模型]] 设计问题
 - 了解客户的当前状况
 - 了解客户的期望结果
 - 了解客户的决策流程
@@ -83,4 +83,4 @@ model_route:
 
 ## 相关文件
 
-- [[10-AI工具与自动化/场景模板/WhatsApp私聊成交]]
+- [[05-客户开发与成交/02-跨境运营与客户开发/场景模板/WhatsApp私聊成交]]

@@ -10,7 +10,7 @@ type: 工具技能
 status: active
 quality_level: B
 summary_cn:
-  - - 目录下各核心文档之间的层次关系与导航结构。 > > 视觉版本：[[AI工具配置关系图谱.canvas]]相关文档'
+  - - 目录下各核心文档之间的层次关系与导航结构。 > > 视觉版本:[[AI工具配置关系图谱.canvas]]相关文档'
 summary_en: Document regarding AI工具配置关系图谱. Reference for business decisions.
 one_sentence_summary: '"AI工具配置关系图谱"': AI工作流核心方法和实战经验。
 decision_value: AI tool usage and prompt engineering reference

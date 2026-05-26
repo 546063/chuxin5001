@@ -20,7 +20,7 @@ relations:
   - - note: 待关联
 summary_cn: 华东产业带工厂调研，浙江/江苏/上海机电产品/纺织机械/汽车配件产业分布、1688拿货渠道、供应商分级，支撑跨境选品供应链对接与产业带走访。
 summary_en: East China industrial belt factory research covering Zhejiang/Jiangsu/Shanghai industrial distribution for electrical machinery, textile machinery, and auto parts, supporting cross-border product selection and supply chain connection.
-one_sentence_summary: 华东产业带：浙江/江苏/上海机电+纺织机械+汽车配件产业分布与供应商清单。
+one_sentence_summary: 华东产业带:浙江/江苏/上海机电+纺织机械+汽车配件产业分布与供应商清单。
 related:
 source: AI整理-2026-05-11
 category: 跨境选品

@@ -1,34 +1,34 @@
 ---
-title: "视频号私域承接SOP"
+title: 视频号私域承接SOP
 aliases:
-  - "视频号私域运营"
-  - "WeChat Channels Private Domain"
+  - 视频号私域运营
+  - WeChat Channels Private Domain
 tags:
   - wechat-channels
   - private-domain
   - b2b-sales
   - food-machinery
-type: "SOP"
-module: "跨境社媒获客"
-platform: "微信视频号"
+type: SOP
+module: 跨境社媒获客
+platform: 微信视频号
 routing_target:
   - wechat_channels_leads
   - private_domain_conversion
-quality_level: "A"
-summary_cn: "视频号私域承接 SOP，覆盖从视频号到微信私域的全流程：评论承接→加微信→朋友圈培育→询盘→成交。"
-summary_en: "WeChat Channels private domain conversion SOP covering comment-to-WeChat-add-feed nurturing-inquiry-close pipeline."
+quality_level: A
+summary_cn: 视频号私域承接 SOP，覆盖从视频号到微信私域的全流程:评论承接→加微信→朋友圈培育→询盘→成交。
+summary_en: WeChat Channels private domain conversion SOP covering comment-to-WeChat-add-feed nurturing-inquiry-close pipeline.
 related:
   - "[[00-国内视频号自然获客路由入口]]"
   - "[[01-视频号自然流量获客SOP]]"
-  - "[[03-海外投流/Facebook投流知识库/15-Facebook客服营销SOP]]"
+  - "[[15-Facebook客服营销SOP]]"
 retrieval_keywords:
-  - "视频号怎么导私域"
-  - "视频号私域承接"
-  - "视频号客户跟进"
-  - "视频号朋友圈培育"
-decision_value: "视频号最大的优势是私域承接能力，这套 SOP 确保流量转化为成交"
-created: "2026-05-22"
-updated: "2026-05-22"
+  - 视频号怎么导私域
+  - 视频号私域承接
+  - 视频号客户跟进
+  - 视频号朋友圈培育
+decision_value: 视频号最大的优势是私域承接能力，这套 SOP 确保流量转化为成交
+created: 2026-05-22
+updated: 2026-05-22
 ---
 
 # 视频号私域承接 SOP

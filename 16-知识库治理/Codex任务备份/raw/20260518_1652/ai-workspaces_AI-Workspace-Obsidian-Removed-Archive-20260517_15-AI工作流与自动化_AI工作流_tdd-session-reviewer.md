@@ -7,7 +7,17 @@ category: AI工作流
 platform: [Claude Code, Codex, OpenClaw]
 scenario: [知识库维护, 自动化]
 tags: [AI工作流, AI技能, ClaudeCode, Codex, Obsidian, OpenClaw, TDD, 工作流, 工具技能, 待补充, 知识库维护]
-related: [[AI工作流]] [[Claude Code]] [[Codex]] [[Obsidian]] [[Obsidian知识库维护]] [[OpenClaw]] [[Prompt提示词库]] [[TDD方法论]] [[测试驱动开发]] [[认知框架]]
+related:
+  - "[[AI工作流]]"
+  - "[[Claude Code]]"
+  - "[[Codex]]"
+  - "[[Obsidian]]"
+  - "[[Obsidian知识库维护]]"
+  - "[[OpenClaw]]"
+  - "[[Prompt提示词库]]"
+  - "[[TDD方法论]]"
+  - "[[测试驱动开发]]"
+  - "[[认知框架]]"
 created: "2026-05-10"
 updated: "2026-05-10"
 source: "迁移自 08-AI智囊团"

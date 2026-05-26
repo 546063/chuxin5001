@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: journal
 status: active
 quality_level: B
-summary_cn: '> 来源：~/.openclaw/workspace/TOOLS.md > 更新时间：2026-04-16 > 同步对照：hermes-backup-workflow相关文档'
+summary_cn: '> 来源:~/.openclaw/workspace/TOOLS.md > 更新时间:2026-04-16 > 同步对照:hermes-backup-workflow相关文档'
 summary_en: Document regarding TOOLS. Reference for business decisions.
 one_sentence_summary: TOOLS: AI工具核心方法和实战经验。
 decision_value: AI automation documentation
@@ -155,8 +155,8 @@ model_route:
 ## 关联笔记
 - [[01-记忆与配置/MOC]]
 - [[00_System_MOC]]
-- [[01-记忆与配置/配置/AGENTS|AGENTS]]
-- [[01-记忆与配置/配置/AI知识库说明|AI知识库说明]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/AGENTS|AGENTS]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/AI知识库说明|AI知识库说明]]
 - [[01-记忆与配置/配置/SOUL|SOUL]]
 - [[01-记忆与配置/配置/USER|USER]]
 

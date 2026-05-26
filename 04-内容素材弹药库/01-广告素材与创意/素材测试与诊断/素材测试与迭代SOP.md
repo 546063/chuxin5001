@@ -1,35 +1,49 @@
 ---
+
 title: "素材测试与迭代SOP"
 topic: ""
 created: "''"
-updated: "2026-05-17"
-type: "SOP"
 status: "active"
-quality_level: "A"
-summary_cn: "> 本文已被合并至：[[C3_素材测试与迭代SOP]]。本文件保留用于历史追溯，不再作为优先调用文档。相关文档"
+summary_cn: "> 本文已被合并至:[[C3_素材测试与迭代SOP]]。本文件保留用于历史追溯，不再作为优先调用文档。相关文档"
 summary_en: "Document regarding 素材测试与迭代SOP. Reference for business decisions."
-one_sentence_summary: "> 本文已被合并至：[[C3_素材测试与迭代SOP]]"
-decision_value: "Create content and creative materials for social media"
+one_sentence_summary: "> 本文已被合并至:[[C3_素材测试与迭代SOP]]"
 review_note: "素材测试迭代SOP"
 category: "广告素材与创意"
 platform: "多平台"
 industry: "多行业"
-scenario: "素材测试"
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[06-内容素材创意MOC]]
-retrieval_keywords:
-  - 短视频脚本
-  - Facebook素材灵感
-  - TikTok内容策划
-  - 落地页模板
-  - 钩子设计框架
 routing_target:
   - "[[06-内容素材创意MOC]]"
+
+tags:
+    - "#facebook广告/素材测试"
+    - "#facebook广告/素材迭代"
+    - "#视频工厂/案例拆解"
+related:
+    - "[[C3_素材测试与迭代SOP]]"
+    - "[[C5_素材数据指标与诊断]]"
+    - "[[C1_素材底层逻辑与算法偏好]]"
+retrieval_keywords:
+    - 本文已被合并至
+    - 素材测试与迭代
+    - SOP
+    - 本文件保留用于历史追溯
+    - 不再作为优先调用文档
+    - 一句话总结
+    - 一次只测一个变量
+    - 等量预算
+    - 天最低测试周期
+    - 每周
+decision_value: "用于素材测试与迭代SOP的决策参考和方法指导。"
+domain: "video_factory"
+scenario: "content_production"
+type: "sop"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 > 本文已被合并至：[[C3_素材测试与迭代SOP]]。本文件保留用于历史追溯，不再作为优先调用文档。
 

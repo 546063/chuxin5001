@@ -32,6 +32,7 @@ routing_target:
 model_route:
   - "claude-code"
   - "openclaw"
+---
 
 ------
 # CLAUDE.md
@@ -717,4 +718,3 @@ ai-weather 城市名
 
 详细规则见：
 ~/.ai-control/bridge/FEISHU_PROCESS_LAYER_RULE.md
-

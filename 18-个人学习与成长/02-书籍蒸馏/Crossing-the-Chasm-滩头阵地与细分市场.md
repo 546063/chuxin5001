@@ -1,44 +1,41 @@
 ---
-title: "《Crossing the Chasm》｜滩头阵地与细分市场切入模型"
-topic: "书籍模型库"
-type: "book_note"
-status: "active"
-quality_level: "A"
+title: 《Crossing the Chasm》｜滩头阵地与细分市场切入模型
+topic: 书籍模型库
 created: "2026-05-18"
-updated: "2026-05-21"
-summary_cn: "《Crossing the Chasm》适合转化成一套从早期客户走向主流市场的细分客群、滩头阵地、完整产品和市场切入模型。"
+updated: "2026-05-23"
+type: book_note
+status: active
+quality_level: A
+summary_cn: 《Crossing the Chasm》适合转化成一套从早期客户走向主流市场的细分客群、滩头阵地、完整产品和市场切入模型。
 summary_en: "A work-connected note distilling Crossing the Chasm into early market, mainstream market, beachhead strategy, whole product, and niche-to-adjacent expansion."
-decision_value: "用于新服务启动、新产品切入、跨境社媒客户细分、B2B市场进入、试点客户选择和一人公司低成本验证。"
-category: "外贸、跨境与B2B生意"
-platform: ["LinkedIn", "Facebook", "TikTok", "YouTube", "Google", "WhatsApp", "独立站"]
-industry: ["跨境社媒", "一人公司", "B2B获客", "新产品", "外贸", "SaaS式服务"]
-scenario: ["早期市场", "主流市场", "滩头阵地", "细分客群", "市场进入", "产品验证"]
-routing_target: "18-个人学习与成长/书籍模型库"
+decision_value: 用于新服务启动、新产品切入、跨境社媒客户细分、B2B市场进入、试点客户选择和一人公司低成本验证。
 tags:
-  - "#书籍蒸馏"
-  - "#决策框架"
-  - "#市场进入"
-  - "#细分市场"
-related:
-  - "[[18-个人学习与成长/02-书籍蒸馏/书籍模型库组织建议-按能力模块]]"
-  - "[[18-个人学习与成长/05-思维模型库/100个思维模型库_跨境社媒与AI工作流版]]"
-  - "[[16-学习成长蒸馏MOC]]"
-retrieval_keywords:
-aliases:
-  - Crossing-the-Chasm-滩头阵地与细分市场
-  - 书籍蒸馏
-  - 决策框架  - Crossing the Chasm
-  - 跨越鸿沟
-  - 滩头阵地
-  - 细分市场
+  - 书籍笔记
+  - 学习
+routing_target: "18-个人学习与成长/书籍模型库"
+category: 外贸、跨境与B2B生意
+platform:
+  - LinkedIn
+  - Facebook
+  - TikTok
+  - YouTube
+  - Google
+  - WhatsApp
+  - 独立站
+industry:
+  - 跨境社媒
+  - 一人公司
+  - B2B获客
+  - 新产品
+  - 外贸
+  - SaaS式服务
+scenario:
   - 早期市场
   - 主流市场
-  - 完整产品
-  - 市场进入策略
-  - B2B获客
-  -  niche市场
-  - 跨境社媒
-source: book
+  - 滩头阵地
+  - 细分客群
+  - 市场进入
+  - 产品验证
 ---
 
 # 《Crossing the Chasm》｜滩头阵地与细分市场切入模型

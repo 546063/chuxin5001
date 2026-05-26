@@ -1,29 +1,29 @@
 ---
-title: "Facebook投流路由测试问题集"
+title: Facebook投流路由测试问题集
 aliases:
-  - "FB投流测试问题"
-  - "Facebook Ads Routing Test"
+  - FB投流测试问题
+  - Facebook Ads Routing Test
 tags:
   - Facebook广告
   - 路由测试
   - AI路由
-type: "测试问题集"
-module: "海外投流"
-routing_priority: "P0"
-quality_level: "S"
-summary_cn: "Facebook 投流知识库路由测试问题集，100 条测试问题覆盖 10 大分类，用于验证路由表和 JSON 路由文件的准确性。"
-summary_en: "Facebook Ads routing test question set, 100 questions across 10 categories for validating routing accuracy."
+type: 测试问题集
+module: 海外投流
+routing_priority: P0
+quality_level: S
+summary_cn: Facebook 投流知识库路由测试问题集，100 条测试问题覆盖 10 大分类，用于验证路由表和 JSON 路由文件的准确性。
+summary_en: Facebook Ads routing test question set, 100 questions across 10 categories for validating routing accuracy.
 related:
-  - "[[10-Facebook投流路由入口]]"
+  - "[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/10-Facebook投流路由入口]]"
   - "[[16-Facebook投流常见问题路由表]]"
   - "[[routing_rules_facebook_ads]]"
 retrieval_keywords:
   - Facebook投流路由测试
   - 路由准确率
   - 知识库自测
-decision_value: "用这 100 个问题定期自测路由准确率，确保知识库可被 AI 准确检索。"
-created: "2026-05-22"
-updated: "2026-05-22"
+decision_value: 用这 100 个问题定期自测路由准确率，确保知识库可被 AI 准确检索。
+created: 2026-05-22
+updated: 2026-05-22
 ---
 
 # Facebook投流路由测试问题集
@@ -45,8 +45,8 @@ updated: "2026-05-22"
 | Q3 | Facebook 广告账户怎么注册？ | facebook_ads | [[02-Facebook广告账户与配置SOP]] |
 | Q4 | Instagram 广告和 Facebook 广告可以一起投吗？ | facebook_ads | [[05-Facebook投放结构与预算模型]] |
 | Q5 | Facebook 广告 Pixel 是什么？ | facebook_ads | [[02-Facebook广告账户与配置SOP]] |
-| Q6 | Facebook 广告被拒登怎么处理？ | facebook_ad_policy | [[23-Facebook目标市场广告合规清单]] |
-| Q7 | Facebook 广告账户被封了怎么办？ | facebook_ad_policy | [[23-Facebook目标市场广告合规清单]] |
+| Q6 | Facebook 广告被拒登怎么处理？ | facebook_ad_policy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q7 | Facebook 广告账户被封了怎么办？ | facebook_ad_policy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
 | Q8 | Facebook 广告最低预算多少可以开始？ | facebook_ads | [[05-Facebook投放结构与预算模型]] |
 | Q9 | Facebook 广告学习期是什么意思？ | facebook_ads | [[02-Facebook广告账户与配置SOP]] |
 | Q10 | Facebook 广告多久能看到效果？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]] |
@@ -55,16 +55,16 @@ updated: "2026-05-22"
 
 | # | 测试问题 | 预期 routing_target | 预期命中文档 |
 |---|---------|-------------------|-------------|
-| Q11 | B2B Facebook 广告账户怎么搭建？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]] |
-| Q12 | Campaign 和 Ad Set 怎么拆分？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]] |
+| Q11 | B2B Facebook 广告账户怎么搭建？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
+| Q12 | Campaign 和 Ad Set 怎么拆分？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
 | Q13 | ABO 和 CBO 有什么区别？ | facebook_ads | [[05-Facebook投放结构与预算模型]] |
-| Q14 | 新账户冷启动怎么测受众？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]]、[[11-Facebook B2B广告账户结构SOP]] |
-| Q15 | 多国家广告怎么拆 Ad Set？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]] |
-| Q16 | B2B 广告用什么营销目标？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]] |
-| Q17 | Facebook 广告命名规范怎么定？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]] |
+| Q14 | 新账户冷启动怎么测受众？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
+| Q15 | 多国家广告怎么拆 Ad Set？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
+| Q16 | B2B 广告用什么营销目标？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
+| Q17 | Facebook 广告命名规范怎么定？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
 | Q18 | 受众重叠超过 30% 怎么办？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]] |
-| Q19 | B2B 广告怎么扩量？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]]、[[05-Facebook投放结构与预算模型]] |
-| Q20 | 再营销 Campaign 怎么设置？ | facebook_ads | [[07-Facebook再营销与转化追踪]]、[[11-Facebook B2B广告账户结构SOP]] |
+| Q19 | B2B 广告怎么扩量？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]]、[[05-Facebook投放结构与预算模型]] |
+| Q20 | 再营销 Campaign 怎么设置？ | facebook_ads | [[07-Facebook再营销与转化追踪]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
 
 ## 3. Messenger 获客问题（10条）
 
@@ -103,12 +103,12 @@ updated: "2026-05-22"
 | Q41 | Facebook Lead Ads 怎么做？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] |
 | Q42 | 留资广告表单字段怎么设计？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] |
 | Q43 | Lead Ads 线索质量差怎么提高？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[14-Facebook无效线索过滤SOP]] |
-| Q44 | CPL 太高怎么降低？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[17-Facebook投流复盘指标体系]] |
+| Q44 | CPL 太高怎么降低？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
 | Q45 | 留资广告和落地页广告选哪个？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] |
 | Q46 | Lead Ads 线索怎么同步到表格？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] |
 | Q47 | 留资广告后怎么跟进客户？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[15-Facebook客服营销SOP]] |
 | Q48 | Higher Intent 表单是什么？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] |
-| Q49 | 留资广告 CPL 多少算正常？ | facebook_lead_ads | [[17-Facebook投流复盘指标体系]] |
+| Q49 | 留资广告 CPL 多少算正常？ | facebook_lead_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
 | Q50 | 留资广告用什么素材效果好？ | facebook_lead_ads | [[18-Facebook广告素材创意SOP]] |
 
 ## 6. 食品机械投流问题（20条）
@@ -116,7 +116,7 @@ updated: "2026-05-22"
 | # | 测试问题 | 预期 routing_target | 预期命中文档 |
 |---|---------|-------------------|-------------|
 | Q51 | 食品加工机械怎么投 Facebook？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]] |
-| Q52 | 切菜机在中东市场 Facebook 广告怎么写？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[24-阿拉伯语Facebook广告文案模板]] |
+| Q52 | 切菜机在中东市场 Facebook 广告怎么写？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] |
 | Q53 | 切菜机怎么投 Facebook？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[21-食品加工机械Facebook广告素材库]] |
 | Q54 | 切肉机 Facebook 广告怎么做？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[21-食品加工机械Facebook广告素材库]] |
 | Q55 | 包子机投 Facebook 用什么素材？ | food_processing_machinery_ads | [[21-食品加工机械Facebook广告素材库]] |
@@ -127,14 +127,14 @@ updated: "2026-05-22"
 | Q60 | 去皮机 Facebook 广告怎么写？ | food_processing_machinery_ads | [[21-食品加工机械Facebook广告素材库]] |
 | Q61 | 羊肉卷切片机怎么投 Facebook？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]] |
 | Q62 | 食品加工生产线怎么投？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]] |
-| Q63 | 食品机械广告预算多少合适？ | food_processing_machinery_ads | [[11-Facebook B2B广告账户结构SOP]] |
+| Q63 | 食品机械广告预算多少合适？ | food_processing_machinery_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
 | Q64 | 食品机械 Facebook 广告怎么接询盘？ | food_processing_machinery_ads | [[12-Facebook Messenger获客链路SOP]]、[[13-Facebook WhatsApp获客链路SOP]] |
-| Q65 | 食品机械在中东怎么投？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[24-阿拉伯语Facebook广告文案模板]] |
-| Q66 | 食品机械在东南亚怎么投？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[23-Facebook目标市场广告合规清单]] |
-| Q67 | 给食品机械客户做 Facebook 投流方案 | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[11-Facebook B2B广告账户结构SOP]] |
+| Q65 | 食品机械在中东怎么投？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] |
+| Q66 | 食品机械在东南亚怎么投？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q67 | 给食品机械客户做 Facebook 投流方案 | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
 | Q68 | 食品机械广告无效线索多怎么办？ | food_processing_machinery_ads | [[14-Facebook无效线索过滤SOP]] |
 | Q69 | 食品机械广告素材怎么拍？ | food_processing_machinery_ads | [[21-食品加工机械Facebook广告素材库]] |
-| Q70 | 食品机械广告 CTR 低怎么办？ | food_processing_machinery_ads | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] |
+| Q70 | 食品机械广告 CTR 低怎么办？ | food_processing_machinery_ads | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
 
 ## 7. 广告素材问题（10条）
 
@@ -155,16 +155,16 @@ updated: "2026-05-22"
 
 | # | 测试问题 | 预期 routing_target | 预期命中文档 |
 |---|---------|-------------------|-------------|
-| Q81 | CTR 低于 1% 怎么办？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] |
-| Q82 | CPC 超过 $3 正常吗？ | facebook_ad_optimization | [[17-Facebook投流复盘指标体系]] |
-| Q83 | CPL $30 算高吗？ | facebook_lead_ads | [[17-Facebook投流复盘指标体系]] |
-| Q84 | ROAS 只有 1.5x 怎么优化？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] |
+| Q81 | CTR 低于 1% 怎么办？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
+| Q82 | CPC 超过 $3 正常吗？ | facebook_ad_optimization | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
+| Q83 | CPL $30 算高吗？ | facebook_lead_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
+| Q84 | ROAS 只有 1.5x 怎么优化？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
 | Q85 | 广告跑了 3 天 0 转化怎么办？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]] |
-| Q86 | 怎么做 Facebook 广告月度复盘？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] |
-| Q87 | 素材疲劳怎么判断？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] |
+| Q86 | 怎么做 Facebook 广告月度复盘？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
+| Q87 | 素材疲劳怎么判断？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
 | Q88 | 什么时候该关停广告？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]] |
-| Q89 | 什么时候可以加预算？ | facebook_ad_optimization | [[05-Facebook投放结构与预算模型]]、[[17-Facebook投流复盘指标体系]] |
-| Q90 | 广告数据怎么记录？ | facebook_ad_optimization | [[20-Facebook投流实战数据记录模板]] |
+| Q89 | 什么时候可以加预算？ | facebook_ad_optimization | [[05-Facebook投放结构与预算模型]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] |
+| Q90 | 广告数据怎么记录？ | facebook_ad_optimization | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/20-Facebook投流实战数据记录模板]] |
 
 ## 9. 无效线索 / 客服跟进问题（10条）
 
@@ -185,16 +185,16 @@ updated: "2026-05-22"
 
 | # | 测试问题 | 预期 routing_target | 预期命中文档 |
 |---|---------|-------------------|-------------|
-| Q101 | 阿拉伯语广告文案怎么写？ | arabic_ad_copy | [[24-阿拉伯语Facebook广告文案模板]] |
-| Q102 | 中东市场 Facebook 广告合规要注意什么？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]] |
-| Q103 | Facebook 广告什么内容会被拒？ | facebook_ad_policy | [[23-Facebook目标市场广告合规清单]] |
-| Q104 | 沙特市场广告怎么投？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]]、[[24-阿拉伯语Facebook广告文案模板]] |
-| Q105 | 阿联酋市场受众怎么定向？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]]、[[11-Facebook B2B广告账户结构SOP]] |
-| Q106 | 食品机械在中东有什么广告限制？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]] |
-| Q107 | 阿拉伯语 WhatsApp 消息怎么写？ | arabic_ad_copy | [[24-阿拉伯语Facebook广告文案模板]]、[[13-Facebook WhatsApp获客链路SOP]] |
-| Q108 | Facebook 广告被拒登怎么申诉？ | facebook_ad_policy | [[23-Facebook目标市场广告合规清单]] |
-| Q109 | 中东市场素材有什么注意事项？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]]、[[18-Facebook广告素材创意SOP]] |
-| Q110 | 中东市场留资广告表单用什么语言？ | middle_east_ads | [[24-阿拉伯语Facebook广告文案模板]]、[[06-Facebook线索广告与落地页]] |
+| Q101 | 阿拉伯语广告文案怎么写？ | arabic_ad_copy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] |
+| Q102 | 中东市场 Facebook 广告合规要注意什么？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q103 | Facebook 广告什么内容会被拒？ | facebook_ad_policy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q104 | 沙特市场广告怎么投？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] |
+| Q105 | 阿联酋市场受众怎么定向？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] |
+| Q106 | 食品机械在中东有什么广告限制？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q107 | 阿拉伯语 WhatsApp 消息怎么写？ | arabic_ad_copy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]]、[[13-Facebook WhatsApp获客链路SOP]] |
+| Q108 | Facebook 广告被拒登怎么申诉？ | facebook_ad_policy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] |
+| Q109 | 中东市场素材有什么注意事项？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]]、[[18-Facebook广告素材创意SOP]] |
+| Q110 | 中东市场留资广告表单用什么语言？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]]、[[06-Facebook线索广告与落地页]] |
 
 ---
 
@@ -202,25 +202,25 @@ updated: "2026-05-22"
 
 | 测试问题 | 预期 routing_target | 预期命中文档 | 实际命中文档 | 是否通过 | 修正动作 |
 |---------|-------------------|-------------|-------------|---------|---------|
-| 食品加工机械怎么投 Facebook？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[11-Facebook B2B广告账户结构SOP]] | - | 待测 | - |
-| 切菜机在中东市场 Facebook 广告怎么写？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[24-阿拉伯语Facebook广告文案模板]] | - | 待测 | - |
+| 食品加工机械怎么投 Facebook？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] | - | 待测 | - |
+| 切菜机在中东市场 Facebook 广告怎么写？ | food_processing_machinery_ads | [[22-食品加工机械Facebook投流案例库]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] | - | 待测 | - |
 | WhatsApp 获客链路怎么设计？ | whatsapp_leads | [[13-Facebook WhatsApp获客链路SOP]] | - | 待测 | - |
 | Messenger 询盘怎么转 WhatsApp？ | messenger_leads | [[12-Facebook Messenger获客链路SOP]]、[[15-Facebook客服营销SOP]] | - | 待测 | - |
 | Facebook 留资广告线索很差怎么办？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[14-Facebook无效线索过滤SOP]] | - | 待测 | - |
-| Facebook B2B 广告账户结构怎么搭？ | facebook_b2b_ads | [[11-Facebook B2B广告账户结构SOP]]、[[02-Facebook广告账户与配置SOP]] | - | 待测 | - |
+| Facebook B2B 广告账户结构怎么搭？ | facebook_b2b_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]]、[[02-Facebook广告账户与配置SOP]] | - | 待测 | - |
 | 食品机械广告素材怎么拍？ | food_processing_machinery_ads | [[21-食品加工机械Facebook广告素材库]]、[[18-Facebook广告素材创意SOP]] | - | 待测 | - |
-| Facebook 广告 CTR 低怎么办？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] | - | 待测 | - |
-| CPL 高怎么办？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[17-Facebook投流复盘指标体系]] | - | 待测 | - |
-| ROAS 没起来怎么复盘？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[17-Facebook投流复盘指标体系]] | - | 待测 | - |
+| Facebook 广告 CTR 低怎么办？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] | - | 待测 | - |
+| CPL 高怎么办？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] | - | 待测 | - |
+| ROAS 没起来怎么复盘？ | facebook_ad_optimization | [[09-Facebook投流复盘与优化SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/17-Facebook投流复盘指标体系]] | - | 待测 | - |
 | 无效询盘太多怎么办？ | invalid_lead_filtering | [[14-Facebook无效线索过滤SOP]] | - | 待测 | - |
-| 阿拉伯语广告文案怎么写？ | arabic_ad_copy | [[24-阿拉伯语Facebook广告文案模板]] | - | 待测 | - |
-| 中东市场 Facebook 广告合规要注意什么？ | middle_east_ads | [[23-Facebook目标市场广告合规清单]] | - | 待测 | - |
+| 阿拉伯语广告文案怎么写？ | arabic_ad_copy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/24-阿拉伯语Facebook广告文案模板]] | - | 待测 | - |
+| 中东市场 Facebook 广告合规要注意什么？ | middle_east_ads | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] | - | 待测 | - |
 | 如何用 Meta Ad Library 拆竞品素材？ | facebook_competitor_research | [[19-Facebook竞品广告素材拆解SOP]] | - | 待测 | - |
 | 客服拿到 Facebook 线索后怎么跟进？ | facebook_sales_followup | [[15-Facebook客服营销SOP]] | - | 待测 | - |
-| B2B Facebook 广告冷启动怎么测？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]]、[[11-Facebook B2B广告账户结构SOP]] | - | 待测 | - |
+| B2B Facebook 广告冷启动怎么测？ | facebook_b2b_ads | [[02-Facebook广告账户与配置SOP]]、[[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/11-Facebook B2B广告账户结构SOP]] | - | 待测 | - |
 | 留资广告表单字段怎么设计？ | facebook_lead_ads | [[06-Facebook线索广告与落地页]] | - | 待测 | - |
 | 竞品素材怎么拆解？ | facebook_competitor_research | [[19-Facebook竞品广告素材拆解SOP]] | - | 待测 | - |
 | 客户只问价格不回复怎么办？ | invalid_lead_filtering | [[14-Facebook无效线索过滤SOP]]、[[15-Facebook客服营销SOP]] | - | 待测 | - |
-| Facebook 广告被拒登怎么申诉？ | facebook_ad_policy | [[23-Facebook目标市场广告合规清单]] | - | 待测 | - |
+| Facebook 广告被拒登怎么申诉？ | facebook_ad_policy | [[16-知识库治理/YAML红色源码修复备份/2026-05-23_092803/03-海外投流/Facebook投流知识库/23-Facebook目标市场广告合规清单]] | - | 待测 | - |
 
 > 自测将在所有文档创建完成后执行。目标通过率 ≥ 90%。

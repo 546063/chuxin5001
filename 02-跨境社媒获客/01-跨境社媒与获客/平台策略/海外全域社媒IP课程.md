@@ -21,7 +21,7 @@ tags:
 related: 
 created: '2026-05-10'
 source: 06-国内业务
-summary: 迁移自06-国内业务：海外全域社媒IP课程
+summary: 迁移自06-国内业务:海外全域社媒IP课程
 quality_level: B
 decision_value: 中
 review_note: 产业带与运营研究

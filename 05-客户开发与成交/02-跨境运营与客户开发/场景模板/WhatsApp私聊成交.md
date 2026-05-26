@@ -6,7 +6,7 @@ updated: "2026-05-17"
 type: "scenario_template"
 status: "active"
 quality_level: "B"
-summary_cn: "WhatsApp私聊成交场景模板：痛点差距+信任证据+B2B开发+谈判推进模型，输出客户分层/跟进节奏/话术框架/转化路径。适用于客户要了报价没下文、价格太贵、不知道客户是否真实感兴趣等场景。"
+summary_cn: "WhatsApp私聊成交场景模板:痛点差距+信任证据+B2B开发+谈判推进模型，输出客户分层/跟进节奏/话术框架/转化路径。适用于客户要了报价没下文、价格太贵、不知道客户是否真实感兴趣等场景。"
 summary_en: "WhatsApp private chat closing template: pain gap + trust evidence + B2B development + negotiation models, output customer segmentation/follow-up rhythm/script framework/conversion path. For scenarios: quote without follow-up, price objection, uncertain buyer intent."
 one_sentence_summary: "WhatsApp私聊成交": "客户开发与成交"核心方法和实战经验。
 decision_value: "中 - WhatsApp私聊是快速成交的核心渠道，但依赖外部AI模型生成话术，场景模板提供转化路径框架"

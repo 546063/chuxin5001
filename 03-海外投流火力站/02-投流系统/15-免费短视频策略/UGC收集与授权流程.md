@@ -1,35 +1,51 @@
 ---
+
+
 title: UGC收集与授权流程
 topic: ''
 created: '''2026-05-15'''
-updated: '2026-05-17'
-type: note
 status: active
-quality_level: B
 summary_cn: '## 一句话总结 > 客户UGC从请求→拍摄→授权→制作→分发五步完成，用免费备件包/延长保修/下次折扣等激励，2分钟手机视频即可产出全平台内容。相关文档'
 summary_en: Document regarding UGC收集与授权流程. Reference for business decisions.
-one_sentence_summary: UGC素材收集与授权：五步流程+免费备件包激励
-decision_value: Advertising and traffic documentation
+one_sentence_summary: UGC素材收集与授权:五步流程+免费备件包激励
 review_note: UGC收集授权参考
 category: 投流系统
 platform: []
 industry: 食品加工机械
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/UGC策略"
+    - "#facebook广告/多市场适配"
+    - "#facebook广告/本地化"
+related:
+    - "[[C4_UGC策略与多市场适配]]"
+    - "[[工厂拍摄SOP]]"
+    - "[[客户见证素材库]]"
+retrieval_keywords:
+    - UGC
+    - 收集与授权流程
+    - 一句话总结
+    - 客户
+    - 从请求
+    - 拍摄
+    - 授权
+    - 制作
+    - 分发五步完成
+    - 用免费备件包
+decision_value: "用于UGC收集与授权流程的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
+
 ---
 
 # UGC收集与授权流程

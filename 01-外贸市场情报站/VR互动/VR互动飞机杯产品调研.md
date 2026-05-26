@@ -18,7 +18,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 全面调研VR互动飞机杯的技术架构、通信协议、传感器体系和产品形态。核心定义：VR眼镜与飞机杯通过蓝牙/Wi-Fi/APP实时联动的成人智能硬件产品，行业术语为Teledildonics。详细拆解三层架构（内容层/同步层/硬件层）、四种通信协议（BLE/Wi-Fi/USB/DeoVR Haptics API）、.funscript脚本协议，以及市场主流产品的技术路线对比。为选品和供应链谈判提供技术基准。
+summary_cn: 全面调研VR互动飞机杯的技术架构、通信协议、传感器体系和产品形态。核心定义:VR眼镜与飞机杯通过蓝牙/Wi-Fi/APP实时联动的成人智能硬件产品，行业术语为Teledildonics。详细拆解三层架构（内容层/同步层/硬件层）、四种通信协议（BLE/Wi-Fi/USB/DeoVR Haptics API）、.funscript脚本协议，以及市场主流产品的技术路线对比。为选品和供应链谈判提供技术基准。
 summary_en: Comprehensive technical analysis of VR interactive male masturbators covering three-layer architecture, four communication protocols (BLE, Wi-Fi, USB, DeoVR Haptics), .funscript scripting protocol, and sensor systems. Provides technical baseline for product sourcing and supplier negotiations.
 related:
   - "[[01-目录总览MOC]]"

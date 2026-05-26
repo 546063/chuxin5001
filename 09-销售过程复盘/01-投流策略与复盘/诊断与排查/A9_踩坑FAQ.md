@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: 账户策略常见踩坑FAQ：新手和老手都会遇到的问题集合。包含预算设置错误/定向过窄/频繁调整/数据追踪缺失/归因模型混淆等高频踩坑点，每类问题给出原因分析+解决方案+预防措施。核心原则：理解平台规则是避免踩坑的前提。
+summary_cn: 账户策略常见踩坑FAQ:新手和老手都会遇到的问题集合。包含预算设置错误/定向过窄/频繁调整/数据追踪缺失/归因模型混淆等高频踩坑点，每类问题给出原因分析+解决方案+预防措施。核心原则:理解平台规则是避免踩坑的前提。
 summary_en: Common ad account pitfalls FAQ: budget errors/targeting too narrow/frequent changes/data tracking missing/attribution confusion. Root cause + solution + prevention.
 tags:
   - - - - - #投流策略

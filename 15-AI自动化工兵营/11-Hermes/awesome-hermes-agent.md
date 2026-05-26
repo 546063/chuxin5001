@@ -93,7 +93,7 @@ model_route:
 - [[11-智囊团与知识蒸馏/MOC]]
 - [[00-索引与导航/00-首页MOC]]
 - [[11-智囊团与知识蒸馏/商业人物/MOC]]
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]]
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]]
 
 ## 相关知识点
 - [[AI工作流]]

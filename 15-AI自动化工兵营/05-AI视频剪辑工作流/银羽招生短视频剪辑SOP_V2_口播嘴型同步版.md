@@ -2,41 +2,26 @@
 title: 银羽招生短视频剪辑SOP V2 - 口播嘴型同步版
 aliases:
   - 银羽V2嘴型同步版SOP
-  - 嘴型同步剪辑规范
-  - 口播嘴型同步SOP
-tags:
-  - #AI视频剪辑
-  - #SOP
-  - #银羽招生
-  - 嘴型同步
-  - 口播优化
+topic: AI视频剪辑
+created: 2026-05-18
+updated: 2026-05-23
 type: sop
 status: active
-created: 2026-05-18
-updated: 2026-05-21
-summary_cn: V2 专注于解决嘴型与声音不同步问题，核心原则是口播露脸位置必须是嘴型准确的，嘴型不准用 B-roll 盖住。定义了绝对禁止事项（禁止把A段口播音频贴到B段口播画面上、禁止拼接多个口播片段的声音、禁止字幕时间与口播画面嘴型不匹配）和允许保留口播画面的条件。
-summary_en: "V2 focuses on solving lip-sync issues: talking-head shots must have accurate lip-sync; if not accurate, cover with B-roll."
-related:
-  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
-  - "[[06-内容素材创意MOC]]"
-  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
-retrieval_keywords:
-  - 嘴型同步
-  - 口播嘴型
-  - 唇形同步
-  - lip-sync
-  - 音画同步
-  - B-roll覆盖
-  - 口播画面
-  - 字幕对齐
-  - 银羽招生
-  - 短视频剪辑
-decision_value: 解决口播视频中嘴型与声音错位导致的不自然感，确保露脸口播画面的嘴型100%准确。
 quality_level: A
+summary_cn: V2 专注于解决嘴型与声音不同步问题，核心原则:口播露脸位置必须是嘴型准确的，嘴型不准用 B-roll 盖住。
+summary_en: Reference note about 银羽招生短视频剪辑SOP V2 - 口播嘴型同步版.
+decision_value: 解决口播视频中嘴型与声音错位导致的不自然感。
+tags:
+  - AI视频剪辑
+  - 银羽招生
+  - 嘴型同步
+  - 口播优化
+related:
+  - "[[15-AI自动化工兵营/05-AI视频剪辑工作流/银羽招生短视频剪辑SOP_V1]]"
+  - "[[OpenZB_银羽视频剪辑执行文档_V1]]"
 routing_target:
-  - 视频剪辑
-  - AI工作流
-source: user
+  - "[[15-AI工作流与自动化]]"
+version: v2
 ---
 
 # 银羽招生短视频剪辑 SOP V2 — 口播嘴型同步版

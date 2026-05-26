@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 数据优化
 quality_level: A
-summary_cn: 投流核心指标与ROAS拆解框架：CPM/CPC/CTR/CVR/CTIT/ROAS/LaCV等指标定义与计算公式，各指标行业基准值（Dairy Machinery印度₹42 CPL/20x ROAS，Aerogel UAE $84.8 CPL/597成交线索），指标间因果关系与优化优先级。核心原则：ROAS是最终目标但需拆解到各环节指标，指标优化顺序影响整体效率。
+summary_cn: 投流核心指标与ROAS拆解框架:CPM/CPC/CTR/CVR/CTIT/ROAS/LaCV等指标定义与计算公式，各指标行业基准值（Dairy Machinery印度₹42 CPL/20x ROAS，Aerogel UAE $84.8 CPL/597成交线索），指标间因果关系与优化优先级。核心原则:ROAS是最终目标但需拆解到各环节指标，指标优化顺序影响整体效率。
 summary_en: Core metrics and ROAS breakdown framework. CPM/CPC/CTR/CVR/CTIT/ROAS definitions and formulas, industry benchmarks (Dairy Machinery ₹42 CPL/20x ROAS, Aerogel UAE $84.8 CPL/597 verified leads), causal relationships and optimization priority.
 tags:
   - - - - - #投流策略

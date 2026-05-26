@@ -4,10 +4,15 @@ aliases:
   - 安老师课程总结
   - 安先生短视频课程
   - 短视频账号战略模型库
-type: course-note
-source: 用户上传课程文档
+topic: 课程学习
 created: 2026-05-17
-updated: 2026-05-21
+updated: "2026-05-23"
+type: "course-note"
+status: active
+quality_level: A
+summary_cn: 本文将安老师短视频课程压缩为一篇 Obsidian 主文稿，保留原始课程文字，并提炼出流量、账号定位、选题、钩子骨架刺点、情境化、故事、时间、空间、销售成交、引流获客和复盘等核心模型，重点连接到跨境社媒获客和食品机械内容生产。
+summary_en: "Consolidated Obsidian note for An Teacher's short-video course, preserving source notes while extracting account strategy, content structure, storytelling, conversion, and review models for cross-border social media and food machinery marketing."
+decision_value: 高:可用于账号定位、选题、脚本结构、成交链路、复盘体系
 tags:
   - 内容素材与创意
   - 短视频
@@ -15,34 +20,16 @@ tags:
   - 跨境社媒
   - 食品机械获客
   - Obsidian知识库
-quality_level: A
-decision_value: 高：可用于账号定位、选题、脚本结构、成交链路、复盘体系
-routing_target:
-  - 04-内容素材与创意
-  - 02-跨境社媒获客
-  - 05-客户开发与成交
-  - 10-食品加工机械作战体系
 related:
-  - 薛辉短视频课程系统合并笔记
-  - 食品机械短视频内容系统
-  - 跨境社媒获客内容框架
-summary_cn: 本文将安老师短视频课程压缩为一篇 Obsidian 主文稿，保留原始课程文字，并提炼出流量、账号定位、选题、钩子骨架刺点、情境化、故事、时间、空间、销售成交、引流获客和复盘等核心模型，重点连接到跨境社媒获客和食品机械内容生产。
-summary_en: Consolidated Obsidian note for An Teacher's short-video course, preserving source notes while extracting account strategy, content structure, storytelling, conversion, and review models for cross-border social media and food machinery marketing.
-retrieval_keywords:
-  - 安老师
-  - 账号定位
-  - 钩子
-  - 骨架
-  - 刺点
-  - 情境化
-  - 故事结构
-  - 引流获客
-  - 销售成交
-  - 复盘体系
-  - 短视频选题
-  - 跨境社媒
-  - 食品机械
-status: draft
+  - "[[薛辉短视频课程系统合并笔记]]"
+  - "[[食品机械短视频内容系统]]"
+  - "[[跨境社媒获客内容框架]]"
+routing_target:
+  - "[[04-内容素材与创意]]"
+  - "[[02-跨境社媒获客]]"
+  - "[[05-客户开发与成交]]"
+  - "[[10-食品加工机械作战体系]]"
+source: 用户上传课程文档
 ---
 
 # 安老师短视频课程系统合并笔记

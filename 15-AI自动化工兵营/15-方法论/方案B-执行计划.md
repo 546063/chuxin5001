@@ -6,9 +6,9 @@ updated: '2026-05-17'
 type: learning
 status: active
 quality_level: B
-summary_cn: '## 一句话总结 # 方案B执行计划：百度云课程 → Obsidian知识库相关文档'
+summary_cn: '## 一句话总结 # 方案B执行计划:百度云课程 → Obsidian知识库相关文档'
 summary_en: Document regarding 方案B-执行计划. Reference for business decisions.
-one_sentence_summary: '# 方案B执行计划：百度云课程 → Obsidian知识库  ## 一句话总结 # 方案B执行计划：百度云课程 → Ob...'
+one_sentence_summary: '# 方案B执行计划:百度云课程 → Obsidian知识库  ## 一句话总结 # 方案B执行计划:百度云课程 → Ob...'
 decision_value: AI automation documentation
 review_note: General AI doc
 category: 学习资源

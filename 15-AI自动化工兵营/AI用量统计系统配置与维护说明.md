@@ -1,7 +1,8 @@
 ---
 title: AI用量统计系统配置与维护说明
-date: 2026-05-18
+updated: "2026-05-23"
 type: system_note
+status: draft
 tags:
   - AI用量统计
   - 自动化
@@ -9,6 +10,7 @@ tags:
   - Codex
   - cc-connect
   - 运维说明
+date: 2026-05-18
 ---
 
 # AI 用量统计系统配置与维护说明

@@ -1,36 +1,51 @@
 ---
+
 title: A5 执行SOP
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: methodology
 status: active
-quality_level: A
 summary_cn: 从零到第一笔订单的 7 步 SOP（账户准备→素材准备→Campaign搭建→广告创建→学习期观察→首次优化→扩量），按天给出执行节点。冷启动/测品/扩量三套
-  SOP，以及 ASC 上线后 10 天不干预的执行纪律。杀广告硬指标：满足任意 2 条（CPM涨>30%、CTR降>30%、Frequency>3、CPA连续超标）即关。日常运营节奏：每日5分钟快查、每周30分钟深度优化、每月1小时结构复盘。
+  SOP，以及 ASC 上线后 10 天不干预的执行纪律。杀广告硬指标:满足任意 2 条（CPM涨>30%、CTR降>30%、Frequency>3、CPA连续超标）即关。日常运营节奏:每日5分钟快查、每周30分钟深度优化、每月1小时结构复盘。
 summary_en: Document regarding A5_执行SOP. Reference for business decisions.
-one_sentence_summary: 投流执行SOP：7步流程从账户准备到第一笔订单
-decision_value: Execute Facebook/Google/TikTok ad campaigns
+one_sentence_summary: 投流执行SOP:7步流程从账户准备到第一笔订单
 review_note: 执行SOP核心 playbook
 category: 海外投流
 platform: Facebook/Meta
 industry: 多行业
-scenario: 执行流程
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/投放SOP"
+    - "#facebook广告/冷启动"
+    - "#facebook广告/扩量"
+related:
+    - "[[A2_账户结构与出价策略]]"
+    - "[[A4_策略决策框架]]"
+    - "[[B4_数据优化执行SOP]]"
+    - "[[A7_诊断排查手册]]"
+retrieval_keywords:
+    - 执行
+    - SOP
+    - 一句话总结
+    - 从零到投放的
+    - 冷启动
+    - 测品
+    - 扩量
+    - ASC
+    - 执行流程
+    - 日常运营节奏
+decision_value: "用于A5 执行SOP的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "sop_building"
+type: "sop"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 # A5 执行SOP
@@ -436,7 +451,7 @@ Day 30+：根据成交数据优化
 ## 关联笔记
 - 同系列：[[A1_底层逻辑与算法机制]]、[[A2_账户结构与出价策略]]、[[A4_策略决策框架]]、[[A6_数据指标体系]]、[[A7_诊断排查手册]]
 - 数据优化：[[B4_数据优化执行SOP]]
-- 上游索引：[[Facebook投流索引]]、[[投流知识体系总览]]
+- 上游索引：[[Facebook投流索引]]、[[16-知识库治理/投流知识体系总览]]
 - 业务关联：[[食品加工机械外贸获客总览]]
 
 ## 标签
@@ -451,5 +466,5 @@ Day 30+：根据成交数据优化
 - [[A6_数据指标体系]]
 - [[B1_学习期与归因机制]]
 - [[B4_数据优化执行SOP]]
-- [[投流知识体系总览]]
+- [[16-知识库治理/投流知识体系总览]]
 - [[Facebook投流索引]]

@@ -1,38 +1,52 @@
 ---
+
 title: C2 Hook设计与脚本框架
 topic: ''
 created: '2026-04-28'
-updated: '2026-05-17'
-type: knowledge
 status: active
-quality_level: B
 summary_cn: 视频广告前3秒Hook设计方法论，涵盖6大CTR Hook策略（Pattern Interrupt/数字钩子/情绪触发/反常识/问题/社会证明）、嵌套钩子结构、15-30秒最佳时长设计、静音优先原则、多版位适配（Feed
   4:5/Stories 9:16/Reels 9:16/Marketplace 1:1）。提供30个Hook模板库及每周Hook测试SOP，附视觉技巧（倒放/极端比例/意外动作/颜色冲击/文字炸弹/声音Hook）。
 summary_en: Video ad Hook design methodology - 6 CTR Hook strategies, nested hook
   structure, optimal duration, mute-first principle, multi-placement adaptation, 30
   Hook templates, and weekly testing SOP.
 one_sentence_summary: 视频广告前3秒Hook设计方法论，涵盖6大CTR Hook策略（Pattern Interrupt/数字钩子/...
-decision_value: Advertising and traffic documentation
 review_note: Hook设计脚本参考
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/Hook设计"
+    - "#facebook广告/脚本框架"
+    - "#facebook广告/视频素材"
+related:
+    - "[[C1_素材底层逻辑与算法偏好]]"
+    - "[[C3_素材测试与迭代SOP]]"
+    - "[[视频开头钩子库]]"
+retrieval_keywords:
+    - Hook
+    - 设计与脚本框架
+    - 一句话总结
+    - 设计
+    - 大策略
+    - 嵌套钩子结构
+    - 秒最佳时长
+    - 静音优先
+    - 不同
+    - 写法
+decision_value: "用于C2 Hook设计与脚本框架的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

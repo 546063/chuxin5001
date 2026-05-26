@@ -1,39 +1,53 @@
 ---
+
 title: A9 踩坑FAQ
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: knowledge
 status: active
-quality_level: B
 summary_cn: 十大常见踩坑（学习期频繁调设置/ABO广告组过多/受众过度细分/只看ROAS不看漏斗/素材疲劳不换/最低成本出价跑高预算/未部署CAPI/新账户第一天花$500/未设AEM/只用图片不用视频）+
   15条高频FAQ速查。涵盖账户、受众、素材、出价等全链路问题。
 summary_en: Top 10 common pitfalls in Facebook advertising (frequent adjustments during
   learning phase, too many ad sets in ABO, over-targeting, ROAS-only focus, creative
   fatigue, bidding errors, missing CAPI, new account overspending, no AEM settings,
   image-only ads) plus 15 high-frequency FAQs covering full-funnel issues.
-one_sentence_summary: 投流踩坑FAQ：十大常见问题与解决方案
-decision_value: Advertising and traffic documentation
+one_sentence_summary: 投流踩坑FAQ:十大常见问题与解决方案
 review_note: 踩坑FAQ参考
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/避坑指南"
+    - "#facebook广告/FAQ"
+    - "#facebook广告/常见问题"
+related:
+    - "[[99_FAQ]]"
+    - "[[A7_诊断排查手册]]"
+    - "[[C5_素材数据指标与诊断]]"
+retrieval_keywords:
+    - 踩坑
+    - FAQ
+    - 一句话总结
+    - 十大常见踩坑
+    - 条高频
+    - 速查
+    - 核心结论
+    - 待补充
+    - 适用场景
+    - 适合平台
+decision_value: "用于A9 踩坑FAQ的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

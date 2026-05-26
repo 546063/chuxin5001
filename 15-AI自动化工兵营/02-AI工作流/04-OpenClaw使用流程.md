@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: 工具技能
 status: active
 quality_level: B
-summary_cn: '> 核心原则：不要把 6 条提示词一次性全丢进去。   > 正确做法：按阶段，一个一个用。相关文档'
+summary_cn: '> 核心原则:不要把 6 条提示词一次性全丢进去。   > 正确做法:按阶段，一个一个用。相关文档'
 summary_en: Document regarding 04-OpenClaw使用流程. Reference for business decisions.
 one_sentence_summary: OpenClaw使用流程: AI工具核心方法和实战经验。
 decision_value: AI automation documentation

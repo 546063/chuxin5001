@@ -1,33 +1,33 @@
 ---
-title: "Facebook Reels获客SOP"
+title: Facebook Reels获客SOP
 aliases:
-  - "Facebook Reels Lead Gen"
-  - "FB Reels 自然获客"
+  - Facebook Reels Lead Gen
+  - FB Reels 自然获客
 tags:
   - facebook-reels
   - video-lead-gen
   - b2b-marketing
   - food-machinery
-type: "SOP"
-module: "跨境社媒获客"
-platform: "Facebook"
+type: SOP
+module: 跨境社媒获客
+platform: Facebook
 routing_target:
   - facebook_reels
   - organic_video_router
-quality_level: "A"
-summary_cn: "Facebook Reels 获客 SOP，利用 Facebook Page 的 Reels 功能获取自然流量询盘，与付费投流协同。"
-summary_en: "Facebook Reels lead generation SOP leveraging Facebook Page Reels for organic inquiries, synergizing with paid ads."
+quality_level: A
+summary_cn: Facebook Reels 获客 SOP，利用 Facebook Page 的 Reels 功能获取自然流量询盘，与付费投流协同。
+summary_en: Facebook Reels lead generation SOP leveraging Facebook Page Reels for organic inquiries, synergizing with paid ads.
 related:
   - "[[00-海外视频自然获客路由入口]]"
   - "[[Instagram Reels获客SOP]]"
-  - "[[03-海外投流/Facebook投流知识库/00-Facebook投流知识库总索引]]"
+  - "[[03-海外投流火力站/Facebook投流知识库/00-Facebook投流知识库总索引]]"
 retrieval_keywords:
-  - "Facebook Reels怎么获客"
-  - "FB Reels自然流量"
-  - "Facebook Page视频"
-decision_value: "Facebook Reels 与付费投流生态互通，适合已有 Facebook Page 的工厂"
-created: "2026-05-22"
-updated: "2026-05-22"
+  - Facebook Reels怎么获客
+  - FB Reels自然流量
+  - Facebook Page视频
+decision_value: Facebook Reels 与付费投流生态互通，适合已有 Facebook Page 的工厂
+created: 2026-05-22
+updated: 2026-05-22
 ---
 
 # Facebook Reels获客 SOP
@@ -111,7 +111,7 @@ Contact us:
 
 - Reels 观众可能通过 Messenger 联系
 - 设置 Messenger 自动回复
-- 引导到 WhatsApp（见 [[03-海外投流/Facebook投流知识库/12-Facebook Messenger获客链路SOP]]）
+- 引导到 WhatsApp（见 [[12-Facebook Messenger获客链路SOP]]）
 
 ### 5.2 评论承接
 

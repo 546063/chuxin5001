@@ -28,6 +28,7 @@ retrieval_keywords:
 - 竞争对手
 routing_target:
   - "[[12-行业竞品案例MOC]]"
+---
 ------
 
 # 12-行业案例与竞品研究

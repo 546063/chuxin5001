@@ -1,12 +1,12 @@
 ---
-title: 问题：Facebook广告素材怎么优化
+title: 问题:Facebook广告素材怎么优化
 aliases:
-- 问题：Facebook广告素材怎么优化
+- 问题:Facebook广告素材怎么优化
 quality_level: B
 type: playbook
 status: active
-summary_en: Article on 问题：Facebook广告素材怎么优化
-one_sentence_summary: Key insight from 问题：Facebook广告素材怎么优化
+summary_en: Article on 问题:Facebook广告素材怎么优化
+one_sentence_summary: Key insight from 问题:Facebook广告素材怎么优化
 summary_cn: type: QA category: 投流QA status: seed platform: Facebook industry: 多行业 scenario: 素材优化/广告投放 tags: - 'Facebook投流' - '广告素材' - '素材优化' - 'CTR优化' - 'A/B测试' related: - '[[Facebook投流方法论总...
 routing_target:
   - "[[11-选品产品研究MOC]]"
@@ -24,7 +24,7 @@ tags:
 - '#CTR优化'
 - '#A/B测试'
 related:
-- '[[Facebook投流方法论总览]]'
+- '[[16-知识库治理/Facebook投流方法论总览]]'
 - '[[广告素材]]'
 - '[[如何优化广告素材]]'
 source: AI整理-2026-05-11
@@ -110,7 +110,7 @@ Facebook广告素材优化围绕"CTR提升+疲劳管理+测试迭代"展开：
 ## 相关文章
 
 - [[广告素材]]
-- [[Facebook投流方法论总览]]
+- [[16-知识库治理/Facebook投流方法论总览]]
 - [[素材底层逻辑与算法偏好]]
 - [[Hook设计与脚本框架]]
 - [[素材数据指标与诊断]]

@@ -1,35 +1,50 @@
 ---
+
 title: WhatsApp转化结构
 topic: ''
 created: '2026-05-15'
-updated: '2026-05-17'
-type: note
 status: active
-quality_level: B
 summary_cn: '## 一句话总结 > WhatsApp是中东和东南亚B2B客户主要沟通工具，转化分首次询盘、培育跟进、报价谈判、成交维护四阶段；核心是及时回复和专业话术。相关文档'
 summary_en: Document regarding WhatsApp转化结构. Reference for business decisions.
-one_sentence_summary: WhatsApp转化：中东东南亚B2B主要沟通工具，转化分阶段
-decision_value: Measure and optimize ad performance
+one_sentence_summary: WhatsApp转化:中东东南亚B2B主要沟通工具，转化分阶段
 review_note: WhatsApp转化结构参考
 category: 投流系统
 platform: WhatsApp
 industry: 食品加工机械
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#客户开发/WhatsApp承接"
+    - "#客户开发/私信开场"
+    - "#客户开发/报价跟进"
+related:
+    - "[[B2B-Lead-SOP]]"
+    - "[[客户开发SOP]]"
+    - "[[私域转化]]"
+    - "[[WhatsApp私聊成交]]"
+retrieval_keywords:
+    - WhatsApp
+    - 转化结构
+    - 一句话总结
+    - 是中东和东南亚
+    - 客户主要沟通工具
+    - 转化分首次询盘
+    - 培育跟进
+    - 报价谈判
+    - 成交维护四阶段
+    - 核心是及时回复和专业话术
+decision_value: "用于WhatsApp转化结构的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 # WhatsApp 转化结构

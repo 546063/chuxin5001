@@ -1,37 +1,52 @@
 ---
+
 title: B4 数据优化执行SOP
 topic: ''
 created: '2026-04-22'
-updated: '2026-05-17'
-type: SOP
 status: active
-quality_level: A
 summary_cn: 每日5分钟快查+每周30分钟优化SOP，包含扩量20%规则（垂直扩量/水平扩量）、杀广告硬指标（满足任意2条即关）、Q4黑五准备时间线、数据看板搭建、团队分工模板。是一套完整的数据驱动投放管理流程。
 summary_en: Daily 5-minute check + weekly 30-minute optimization SOP, including 20%
   scaling rule, kill ad indicators, Q4 Black Friday preparation timeline, data dashboard
   setup, and team workflow template.
-one_sentence_summary: 数据指标与ROAS拆解：漏斗各层核心指标与优化方向
-decision_value: Execute Facebook/Google/TikTok ad campaigns
+one_sentence_summary: 数据指标与ROAS拆解:漏斗各层核心指标与优化方向
 review_note: 数据优化SOP核心
 category: 海外投流
 platform: Facebook
 industry: 多行业
-scenario: 投流策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: ''
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/投放SOP"
+    - "#facebook广告/冷启动"
+    - "#facebook广告/扩量"
+related:
+    - "[[B3_优化策略框架]]"
+    - "[[A5_执行SOP]]"
+    - "[[A6_数据指标体系]]"
+    - "[[A7_诊断排查手册]]"
+retrieval_keywords:
+    - 数据优化执行
+    - SOP
+    - 一句话总结
+    - 每日
+    - 分钟
+    - 每周
+    - 扩量
+    - 规则
+    - 杀广告指标
+    - 黑五准备
+decision_value: "用于B4 数据优化执行SOP的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "sop_building"
+type: "sop"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 

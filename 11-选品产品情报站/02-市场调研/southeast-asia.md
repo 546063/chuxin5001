@@ -20,7 +20,7 @@ relations:
   - - note: 待关联
 summary_cn: 东南亚市场分析存档文件，印尼/越南/泰国/菲律宾/马来西亚五国市场特征、消费者行为、电商平台渗透率、选品机会摘要，供跨境选品区域参考。
 summary_en: Southeast Asia market analysis archive covering Indonesia, Vietnam, Thailand, Philippines, and Malaysia market characteristics, consumer behavior, e-commerce penetration, and product selection opportunities for cross-border trade.
-one_sentence_summary: 东南亚五国市场分析：印尼最大越南增速快，TikTok电商渗透率提升中。
+one_sentence_summary: 东南亚五国市场分析:印尼最大越南增速快，TikTok电商渗透率提升中。
 related:
 source: AI整理-2026-05-11
 category: 跨境选品

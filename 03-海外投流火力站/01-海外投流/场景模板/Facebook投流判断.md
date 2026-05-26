@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: scenario_template
 status: active
 quality_level: B
-summary_cn: Facebook广告数据判断的场景模板。当需要判断广告数据好坏、决定是否继续投放或关停、调整预算时调用。调用4个AI模型辅助决策：广告测试模型（测试设计和数据判断）、定位模型（素材传达定位）、客户痛点差距模型（素材是否戳中痛点）、复盘进化模型（从历史投放学习）。输出数据判断、账户结构建议、素材优化方向、预算调整建议、测试节奏。
+summary_cn: Facebook广告数据判断的场景模板。当需要判断广告数据好坏、决定是否继续投放或关停、调整预算时调用。调用4个AI模型辅助决策:广告测试模型（测试设计和数据判断）、定位模型（素材传达定位）、客户痛点差距模型（素材是否戳中痛点）、复盘进化模型（从历史投放学习）。输出数据判断、账户结构建议、素材优化方向、预算调整建议、测试节奏。
 summary_en: Scenario template for Facebook ad data judgment, calling 4 AI models to
   evaluate ad performance and provide optimization recommendations.
 one_sentence_summary: Facebook广告指南

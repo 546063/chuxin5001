@@ -8,7 +8,7 @@ status: active
 quality_level: A
 summary_cn: '## 一句话总结 > 工厂内容不是无聊的"欢迎来到我们的工厂"，而是用ASMR开场、数字冲击、对比叙事、人物故事、微距镜头和速度变化，在40秒内建立信任并驱动询盘。相关文档'
 summary_en: Document regarding 工厂拍摄SOP. Reference for business decisions.
-one_sentence_summary: 工厂拍摄SOP：ASMR开场+数字冲击+对比叙事
+one_sentence_summary: 工厂拍摄SOP:ASMR开场+数字冲击+对比叙事
 decision_value: Execute Facebook/Google/TikTok ad campaigns
 review_note: 工厂拍摄SOP核心 playbook
 category: 投流系统

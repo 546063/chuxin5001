@@ -1,39 +1,49 @@
 ---
+
 title: "ROI计算框架"
 topic: "ROI与自动化"
 created: "'2026-05-15'"
-updated: "2026-05-17"
-type: "note"
 status: "active"
-quality_level: "A"
-summary_cn: "食品加工设备ROI计算框架：ROI=年度净收益÷设备总投入，回收期=设备总投入÷月度净收益。四大收益来源（人工替代/得率损耗改善/产能扩张/品质提升）是销售说服的核心工具，尤其在面对老板/CFO审批时提供量化数据支撑。"
+summary_cn: "食品加工设备ROI计算框架:ROI=年度净收益÷设备总投入，回收期=设备总投入÷月度净收益。四大收益来源（人工替代/得率损耗改善/产能扩张/品质提升）是销售说服的核心工具，尤其在面对老板/CFO审批时提供量化数据支撑。"
 summary_en: "Food processing equipment ROI calculation: ROI = Annual Net Benefit / Total Investment, Payback Period = Total Investment / Monthly Net Benefit. Four benefit sources: labor substitution, yield improvement, capacity expansion, quality improvement."
 one_sentence_summary: "ROI计算框架": "ROI与自动化"核心方法和实战经验。
-decision_value: "高 - ROI计算是销售说服的核心工具，帮助客户量化投资回报，尤其在面对老板/CFO审批时提供客观数据支撑"
 review_note: "高价值参考"
 category: "ROI与自动化"
 platform: []
 industry: "食品加工机械"
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-retrieval_keywords:
-  - - - ROI公式
-  - - - 回收期计算
-  - - - 人工节省计算
-  - - - 得率损耗改善
-  - - - 产能扩张收益
-  - - - 品质溢价
-  - - - 设备总投入
-  - - - TCO对比报告
-  - - --
-  - --
 routing_target:
   - "[[07-客户开发成交MOC]]"
+
+tags:
+    - "#客户开发/成交复盘"
+    - "#食品机械/客户询盘"
+    - "#facebook广告/ROI分析"
+related:
+    - "[[自动化盈利模式]]"
+    - "[[B2_核心指标与ROAS拆解]]"
+    - "[[A6_数据指标体系]]"
+retrieval_keywords:
+    - ROI
+    - 计算框架
+    - 一句话总结
+    - 食品加工设备
+    - 人工节省
+    - 得率
+    - 损耗改善
+    - 产能扩张收入
+    - 品质溢价
+    - 设备总投入
+decision_value: "用于ROI计算框架的决策参考和方法指导。"
+domain: "client_development"
+scenario: "b2b_closing"
+type: "knowledge_note"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 # ROI计算框架

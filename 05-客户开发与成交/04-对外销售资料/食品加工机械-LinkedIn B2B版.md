@@ -1,30 +1,51 @@
 ---
+
+
 title: "\"食品加工机械-LinkedIn B2B版\""
 topic: "客户开发与成交"
 created: "'2026-05-15'"
-updated: "2026-05-17"
-type: "sales-doc"
 status: "active"
-quality_level: "B"
 summary_cn: "LinkedIn B2B版本销售资料，约2000字，全英文，含个人主页About区域模板、InMail模板、帖子模板。适合LinkedIn开发客户、主页介绍、经销商招募等场景。"
 summary_en: "LinkedIn B2B version (~2000 words English), includes About section template, InMail templates, and post templates. Suitable for LinkedIn outreach, profile introduction, and distributor recruitment."
-one_sentence_summary: "# LinkedIn B2B 版本  > 适用于：LinkedIn InMail / 主页About / 行业分析文章 ..."
-decision_value: "中 - LinkedIn是B2B决策者主战场，正确的销售话术能显著提升连接通过率"
+one_sentence_summary: "# LinkedIn B2B 版本  > 适用于:LinkedIn InMail / 主页About / 行业分析文章 ..."
 review_note: "一般参考"
 category: "客户开发与成交"
 platform: []
 industry: "食品加工机械"
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[01-全库工作总览MOC]]
-retrieval_keywords: ""
 routing_target:
   - "[[07-客户开发成交MOC]]"
+
+tags:
+    - "#客户开发/B2B长周期成交"
+    - "#客户开发/询盘承接"
+    - "#客户开发/WhatsApp承接"
+related:
+    - "[[客户开发SOP]]"
+    - "[[食品机械市场买家与采购决策总纲]]"
+    - "[[食品加工机械-展会版]]"
+retrieval_keywords:
+    - LinkedIn
+    - 版本
+    - 适用于
+    - InMail
+    - 主页
+    - About
+    - 行业分析文章
+    - 经销商开发
+    - 个人主页
+    - 区域
+decision_value: "用于\的决策参考和方法指导。"
+domain: "client_development"
+scenario: "b2b_closing"
+type: "knowledge_note"
+quality_level: "B"
+updated: "2026-05-24"
+
 ---
 
 # LinkedIn B2B 版本

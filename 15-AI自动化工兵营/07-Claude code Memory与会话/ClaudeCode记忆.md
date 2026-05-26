@@ -152,7 +152,7 @@ model_route:
 
 ## 相关链接
 - [[10-AI工具与自动化/工作流/Hermes技能体系 MOC|ClaudeCode技能库]]
-- [[01-记忆与配置/记忆/ClaudeCode配置概要]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/ClaudeCode配置概要]]
 - [[11-智囊团与知识蒸馏/MOC]]
 
 ## 关联笔记

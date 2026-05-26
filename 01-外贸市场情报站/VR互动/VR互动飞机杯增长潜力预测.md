@@ -18,7 +18,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 预测2026-2029年VR互动飞机杯增长潜力，核心判断：增长取决于三个外部变量交汇——VR头显普及率×成人内容VR化率×智能玩具渗透率。当前VR头显存量约2000万台，仅3.2%的VR色情用户同时使用互动玩具，转化空间巨大。详述VR硬件普及节奏、成人内容VR化增长（CAGR+79%）、单身经济趋势、关键增长国家（印度/巴西/韩国）和渗透率提升路径。
+summary_cn: 预测2026-2029年VR互动飞机杯增长潜力，核心判断:增长取决于三个外部变量交汇——VR头显普及率×成人内容VR化率×智能玩具渗透率。当前VR头显存量约2000万台，仅3.2%的VR色情用户同时使用互动玩具，转化空间巨大。详述VR硬件普及节奏、成人内容VR化增长（CAGR+79%）、单身经济趋势、关键增长国家（印度/巴西/韩国）和渗透率提升路径。
 summary_en: Forecasts VR interactive adult toy growth 2026-2029 driven by three converging variables: VR headset penetration, VR adult content growth (CAGR+79%), and smart toy adoption. Current conversion gap: only 3.2% of VR porn users use interactive toys.
 related:
   - "[[01-目录总览MOC]]"

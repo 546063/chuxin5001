@@ -182,17 +182,17 @@ cat foo.py | ./code-review.sh -    # stdin
 - Critical/High 非零退出码 2，可接 CI
 
 ## 相关
-- [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]]
-- [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]]
-- [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - SKILL 定义]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 需求文档]]
+- [[15-AI自动化工兵营/02-AI工作流/Obsidian Frontmatter 规范化 Step1]]
 
 ---
 ## 关联笔记
 - [[10-AI工具与自动化/工作流/Learning Pack - SKILL 定义]] — 同属Hermes技能体系，Skill定义结构参考
 - [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]] — 同属Hermes技能体系的需求文档
-- [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]] — 同属Hermes技能体系的安装方式
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 安装与使用指南]] — 同属Hermes技能体系的安装方式
 - [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]] — 审查脚本的frontmatter遵循该规范
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — 任务追踪中的Skill开发状态
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]] — 任务追踪中的Skill开发状态
 - [[11-AI技能与智囊团/开发与运维/软件开发-索引|代码安全审查]] — Critical级别：SQL注入/XSS/命令注入等安全漏洞
 - [[11-AI技能与智囊团/开发与运维/软件开发-索引|代码质量标准]] — 四级审查维度（Critical/High/Medium/Low）
 - [[11-AI技能与智囊团/开发与运维/软件开发-索引|JSON输出格式]] — 结构化审查报告的输出规范

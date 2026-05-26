@@ -4,27 +4,26 @@ aliases:
   - OpenZB视频剪辑工作流
   - 银羽OpenZB执行文档
   - 视频剪辑自动化编排
-  - OpenZB执行规范
+topic: AI视频剪辑
+created: 2026-05-18
+updated: "2026-05-23"
+type: workflow
+status: active
+quality_level: A
+summary_cn: 本文件用于约束 OpenZB / OpenClaw / Claude Code 在银羽招生视频剪辑中的分工:OpenZB 负责流程编排与任务状态，Claude Code 负责本地素材处理、ffmpeg、ASS字幕、抽帧验收，最终输出视频和报告。
+summary_en: "This workflow defines how OpenZB, OpenClaw, and Claude Code coordinate the YinYu recruitment video editing pipeline."
+decision_value: 用于把视频剪辑从一次性手工任务沉淀成可复用、可检查、可复盘的自动化执行链。
 tags:
-  - #AI视频剪辑
-  - #SOP
-  - #银羽招生
   - OpenZB
   - OpenClaw
   - ClaudeCode
   - AI视频剪辑
   - 工作流编排
   - 银羽招生视频
-type: sop
-status: active
-created: 2026-05-18
-updated: 2026-05-21
-summary_cn: 本文件用于约束 OpenZB / OpenClaw / Claude Code 在银羽招生视频剪辑中的分工：OpenZB 负责流程编排与任务状态，Claude Code 负责本地素材处理、ffmpeg、ASS字幕、抽帧验收，最终输出视频和报告。是执行编排文档而非剪辑审美说明。
-summary_en: "This workflow defines how OpenZB, OpenClaw, and Claude Code coordinate the YinYu recruitment video editing pipeline with clear role division."
 related:
-  - "[[15-AI自动化工兵营/15-目录总览MOC]]"
-  - "[[06-内容素材创意MOC]]"
-  - "[[18-个人学习与成长/06-网上课程整理/薛辉短视频课程系统合并笔记-Obsidian]]"
+  - "[[银羽招生短视频剪辑SOP V1]]"
+  - "[[15-AI工作流与自动化]]"
+  - "[[04-内容素材与创意]]"
 retrieval_keywords:
   - OpenZB
   - OpenClaw
@@ -33,15 +32,10 @@ retrieval_keywords:
   - ASS字幕
   - ffmpeg
   - 银羽招生视频
-  - 工作流编排
-  - 抽帧验收
-  - 任务状态
-decision_value: 用于把视频剪辑从一次性手工任务沉淀成可复用、可检查、可复盘的自动化执行链。
-quality_level: A
 routing_target:
-  - 视频剪辑
-  - AI工作流
-source: user
+  - "[[15-AI工作流与自动化]]"
+version: v1
+target_folder: "15-AI工作流与自动化/AI视频剪辑工作流"
 ---
 
 # OpenZB 银羽视频剪辑执行文档 V1

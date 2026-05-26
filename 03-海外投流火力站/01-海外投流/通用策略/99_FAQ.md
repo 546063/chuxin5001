@@ -1,33 +1,30 @@
----title: Facebook广告高频FAQ
-topic: ''
-created: '2026-04-28'
-updated: '2026-05-17'
-type: knowledge
-status: active
-quality_level: B
-summary_cn: '## 一句话总结 Facebook广告投放高频问题与解答，覆盖账户、素材、受众、数据等相关文档'
-summary_en: Document regarding 99_FAQ. Reference for business decisions.
-one_sentence_summary: Facebook广告指南
-decision_value: Advertising and traffic documentation
-review_note: 高频FAQ参考文档
-category: 海外投流
-platform: Facebook
-industry: 多行业
-scenario: 投流策略
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
+---
+
+tags:
+    - "#facebook广告/避坑指南"
+    - "#facebook广告/FAQ"
+    - "#facebook广告/常见问题"
 related:
-  - [[14-AI工具自动化MOC]]
-  - [[99-目录总览MOC]]
+    - "[[A9_踩坑FAQ]]"
+    - "[[A7_诊断排查手册]]"
+    - "[[A1_底层逻辑与算法机制]]"
 retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
+    - Facebook
+    - 广告高频
+    - FAQ
+    - 一句话总结
+    - 广告投放高频问题与解答
+    - 覆盖账户
+    - 素材
+    - 受众
+    - 数据等
+    - 核心结论
+decision_value: "用于99_FAQ的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 
@@ -369,3 +366,35 @@ Facebook广告投放高频问题与解答，覆盖账户、素材、受众、数
 - [[投流策略]]
 - [[广告素材]]
 - [[投流案例]]
+
+<!-- 原始frontmatter前有非frontmatter内容，已移至此处供参考 -->
+---title: Facebook广告高频FAQ
+topic: ''
+created: '2026-04-28'
+updated: '2026-05-17'
+type: knowledge
+status: active
+quality_level: B
+summary_cn: '## 一句话总结 Facebook广告投放高频问题与解答，覆盖账户、素材、受众、数据等相关文档'
+summary_en: Document regarding 99_FAQ. Reference for business decisions.
+one_sentence_summary: Facebook广告指南
+decision_value: Advertising and traffic documentation
+review_note: 高频FAQ参考文档
+category: 海外投流
+platform: Facebook
+industry: 多行业
+scenario: 投流策略
+source_files: []
+merged_from: []
+old_versions: []
+archived_reason: []
+relations: ''
+related:
+  - [[14-AI工具自动化MOC]]
+  - [[99-目录总览MOC]]
+retrieval_keywords:
+- Facebook B2B获客
+- Facebook素材测试
+- Facebook再营销受众
+- 广告预算分配
+- 广告素材疲劳诊断

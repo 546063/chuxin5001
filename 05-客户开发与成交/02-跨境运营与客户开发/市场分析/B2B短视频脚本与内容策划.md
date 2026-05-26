@@ -1,41 +1,52 @@
 ---
+
+
 title: "B2B 短视频脚本与内容策划"
 aliases: "[B2B短视频脚本, 食品机械视频钩子, 社媒内容策划]"
-tags: "[#B2B获客 #短视频脚本 #内容策划 #食品加工机械 #跨境社媒 #视频营销]"
 topic: "客户开发与成交"
 created: "2026-05-10"
-updated: "2026-05-17"
-type: "能力页"
 status: "已建立"
-quality_level: "A"
 summary_cn: "B2B 食品机械内容不是卖货，是**建立信任 + 展示专业 + 降低购买焦虑**。相关文档"
 summary_en: "Document regarding B2B短视频脚本与内容策划. Provides reference for business decisions."
 one_sentence_summary: "B2B 短视频脚本与内容策划": "客户开发与成交"核心方法和实战经验。
-decision_value: "中高 - B2B内容是客户开发的重要载体，12种内容类型和6种钩子帮助团队持续产出高质量社媒内容，建立信任并捕获销售线索"
 review_note: "高价值参考"
 category: "客户开发与成交"
 platform: []
 industry: []
-scenario: []
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-retrieval_keywords:
-  - - - B2B短视频脚本
-  - - - 食品机械视频内容
-  - - - TikTok内容策略
-  - - - LinkedIn内容发布
-  - - - YouTube Shorts
-  - - - Facebook视频素材
-  - - - 视频钩子设计
-  - - - 社媒内容日历
-  - - --
-  - --
 routing_target:
   - "[[07-客户开发成交MOC]]"
+
+tags:
+    - "#视频工厂/脚本结构"
+    - "#tiktok获客/短视频脚本"
+    - "#食品机械/短视频"
+related:
+    - "[[痛点驱动短视频脚本]]"
+    - "[[TikTok机械视频结构]]"
+    - "[[工厂拍摄SOP]]"
+retrieval_keywords:
+    - 短视频脚本与内容策划
+    - 核心前提
+    - 食品机械内容不是卖货
+    - 是建立信任
+    - 展示专业
+    - 降低购买焦虑
+    - 每个机器不是一条视频
+    - 是一套内容工程
+    - 从钩子到证明到行动
+    - 种内容类型
+decision_value: "用于B2B 短视频脚本与内容策划的决策参考和方法指导。"
+domain: "client_development"
+scenario: "b2b_closing"
+type: "knowledge_note"
+quality_level: "B"
+updated: "2026-05-24"
+
 ---
 
 # B2B 短视频脚本与内容策划

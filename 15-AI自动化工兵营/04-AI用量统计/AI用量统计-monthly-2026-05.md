@@ -1,10 +1,12 @@
 ---
-title: AI用量统计-monthly-2026-05
-date: 2026-05-18
+title: "AI用量统计-monthly-2026-05"
+updated: "2026-05-23"
 type: report
+status: draft
 tags:
   - AI用量统计
   - monthly
+date: 2026-05-18
 ---
 
 # AI 用量统计 2026-05

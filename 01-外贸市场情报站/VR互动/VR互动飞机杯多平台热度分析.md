@@ -18,7 +18,7 @@ type: research
 status: draft
 created: 2026-05-20
 updated: 2026-05-21
-summary_cn: 分析VR互动飞机杯在Amazon、Reddit、YouTube、Twitter等多平台的热度分布和传播路径。核心发现：品类呈现"社区先热，电商跟随，内容平台验证"的传播路径。Reddit是最早讨论阵地，Amazon是购买决策最终落脚点，YouTube/Twitter是口碑传播核心渠道。详述各品牌Amazon销售策略、BSR排名趋势、品类瓶颈和Reddit子版块活跃度，为渠道优先级排序提供依据。
+summary_cn: 分析VR互动飞机杯在Amazon、Reddit、YouTube、Twitter等多平台的热度分布和传播路径。核心发现:品类呈现"社区先热，电商跟随，内容平台验证"的传播路径。Reddit是最早讨论阵地，Amazon是购买决策最终落脚点，YouTube/Twitter是口碑传播核心渠道。详述各品牌Amazon销售策略、BSR排名趋势、品类瓶颈和Reddit子版块活跃度，为渠道优先级排序提供依据。
 summary_en: Analyzes VR interactive adult toy heat distribution across Amazon, Reddit, YouTube, and Twitter. Finds the category follows "community-first, e-commerce follows, content platform validates" propagation path. Currently in community word-of-mouth driven stage.
 related:
   - "[[01-目录总览MOC]]"

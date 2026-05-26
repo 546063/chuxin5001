@@ -1,58 +1,46 @@
+---
 title: "AI知识库路由系统"
-aliases:
-  - AI知识库路由
-  - AI Knowledge Routing System
-  - 知识库读取规则
-tags: "[AI工作流, 知识库治理, 入口文档, AI读取规则, 路由系统]"
-topic: ""
+topic: AI工作流
 created: "2026-05-16"
-updated: "2026-05-17"
-type: "master_system"
-status: "active"
-quality_level: "B"
-summary_cn: "知识库AI读取的总规则文档，定义9大业务场景的路由方向：客户开发与成交、WhatsApp回复、LinkedIn获客、Facebook/TikTok投流、食品机械、工厂探厂、AI工具、知识库治理、财务账单。核心原则是不默认扫描全库，先读AI读取入口再按routing_target进入对应MOC。"
-summary_en: "Document regarding AI知识库路由系统. Reference for business decisions."
-one_sentence_summary: "# AI知识库路由系统  生成时间：2026-05-16 主控角色：iMac 主控 Agent  ---  ## 一句话..."
-decision_value: "AI tool usage and prompt engineering reference"
-review_note: "AI tool reference"
-category: ""
-platform: []
-industry: []
-scenario: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-related:
+updated: "2026-05-23"
+type: master_system
+status: active
+quality_level: B
+summary_cn: "知识库AI读取的总规则文档，定义9大业务场景的路由方向:客户开发与成交、WhatsApp回复、LinkedIn获客、Facebook/TikTok投流、食品机械、工厂探厂、AI工具、知识库治理、财务账单。核心原则是不默认扫描全库，先读AI读取入口再按routing_target进入对应MOC。"
+summary_en: "Master routing rules for AI knowledge base reading across 9 business scenarios."
+one_sentence_summary: "定义用户问什么问题应该去哪个目录找答案的路由系统。"
+decision_value: "用于AI多Agent工作流的路由决策，确保AI读取时不走错目录、不扫描全库。"
+tags:
+  - AI工作流
+  - 知识库治理
+  - 路由系统
 retrieval_keywords:
-  - - 知识库路由
-  - - AI读取
-  - - 问题分类
-  - - routing_target
-  - - 全库总索引
-  - - 客户开发
-  - - 投流
-  - --
+  - 知识库路由
+  - AI读取规则
+  - 问题分类
+  - routing_target
+  - 全库总索引
+  - 客户开发
+  - 投流
 routing_target:
-  - "[[14-AI工具自动化MOC]]"
+  - "[[15-AI工作流与自动化]]"
 model_route:
-  - "claude-code"
-  - "openclaw"
-
-source: web_research
+  - claude-code
+  - openclaw
+---
 
 # AI知识库路由系统
 
 生成时间：2026-05-16
 主控角色：iMac 主控 Agent
 
+---
 
 ## 一句话解释
 
 路由系统告诉 AI：用户问什么问题，应该优先去哪个目录找答案。
 
-source: web_research
+---
 
 ## 路由规则
 
@@ -96,6 +84,7 @@ source: web_research
 - [[05-客户开发与成交/02-跨境运营与客户开发/市场分析/食品机械视频钩子库]] — 食品机械视频钩子库
 - [[05-客户开发与成交/02-跨境运营与客户开发/客户开发/跨境工具链]] — 跨境工具链
 
+---
 
 ### 规则2：WhatsApp 回复
 
@@ -181,21 +170,21 @@ source: web_research
 - [[01-外贸认知与全球市场/外贸基础认知/采购决策链]] — 采购决策链
 - [[01-外贸认知与全球市场/全球市场研究/高价值国家优先级]] — 高价值国家判断
 - [[01-外贸认知与全球市场/外贸基础认知/外贸骗局与风险]] — 外贸风险识别
-- [[15-AI工作流与自动化/模型路由/model-router]] — 模型路由配置
-- [[15-AI工作流与自动化/模型路由/场景-模型映射表]] — 场景模型映射
+- [[15-AI自动化工兵营/01-模型路由/02-模型路由器/model-router]] — 模型路由配置
+- [[15-AI自动化工兵营/01-模型路由/02-模型路由器/场景-模型映射表]] — 场景模型映射
 - [[15-AI工作流与自动化/模型路由/五段路由模型配置]] — 五段路由配置
-- [[15-AI工作流与自动化/01-Claude-Code/Karpathy认知框架]] — Claude Code认知框架
+- [[18-个人学习与成长/03-商业人物/Karpathy认知框架]] — Claude Code认知框架
 
 **Phase I-5A 新增合并主知识节点（2026-05-17）**：
 - [[15-AI工作流与自动化/AI工作流/TDD-SKILL]] — TDD技能体系核心（合并自认知框架/TDD-SKILL.md）
 - [[15-AI工作流与自动化/AI工作流/TDD Workflow]] — TDD工作流核心（合并自认知框架/TDD Workflow.md）
-- [[15-AI工作流与自动化/AI工作流/ads_knowledge_base_build]] — 投流知识库建设任务书（合并自_1副本）
+- [[15-AI自动化工兵营/02-AI工作流/ads_knowledge_base_build]] — 投流知识库建设任务书（合并自_1副本）
 - [[15-AI工作流与自动化/AI工作流/obsidian_weekly_intel_summary]] — 每周情报汇总（合并自_1副本）
 - [[15-AI工作流与自动化/AI工作流/04-OpenClaw使用流程]] — OpenClaw使用流程（合并自OpenClaw子目录）
 - [[03-海外投流/Facebook投流方法论总览]] — Facebook投流方法论（合并自16知识库治理副本）
 - [[10-食品加工机械作战体系/食品加工资料的框架]] — 食品加工资料框架（合并自河北子目录副本）
 
-source: web_research
+---
 
 **Phase I-4E 新增S/A级文档（2026-05-17）**：
 - [[07-工厂沟通与探厂复盘/MOC]] — 工厂探厂核心入口
@@ -216,6 +205,7 @@ source: web_research
 - [[10-食品加工机械作战体系/中央厨房采购需求]] — 中央厨房需求判断
 - [[10-食品加工机械作战体系/食品加工机械外贸获客总览]] — 外贸获客总览
 
+---
 
 ### 规则3：LinkedIn 获客
 
@@ -232,7 +222,7 @@ source: web_research
 **次选**：
 - `10-食品加工机械作战体系/04-客户开发-MOC/LinkedIn开发` — LinkedIn开发系统
 
-source: web_research
+---
 
 ### 规则4：Facebook/TikTok 投流
 
@@ -250,6 +240,7 @@ source: web_research
 **次选**：
 - `10-食品加工机械作战体系/05-内容投流-MOC` — 食品机械投流MOC
 
+---
 
 ### 规则5：食品机械
 
@@ -268,7 +259,7 @@ source: web_research
 - `03-设备认知-MOC` — 设备认知MOC
 - `07-认证标准` — 认证标准
 
-source: web_research
+---
 
 ### 规则6：工厂探厂、供应商判断
 
@@ -285,6 +276,7 @@ source: web_research
 **次选**：
 - `10-食品加工机械作战体系/06-工厂与供应链` — 供应链文档
 
+---
 
 ### 规则7：AI 工具、Claude Code、OpenClaw、Codex
 
@@ -302,7 +294,7 @@ source: web_research
 **次选**：
 - 知识库中的 AI 相关文档
 
-source: web_research
+---
 
 ### 规则8：知识库整理、断链、摘要、标签
 
@@ -319,6 +311,7 @@ source: web_research
 - `00-索引与导航/01-AI读取入口.md` — AI读取入口
 - `00-索引与导航/00-全库总索引.md` — 全库总索引
 
+---
 
 ### 规则9：财务账单
 
@@ -333,7 +326,7 @@ source: web_research
 - 此目录为个人隐私目录，不对外共享
 - AI 读取时需额外授权
 
-source: web_research
+---
 
 ## AI 读取流程
 
@@ -363,6 +356,7 @@ source: web_research
 7. 只有在找不到答案时，才扩大搜索范围
 ```
 
+---
 
 ## 路由优先级
 
@@ -374,7 +368,7 @@ source: web_research
 | P3 | C级 | 可选读取，待验证 |
 | P4 | D级 | 不读取，归档候选 |
 
-source: web_research
+---
 
 ## routing_target 字段说明
 
@@ -392,6 +386,7 @@ routing_target: "财务账单" # 用于财务账单类问题
 routing_target: "无" # 不路由给用户
 ```
 
+---
 
 ## 相关链接
 

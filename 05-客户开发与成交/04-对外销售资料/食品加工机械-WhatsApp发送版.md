@@ -1,14 +1,41 @@
 ---
+
+
 title: "\"食品加工机械-WhatsApp发送版\""
 topic: "客户开发与成交"
 created: "'2026-05-15'"
-updated: "2026-05-17"
-type: "sales-doc"
 status: "active"
-quality_level: "B"
 summary_cn: "超简短WhatsApp版本，含6个话术模板（自我介绍版、工厂信息版、产品介绍版、报价版、跟进版、逼单版）。适合WhatsApp直接复制发送，快速与客户建立联系和推进谈判。"
 summary_en: "Ultra-concise WhatsApp version with 6 templates (self-intro, factory info, product intro, quote, follow-up, closing). Ready to copy-paste for WhatsApp outreach, fast customer engagement and negotiation progression."
-one_sentence_summary: "# WhatsApp 发送版本  > 以下内容为可直接复制粘贴发送到WhatsApp的版本  ---  ## 版本1：首..."
+one_sentence_summary: "# WhatsApp 发送版本  > 以下内容为可直接复制粘贴发送到WhatsApp的版本  
+
+tags:
+    - "#客户开发/B2B长周期成交"
+    - "#客户开发/询盘承接"
+    - "#客户开发/WhatsApp承接"
+related:
+    - "[[WhatsApp转化结构]]"
+    - "[[客户开发SOP]]"
+    - "[[私域转化]]"
+retrieval_keywords:
+    - 版本
+    - decision
+    - value
+    - WhatsApp
+    - 是海外
+    - 沟通的主要渠道
+    - 快速响应和正确话术直接决定成交
+    - review
+    - note
+    - 一般参考
+decision_value: "用于\的决策参考和方法指导。"
+domain: "client_development"
+scenario: "b2b_closing"
+type: "knowledge_note"
+quality_level: "B"
+updated: "2026-05-24"
+
+---  ## 版本1:首..."
 decision_value: "中 - WhatsApp是海外B2B沟通的主要渠道，快速响应和正确话术直接决定成交"
 review_note: "一般参考"
 category: "客户开发与成交"

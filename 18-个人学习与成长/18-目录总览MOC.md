@@ -1,19 +1,22 @@
 ---
 title: "18-个人学习与成长 目录总览"
-topic: "个人学习"
+topic: 个人学习
 created: "2026-05-17"
-updated: "2026-05-17"
-type: "moc"
-status: "active"
-quality_level: "S"
-summary_cn: "个人学习与成长体系，涵盖书籍笔记、课程笔记、B2B销售学习、营销传播、底层思维、播客笔记、政策周报、书籍蒸馏等完整学习闭环"
+updated: "2026-05-23"
+type: moc
+status: active
+quality_level: S
+summary_cn: 个人学习与成长体系，涵盖书籍笔记、课程笔记、B2B销售学习、营销传播、底层思维、播客笔记、政策周报、书籍蒸馏等完整学习闭环
 summary_en: "Directory MOC for 18-个人学习与成长"
-one_sentence_summary: "个人成长知识蒸馏体系，把书籍思想提炼成可用的决策工具"
-decision_value: "高"
-review_note: "学习成长核心"
-category: "个人学习"
+one_sentence_summary: 个人成长知识蒸馏体系，把书籍思想提炼成可用的决策工具
+decision_value: 高
+tags:
+  - MOC
+  - 目录导航
 routing_target:
   - "[[16-学习成长蒸馏MOC]]"
+review_note: 学习成长核心
+category: 个人学习
 ---
 
 # 18-个人学习与成长 目录总览

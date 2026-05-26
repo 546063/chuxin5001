@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: journal
 status: active
 quality_level: B
-summary_cn: '## 适用场景 - 适合平台： - 适合行业： - 适合场景：相关文档'
+summary_cn: '## 适用场景 - 适合平台: - 适合行业: - 适合场景:相关文档'
 summary_en: Document regarding AI知识库说明. Reference for business decisions.
 one_sentence_summary: '# AI知识库说明  ## 一句话总结 # AI知识库说明  ## 核心结论 - 待补充  ## 适用场景 - 适合平台...'
 decision_value: AI tool usage and prompt engineering reference
@@ -112,16 +112,16 @@ model_route:
 - **99_System:** 模板和系统文件
 
 ## 相关链接
-- [[01-记忆与配置/记忆/个人背景|MOC]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/个人背景|MOC]]
 - [[11-智囊团与知识蒸馏/MOC]]
 
 ## 关联笔记
 - [[01-记忆与配置/MOC]]
 - [[00_System_MOC]]
 - [[01-记忆与配置/MOC]]
-- [[01-记忆与配置/配置/AGENTS|AGENTS]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/AGENTS|AGENTS]]
 - [[01-记忆与配置/配置/SOUL|SOUL]]
-- [[01-记忆与配置/配置/TOOLS|TOOLS]]
+- [[15-AI自动化工兵营/07-Claude code Memory与会话/TOOLS|TOOLS]]
 
 
 ## 相关知识点

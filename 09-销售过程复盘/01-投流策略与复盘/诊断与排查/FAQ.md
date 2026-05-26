@@ -9,7 +9,7 @@ platform: 多平台
 industry: 多行业
 scenario: 投流策略
 quality_level: B
-summary_cn: 海外投流常见问题FAQ集合：涵盖账户开通/广告审核/支付问题/数据追踪/政策合规等常见问题。每类问题给出简洁答案+延伸阅读链接。核心原则：常见问题快速找到答案，复杂问题引导至详细文档。
+summary_cn: 海外投流常见问题FAQ集合:涵盖账户开通/广告审核/支付问题/数据追踪/政策合规等常见问题。每类问题给出简洁答案+延伸阅读链接。核心原则:常见问题快速找到答案，复杂问题引导至详细文档。
 summary_en: Overseas paid traffic FAQ: account setup/ad review/payment issues/data tracking/policy compliance. Quick answers + deep dive links.
 tags:
   - - - - - #投流策略

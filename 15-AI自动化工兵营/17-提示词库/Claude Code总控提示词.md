@@ -6,7 +6,7 @@ updated: '2026-05-17'
 type: prompt
 status: active
 quality_level: B
-summary_cn: '```text 当我要求你整理知识库、回答业务问题、做选品判断、写文案、做客户开发、做投流分析时，你必须优先读取：相关文档'
+summary_cn: '```text 当我要求你整理知识库、回答业务问题、做选品判断、写文案、做客户开发、做投流分析时，你必须优先读取:相关文档'
 summary_en: Document regarding Claude Code总控提示词. Reference for business decisions.
 one_sentence_summary: '# Claude Code总控提示词  ## 用途  每次让 Claude Code 处理业务问题时的默认指令'
 decision_value: AI tool usage and prompt engineering reference
@@ -68,4 +68,4 @@ model_route:
 ## 相关文件
 
 - [[总控系统/AI使用总规则]]
-- [[11-智囊团与知识蒸馏/模型路由器/model-router]]
+- [[15-AI自动化工兵营/01-模型路由/02-模型路由器/model-router]]

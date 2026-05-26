@@ -1,37 +1,52 @@
 ---
+
 title: A3 受众定向与Pixel_CAPI
 topic: ''
 created: '2026-04-28'
-updated: '2026-05-17'
-type: methodology
 status: active
-quality_level: B
 summary_cn: 详解 iOS 14.5+ 后 IDFA 获取率降至 10-25% 对定向精度的影响，Broad 定向 + 好素材在 70%+ 场景优于兴趣定向。提供定向阶梯法（新账户兴趣
   3-5 个→成长期加 LAL→成熟期切 Broad），以及 Event Match Quality 从 3 分提升到 8 分的参数传递 SOP（email+phone+fbc+fbp+IP+UA+地址）。受众重叠率
   >30% 会互相抬 CPM，必须用排除或合并处理。
 summary_en: Document regarding A3_受众定向与Pixel_CAPI. Reference for business decisions.
-one_sentence_summary: B2B受众定向策略：客户类型×平台匹配，精准触达决策层
-decision_value: Ad targeting and creative reference
+one_sentence_summary: B2B受众定向策略:客户类型×平台匹配，精准触达决策层
 review_note: 受众定向追踪参考
 category: 海外投流
 platform: Facebook/Meta
 industry: 多行业
-scenario: 定向策略
 source_files: []
 merged_from: []
 old_versions: []
 archived_reason: []
 relations: []
-related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断
 routing_target:
   - "[[05-广告投流增长MOC]]"
+
+tags:
+    - "#facebook广告/受众定向"
+    - "#facebook广告/Pixel"
+    - "#facebook广告/CAPI"
+related:
+    - "[[A1_底层逻辑与算法机制]]"
+    - "[[A2_账户结构与出价策略]]"
+    - "[[A4_策略决策框架]]"
+    - "[[B1_学习期与归因机制]]"
+retrieval_keywords:
+    - 受众定向与
+    - Pixel
+    - CAPI
+    - 一句话总结
+    - iOS
+    - 后定向范式变化
+    - Broad
+    - 定向
+    - Advantage
+    - Audience
+decision_value: "用于A3 受众定向与Pixel_CAPI的决策参考和方法指导。"
+domain: "overseas_marketing"
+scenario: "ad_testing"
+type: "framework"
+quality_level: "B"
+updated: "2026-05-24"
 ---
 
 # A3 受众定向与Pixel_CAPI
@@ -394,7 +409,7 @@ iOS 14.5+后定向范式变化、Broad定向/Advantage+ Audience/Lookalike策略
 ## 关联笔记
 - 同系列：[[A1_底层逻辑与算法机制]]、[[A2_账户结构与出价策略]]、[[A4_策略决策框架]]、[[A5_执行SOP]]
 - 数据优化：[[B1_学习期与归因机制]]
-- 上游索引：[[Facebook投流索引]]、[[投流知识体系总览]]
+- 上游索引：[[Facebook投流索引]]、[[16-知识库治理/投流知识体系总览]]
 
 ## 标签
 #Facebook投流 #海外投流 #定向策略 #Broad定向 #Lookalike #再营销 #Custom-Audience #iOS14.5 #Pixel #CAPI #EventMatchQuality #去重 #ops #海外投流-A系列

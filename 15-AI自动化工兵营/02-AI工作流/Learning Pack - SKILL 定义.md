@@ -174,10 +174,10 @@ mastery: 入门|学习中|熟练|参考
 5. 产出有 ChatGPT 腔 → 重写为直陈句
 
 ## 相关
-- [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]]
-- [[10-AI工具与自动化/工作流/Learning Pack - 需求文档]]
-- [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]]
-- [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 安装与使用指南]]
+- [[15-AI自动化工兵营/02-AI工作流/Learning Pack - 需求文档]]
+- [[15-AI自动化工兵营/02-AI工作流/Obsidian Frontmatter 规范化 Step1]]
+- [[15-AI自动化工兵营/02-AI工作流/Code Review - 审查大师脚本]]
 
 ---
 ## 关联笔记
@@ -185,8 +185,8 @@ mastery: 入门|学习中|熟练|参考
 - [[10-AI工具与自动化/工作流/Learning Pack - 安装与使用指南]] — 部署和使用方法
 - [[10-AI工具与自动化/工作流/Obsidian Frontmatter 规范化 Step1]] — frontmatter模板的字段规范来源
 - [[10-AI工具与自动化/工作流/Code Review - 审查大师脚本]] — 同属Hermes技能体系的另一个Skill
-- [[10-AI工具与自动化/Hermes配置/awesome-hermes-agent]] — 任务追踪中的Skill开发状态
-- [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|速查卡]] — 产出物层级1：00_cheatsheet.md的定义
+- [[15-AI自动化工兵营/11-Hermes/awesome-hermes-agent]] — 任务追踪中的Skill开发状态
+- [[15-AI自动化工兵营/08-Claude-Code/模型及建议 各个模型版|速查卡]] — 产出物层级1：00_cheatsheet.md的定义
 - [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|精要手册]] — 产出物层级2：01_handbook.md的定义
 - [[10-AI工具与自动化/Claude配置/模型及建议 各个模型版|抽认卡]] — 产出物层级3：02_anki.md的定义
 - [[00-索引与导航/00-首页MOC|MOC索引]] — 产出物层级4：03_moc.md的定义
