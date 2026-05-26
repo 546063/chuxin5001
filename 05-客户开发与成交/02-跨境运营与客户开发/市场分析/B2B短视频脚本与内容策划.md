@@ -1,52 +1,47 @@
 ---
-
-
 title: "B2B 短视频脚本与内容策划"
-aliases: "[B2B短视频脚本, 食品机械视频钩子, 社媒内容策划]"
-topic: "客户开发与成交"
-created: "2026-05-10"
-status: "已建立"
-summary_cn: "B2B 食品机械内容不是卖货，是**建立信任 + 展示专业 + 降低购买焦虑**。相关文档"
-summary_en: "Document regarding B2B短视频脚本与内容策划. Provides reference for business decisions."
-one_sentence_summary: "B2B 短视频脚本与内容策划": "客户开发与成交"核心方法和实战经验。
-review_note: "高价值参考"
-category: "客户开发与成交"
-platform: []
-industry: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[07-客户开发成交MOC]]"
-
+aliases:
+  - "B2B 短视频脚本与内容策划"
+  - "B2B短视频脚本与内容策划"
+  - "TikTok投放策略"
+  - "YouTube广告优化"
+  - "文案质量诊断"
+  - "食品机械方法"
 tags:
-    - "#视频工厂/脚本结构"
-    - "#tiktok获客/短视频脚本"
-    - "#食品机械/短视频"
-related:
-    - "[[痛点驱动短视频脚本]]"
-    - "[[TikTok机械视频结构]]"
-    - "[[工厂拍摄SOP]]"
-retrieval_keywords:
-    - 短视频脚本与内容策划
-    - 核心前提
-    - 食品机械内容不是卖货
-    - 是建立信任
-    - 展示专业
-    - 降低购买焦虑
-    - 每个机器不是一条视频
-    - 是一套内容工程
-    - 从钩子到证明到行动
-    - 种内容类型
-decision_value: "用于B2B 短视频脚本与内容策划的决策参考和方法指导。"
-domain: "client_development"
-scenario: "b2b_closing"
-type: "knowledge_note"
+  - TikTok
+  - YouTube
+  - 文案优化
+  - 食品机械
+  - 短视频
+  - SEO优化
+  - 客户开发
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-
+summary_cn: "本文档阐述B2B 短视频脚本与内容策划的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定B2B 短视频脚本与内容策划相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on B2B 短视频脚本与内容策划 for business execution and decision-making."
+related:
+  - "[[印尼市场分析]]"
+  - "[[外贸社媒的研究框架]]"
+  - "[[尼日利亚市场分析]]"
+  - "[[西语市场运营]]"
+  - "[[食品机械视频钩子库]]"
+  - "[[05-客户开发与成交MOC]]"
+retrieval_keywords:
+  - "TikTok投放"
+  - "TikTok广告"
+  - "YouTube广告"
+  - "YouTube获客"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "食品机械客户开发"
+  - "机械设备询盘"
+  - "短视频获客"
+  - "短视频素材制作"
+decision_value: "当需要执行B2B 短视频脚本与内容策划相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-10"
+updated: "2026-05-26"
 ---
 
 # B2B 短视频脚本与内容策划

@@ -1,57 +1,36 @@
 ---
-
-
-title: "\"食品加工机械工厂合集-PDF结构版\""
-topic: "客户开发与成交"
-created: "'2026-05-15'"
-status: "active"
-summary_cn: "PDF结构版本文档，含30-40页结构规划（封面、目录、关于我们、为什么选中国、产品索引、15家工厂档案、OEM能力、认证资质、出口地图、订购流程、联系方式）。适合导出PDF用于邮件附件或文件发送。"
-summary_en: "PDF structure version with 30-40 page layout (cover, TOC, about us, why China, product index, 15 factory profiles, OEM capability, certifications, export map, ordering process, contact). Suitable for PDF export via email or file sharing."
-one_sentence_summary: "# PDF 结构版本  > 本文档结构适合导出为PDF，用于邮件附件/WhatsApp文件发送  
-
+title: "PDF 结构版本"
+aliases:
+  - "PDF 结构版本"
+  - "食品加工机械工厂合集-PDF结构版"
+  - "WhatsApp转化话术"
 tags:
-    - "#客户开发/B2B长周期成交"
-    - "#客户开发/询盘承接"
-    - "#客户开发/WhatsApp承接"
-related:
-    - "[[食品机械工厂合作与供应链评估总纲]]"
-    - "[[2026中国食品加工机械工厂合集-飞书完整版]]"
-    - "[[食品加工机械工厂合集-简洁销售版]]"
-retrieval_keywords:
-    - PDF
-    - decision
-    - value
-    - 版适合邮件营销场景
-    - 便于客户存档和转发
-    - review
-    - note
-    - 一般参考
-    - category
-    - 客户开发与成交
-decision_value: "用于\的决策参考和方法指导。"
-domain: "client_development"
-scenario: "b2b_closing"
-type: "knowledge_note"
+  - WhatsApp
+  - 客户开发
+  - 内容运营
+  - 营销策略
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-
----  ## PDF..."
-decision_value: "中 - PDF版适合邮件营销场景，便于客户存档和转发"
-review_note: "一般参考"
-category: "客户开发与成交"
-platform: []
-industry: "食品加工机械"
-scenario: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
+summary_cn: "本文档阐述PDF 结构版本的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定PDF 结构版本相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on PDF 结构版本 for business execution and decision-making."
 related:
-  - [[01-全库工作总览MOC]]
-retrieval_keywords: ""
-routing_target:
-  - "[[07-客户开发成交MOC]]"
+  - "[[2026中国食品加工机械工厂合集-飞书完整版]]"
+  - "[[食品加工机械-LinkedIn B2B版]]"
+  - "[[食品加工机械-WhatsApp发送版]]"
+  - "[[食品加工机械-展会版]]"
+  - "[[食品加工机械工厂合集-简洁销售版]]"
+  - "[[05-客户开发与成交MOC]]"
+retrieval_keywords:
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "PDF 结构版本"
+  - "海外获客"
+  - "内容营销"
+decision_value: "当需要执行PDF 结构版本相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-17"
+updated: "2026-05-26"
+---
+
 ---
 
 # PDF 结构版本

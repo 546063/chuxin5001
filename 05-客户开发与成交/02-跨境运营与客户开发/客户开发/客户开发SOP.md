@@ -1,52 +1,47 @@
 ---
-
 title: "客户开发SOP"
-topic: "跨境运营"
-created: "'2026-05-04'"
-status: "evergreen"
-summary_cn: "跨境B2B客户开发完整SOP:询盘来源（TikTok/WhatsApp/FB/海关数据/展会）→首次触达→报价策略（整单≥¥20,000底线）→跟进流程（30分钟跟进原则）→异议处理→成交转化。覆盖WhatsApp/LinkedIn/Facebook/TikTok/海关数据多渠道，30分钟内跟进接通率提升至75%。"
-summary_en: "Complete cross-border B2B customer development SOP: lead sources → first contact → quoting strategy (¥20K+ floor) → follow-up (30-min rule) → objection handling → conversion. Multi-channel (WhatsApp/LinkedIn/FB/TikTok/customs data), 75% connect rate within 30 min."
-one_sentence_summary: "客户开发SOP": "跨境运营"核心方法和实战经验。
-review_note: "高价值参考"
-category: "跨境运营"
-platform: "multi-platform"
-industry: "综合"
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[07-客户开发成交MOC]]"
-
+aliases:
+  - "客户开发SOP"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#客户开发/询盘承接"
-    - "#客户开发/WhatsApp承接"
-    - "#客户开发/私信开场"
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - 创意选题
+  - 客户开发
+type: "SOP"
+quality_level: "A"
+summary_cn: "本文档提供客户开发SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作客户开发SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on 客户开发SOP for business execution and decision-making."
 related:
-    - "[[B2B-Lead-SOP]]"
-    - "[[WhatsApp转化结构]]"
-    - "[[私域转化]]"
-    - "[[客户分层]]"
+  - "[[公司介绍]]"
+  - "[[客户分层]]"
+  - "[[客户项目档案]]"
+  - "[[私域转化]]"
+  - "[[跨境工具链]]"
+  - "[[05-客户开发与成交MOC]]"
 retrieval_keywords:
-    - 客户开发
-    - SOP
-    - 合并来源
-    - 业务
-    - 合集
-    - 客户获取
-    - 一句话总结
-    - 跨境
-    - 客户开发完整
-    - 覆盖询盘来源
-decision_value: "用于客户开发SOP的决策参考和方法指导。"
-domain: "client_development"
-scenario: "lead_followup"
-type: "sop"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+decision_value: "执行客户开发SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-05-17"
+updated: "2026-05-26"
 ---
-
 
 # 客户开发SOP
 

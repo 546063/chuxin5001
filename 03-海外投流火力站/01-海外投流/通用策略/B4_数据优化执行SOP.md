@@ -1,58 +1,46 @@
 ---
-
-title: B4 数据优化执行SOP
-topic: ''
-created: '2026-04-22'
-status: active
-summary_cn: 每日5分钟快查+每周30分钟优化SOP，包含扩量20%规则（垂直扩量/水平扩量）、杀广告硬指标（满足任意2条即关）、Q4黑五准备时间线、数据看板搭建、团队分工模板。是一套完整的数据驱动投放管理流程。
-summary_en: Daily 5-minute check + weekly 30-minute optimization SOP, including 20%
-  scaling rule, kill ad indicators, Q4 Black Friday preparation timeline, data dashboard
-  setup, and team workflow template.
-one_sentence_summary: 数据指标与ROAS拆解:漏斗各层核心指标与优化方向
-review_note: 数据优化SOP核心
-category: 海外投流
-platform: Facebook
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "B4 数据优化执行SOP"
+aliases:
+  - "B4 数据优化执行SOP"
+  - "B4_数据优化执行SOP"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "文案质量诊断"
+  - "广告优化策略"
 tags:
-    - "#facebook广告/投放SOP"
-    - "#facebook广告/冷启动"
-    - "#facebook广告/扩量"
+  - Facebook
+  - 抖音
+  - 文案优化
+  - 投流优化
+  - 创意选题
+  - 短视频
+type: "SOP"
+quality_level: "C"
+summary_cn: "本文档提供B4 数据优化执行SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作B4 数据优化执行SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on B4 数据优化执行SOP for business execution and decision-making."
 related:
-    - "[[B3_优化策略框架]]"
-    - "[[A5_执行SOP]]"
-    - "[[A6_数据指标体系]]"
-    - "[[A7_诊断排查手册]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 数据优化执行
-    - SOP
-    - 一句话总结
-    - 每日
-    - 分钟
-    - 每周
-    - 扩量
-    - 规则
-    - 杀广告指标
-    - 黑五准备
-decision_value: "用于B4 数据优化执行SOP的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "sop_building"
-type: "sop"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "创意选题方法"
+  - "广告素材测试"
+  - "短视频获客"
+  - "短视频素材制作"
+decision_value: "执行B4 数据优化执行SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-04-22"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # B4 数据优化执行SOP
 

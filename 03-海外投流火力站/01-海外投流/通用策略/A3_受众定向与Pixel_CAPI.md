@@ -1,52 +1,45 @@
 ---
-
-title: A3 受众定向与Pixel_CAPI
-topic: ''
-created: '2026-04-28'
-status: active
-summary_cn: 详解 iOS 14.5+ 后 IDFA 获取率降至 10-25% 对定向精度的影响，Broad 定向 + 好素材在 70%+ 场景优于兴趣定向。提供定向阶梯法（新账户兴趣
-  3-5 个→成长期加 LAL→成熟期切 Broad），以及 Event Match Quality 从 3 分提升到 8 分的参数传递 SOP（email+phone+fbc+fbp+IP+UA+地址）。受众重叠率
-  >30% 会互相抬 CPM，必须用排除或合并处理。
-summary_en: Document regarding A3_受众定向与Pixel_CAPI. Reference for business decisions.
-one_sentence_summary: B2B受众定向策略:客户类型×平台匹配，精准触达决策层
-review_note: 受众定向追踪参考
-category: 海外投流
-platform: Facebook/Meta
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "A3 受众定向与Pixel_CAPI"
+aliases:
+  - "A3 受众定向与Pixel_CAPI"
+  - "A3_受众定向与Pixel_CAPI"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "B2B询盘获客"
+  - "广告优化策略"
 tags:
-    - "#facebook广告/受众定向"
-    - "#facebook广告/Pixel"
-    - "#facebook广告/CAPI"
+  - Facebook
+  - 抖音
+  - B2B获客
+  - 投流优化
+  - Pixel与CAPI
+  - 创意选题
+type: "SOP"
+quality_level: "A"
+summary_cn: "本文档提供A3 受众定向与Pixel_CAPI的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作A3 受众定向与Pixel_CAPI相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on A3 受众定向与Pixel_CAPI for business execution and decision-making."
 related:
-    - "[[A1_底层逻辑与算法机制]]"
-    - "[[A2_账户结构与出价策略]]"
-    - "[[A4_策略决策框架]]"
-    - "[[B1_学习期与归因机制]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A4_策略决策框架]]"
+  - "[[A5_执行SOP]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 受众定向与
-    - Pixel
-    - CAPI
-    - 一句话总结
-    - iOS
-    - 后定向范式变化
-    - Broad
-    - 定向
-    - Advantage
-    - Audience
-decision_value: "用于A3 受众定向与Pixel_CAPI的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "Instagram运营"
+  - "Instagram广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "Pixel配置"
+  - "CAPI事件匹配"
+decision_value: "执行A3 受众定向与Pixel_CAPI任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-04-28"
+updated: "2026-05-26"
 ---
 
 # A3 受众定向与Pixel_CAPI

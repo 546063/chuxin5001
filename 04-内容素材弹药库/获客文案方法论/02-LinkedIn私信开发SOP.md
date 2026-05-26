@@ -1,28 +1,36 @@
 ---
-title: 02-LinkedIn私信开发SOP
+title: "LinkedIn私信开发SOP"
 aliases:
-  - 02-LinkedIn私信开发SOP
+  - "LinkedIn私信开发SOP"
+  - "LinkedIn获客方法"
+  - "B2B询盘获客"
+  - "账号定位方法"
 tags:
-  - 内容素材库/获客文案
-  - 文案诊断/咨询转化
-  - B2B获客/外贸询盘
-type: content-card
-source: /Users/mac/ai-workspaces/AI-Workspace-Obsidian/03-海外投流火力站/LinkedIn获客知识库/02-LinkedIn私信开发SOP.md
-related:
-  - "[[01-文案诊断调用入口]]"
-  - "[[00-获客文案方法论总索引]]"
-summary_cn: 获客文案方法论资料，供文案诊断、询盘转化和私信引流调用。
-summary_en: Routing-ready content note for An先生 content operations.
-retrieval_keywords:
+  - LinkedIn
+  - B2B获客
+  - 账号运营
   - 获客文案
-  - 咨询转化
-  - 询盘
-  - 私信
-  - WhatsApp
-decision_value: 用于判断文案是否能带来咨询、私信、询盘、加微信或WhatsApp动作。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+type: "SOP"
+quality_level: "B"
+summary_cn: "本文档提供LinkedIn私信开发SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作LinkedIn私信开发SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on LinkedIn私信开发SOP for business execution and decision-making."
+related:
+  - "[[01-WhatsApp对话复盘模板]]"
+  - "[[02-文案诊断规则__B2B外贸询盘策略]]"
+  - "[[02-文案诊断规则__LinkedIn私信开发与内容获客SOP]]"
+  - "[[02-文案诊断规则__WhatsApp私聊成交]]"
+  - "[[06-内容素材创意MOC]]"
+retrieval_keywords:
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "账号定位策略"
+  - "账号冷启动"
+  - "LinkedIn私信"
+decision_value: "执行LinkedIn私信开发SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # LinkedIn私信开发SOP

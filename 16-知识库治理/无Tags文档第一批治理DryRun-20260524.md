@@ -1,3 +1,43 @@
+---
+title: "无Tags文档第一批治理 Dry-Run 报告"
+aliases:
+  - "无Tags文档第一批治理 Dry-Run 报告"
+  - "无Tags文档第一批治理DryRun-20260524"
+  - "B2B询盘获客"
+  - "广告优化策略"
+tags:
+  - B2B获客
+  - 投流优化
+  - Pixel与CAPI
+  - 创意选题
+  - 知识库治理
+type: "SOP"
+quality_level: "B"
+summary_cn: "本文档提供无Tags文档第一批治理 Dry-Run 报告的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作无Tags文档第一批治理 Dry-Run 报告相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on 无Tags文档第一批治理 Dry-Run 报告 for business execution and decision-making."
+related:
+  - "[[01-选品总手册]]"
+  - "[[2026-05-23_iMac主库属性治理人工验收清单]]"
+  - "[[2026-05-23_iMac主库最终收尾报告]]"
+  - "[[知识库治理MOC]]"
+retrieval_keywords:
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "Pixel配置"
+  - "CAPI事件匹配"
+  - "创意选题方法"
+  - "广告素材测试"
+  - "食品机械客户开发"
+  - "机械设备询盘"
+  - "短视频获客"
+  - "短视频素材制作"
+decision_value: "执行无Tags文档第一批治理 Dry-Run 报告任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-05-24"
+updated: "2026-05-26"
+---
+
 # 无Tags文档第一批治理 Dry-Run 报告
 
 > **生成日期**: 2026-05-24  
@@ -1376,27 +1416,6 @@
 
 ```yaml
 ---
-tags:
-  - "facebook广告/账户结构"
-  - "facebook广告/出价策略"
-  - "facebook广告/CBO"
-related:
-  - "[[A1_底层逻辑与算法机制]]"
-  - "[[A3_受众定向与Pixel_CAPI]]"
-  - "[[A4_策略决策框架]]"
-retrieval_keywords:
-  - "跨境贸易"
-  - "食品加工机械"
-  - "B2B营销"
-  - "海外获客"
-  - "投流策略"
-  - "食品机械外贸"
-decision_value: "账户架构与六种出价策略对比，直接决定投放效率与扩量天花板"
-domain: overseas_marketing
-scenario: sop_building
-type: framework
-quality_level: A
-updated: 2026-05-24
 ---
 ```
 

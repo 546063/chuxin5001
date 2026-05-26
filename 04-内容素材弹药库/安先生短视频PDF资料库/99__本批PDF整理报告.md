@@ -1,27 +1,33 @@
 ---
-title: 99__本批PDF整理报告
+title: "安先生PDF资料库整理报告"
 aliases:
-  - 99__本批PDF整理报告
+  - "安先生PDF资料库整理报告"
+  - "__本批PDF整理报告"
+  - "内容创意选题"
+  - "短视频获客方法"
 tags:
-  - 内容素材库/PDF案例库
-  - 短视频获客/案例拆解
-  - AI辅助创作/提示词调用
-type: content-card
-source: /Users/mac/Downloads/An先生_import_staging_20260526_200845/extracted/安先生PDF资料库_Obsidian整理包_含全文/04-内容素材弹药库/安先生短视频PDF资料库/99__本批PDF整理报告.md
+  - 创意选题
+  - 短视频
+  - 安先生方法论
+  - 内容运营
+type: "研究报告"
+quality_level: "B"
+summary_cn: "本文档对安先生PDF资料库整理报告进行深度调研分析，覆盖市场趋势、竞品对比和策略建议。适合在制定产品策略或进入新市场时作为决策参考。"
+summary_en: "This document provides actionable guidance on 安先生PDF资料库整理报告 for business execution and decision-making."
 related:
-  - "[[00-内容素材弹药库总路由]]"
-  - "[[安先生PDF资料库总索引]]"
-summary_cn: 安先生PDF资料库相关资料，供案例拆解、行业参考和AI创作调用。
-summary_en: Routing-ready content note for An先生 content operations.
+  - "[[01__100+行业爆款深度分析]]"
+  - "[[02__内部案例拆解]]"
+  - "[[03__内部案例精选揭秘]]"
+  - "[[06-内容素材创意MOC]]"
 retrieval_keywords:
-  - 安先生PDF资料库
-  - 行业爆款案例
-  - 短视频案例
-  - AI提示词
-decision_value: 用于寻找行业案例、爆款拆解、PDF资料库和AI创作参考。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+  - "创意选题方法"
+  - "广告素材测试"
+  - "短视频获客"
+  - "短视频素材制作"
+  - "安先生PDF资料库整"
+decision_value: "制定产品策略或进入新市场时参考本调研报告，为决策提供数据支撑。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # 安先生PDF资料库整理报告

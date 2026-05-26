@@ -1,51 +1,45 @@
 ---
-
-title: B2 核心指标与ROAS拆解
-topic: ''
-created: '2026-04-22'
-status: active
-summary_cn: ROAS 核心公式拆解:ROAS = 客单价 ÷ CPA = (CPM÷1000×CTR×CVR) 的倒数，通过四层指标联动（CPM→CTR→CPC→CPA→ROAS）帮助投手定位问题环节。交叉诊断矩阵（CPM×CTR、CVR×CPA、频次×生命周期）发现单一指标看不到的深层问题。MER框架在校因丢失时比ROAS更可靠。改善优先级:CVR（落地页，最易短期提升）>
-  CTR（素材）> CPM（竞争）> AOV（产品策略）。
-summary_en: Document regarding B2_核心指标与ROAS拆解. Reference for business decisions.
-one_sentence_summary: 数据指标与ROAS拆解:漏斗各层核心指标与优化方向
-review_note: ROAS拆解参考
-category: 海外投流
-platform: Facebook/Meta
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "B2 核心指标与ROAS拆解"
+aliases:
+  - "B2 核心指标与ROAS拆解"
+  - "B2_核心指标与ROAS拆解"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "B2B询盘获客"
+  - "账号定位方法"
 tags:
-    - "#facebook广告/数据指标"
-    - "#facebook广告/ROAS拆解"
-    - "#facebook广告/行业基准"
+  - Facebook
+  - 抖音
+  - B2B获客
+  - 账号运营
+  - 投流优化
+  - Pixel与CAPI
+type: "方法论"
+quality_level: "A"
+summary_cn: "本文档阐述B2 核心指标与ROAS拆解的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定B2 核心指标与ROAS拆解相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on B2 核心指标与ROAS拆解 for business execution and decision-making."
 related:
-    - "[[A6_数据指标体系]]"
-    - "[[B3_优化策略框架]]"
-    - "[[A7_诊断排查手册]]"
-    - "[[A1_底层逻辑与算法机制]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 核心指标与
-    - ROAS
-    - 拆解
-    - 一句话总结
-    - 拆解公式
-    - 核心指标联动关系
-    - 行业基准值
-    - 频率监控标准
-    - 广告质量诊断三指标
-    - 核心结论
-decision_value: "用于B2 核心指标与ROAS拆解的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "账号定位策略"
+  - "账号冷启动"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "Pixel配置"
+  - "CAPI事件匹配"
+decision_value: "当需要执行B2 核心指标与ROAS拆解相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-04-22"
+updated: "2026-05-26"
 ---
 
 # B2 核心指标与ROAS拆解

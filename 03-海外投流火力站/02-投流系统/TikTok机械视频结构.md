@@ -1,49 +1,43 @@
 ---
-
-title: TikTok机械视频结构
-topic: ''
-created: '2026-05-15'
-status: active
-summary_cn: '## 一句话总结 > 食品机械TikTok视频分效果展示型、产能对比型、工厂探秘型、客户证言型四类；时长15-60秒，字幕必备，前3秒决定留存。相关文档'
-summary_en: Document regarding TikTok机械视频结构. Reference for business decisions.
-one_sentence_summary: TikTok投流:CPM低适合中小B端获客，短视频素材为主
-review_note: TikTok机械视频结构参考
-category: 投流系统
-platform: TikTok
-industry: 食品加工机械
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "TikTok 机械类视频结构"
+aliases:
+  - "TikTok 机械类视频结构"
+  - "TikTok机械视频结构"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#tiktok获客/短视频脚本"
-    - "#食品机械/短视频"
-    - "#视频工厂/脚本结构"
-related:
-    - "[[C2_Hook设计与脚本框架]]"
-    - "[[工厂拍摄SOP]]"
-    - "[[痛点驱动短视频脚本]]"
-retrieval_keywords:
-    - TikTok
-    - 机械类视频结构
-    - 一句话总结
-    - 食品机械
-    - 视频分效果展示型
-    - 产能对比型
-    - 工厂探秘型
-    - 客户证言型四类
-    - 时长
-    - 字幕必备
-decision_value: "用于TikTok机械视频结构的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
+  - TikTok
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - 食品机械
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
+summary_cn: "本文档阐述TikTok 机械类视频结构的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定TikTok 机械类视频结构相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on TikTok 机械类视频结构 for business execution and decision-making."
+related:
+  - "[[B2B-Lead-SOP]]"
+  - "[[WhatsApp转化结构]]"
+  - "[[03-目录总览MOC]]"
+  - "[[海外投流总索引]]"
+  - "[[05-广告投流增长MOC]]"
+retrieval_keywords:
+  - "TikTok投放"
+  - "TikTok广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "食品机械客户开发"
+  - "机械设备询盘"
+  - "SEO关键词策略"
+  - "自然流量获客"
+decision_value: "当需要执行TikTok 机械类视频结构相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-15"
+updated: "2026-05-26"
 ---
 
 # TikTok 机械类视频结构

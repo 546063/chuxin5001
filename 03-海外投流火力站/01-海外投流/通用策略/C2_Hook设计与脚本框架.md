@@ -1,58 +1,46 @@
 ---
-
-title: C2 Hook设计与脚本框架
-topic: ''
-created: '2026-04-28'
-status: active
-summary_cn: 视频广告前3秒Hook设计方法论，涵盖6大CTR Hook策略（Pattern Interrupt/数字钩子/情绪触发/反常识/问题/社会证明）、嵌套钩子结构、15-30秒最佳时长设计、静音优先原则、多版位适配（Feed
-  4:5/Stories 9:16/Reels 9:16/Marketplace 1:1）。提供30个Hook模板库及每周Hook测试SOP，附视觉技巧（倒放/极端比例/意外动作/颜色冲击/文字炸弹/声音Hook）。
-summary_en: Video ad Hook design methodology - 6 CTR Hook strategies, nested hook
-  structure, optimal duration, mute-first principle, multi-placement adaptation, 30
-  Hook templates, and weekly testing SOP.
-one_sentence_summary: 视频广告前3秒Hook设计方法论，涵盖6大CTR Hook策略（Pattern Interrupt/数字钩子/...
-review_note: Hook设计脚本参考
-category: 海外投流
-platform: Facebook
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "C2 Hook设计与脚本框架"
+aliases:
+  - "C2 Hook设计与脚本框架"
+  - "C2_Hook设计与脚本框架"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#facebook广告/Hook设计"
-    - "#facebook广告/脚本框架"
-    - "#facebook广告/视频素材"
+  - Facebook
+  - 抖音
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - 创意选题
+type: "方法论"
+quality_level: "C"
+summary_cn: "本文档阐述C2 Hook设计与脚本框架的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定C2 Hook设计与脚本框架相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on C2 Hook设计与脚本框架 for business execution and decision-making."
 related:
-    - "[[C1_素材底层逻辑与算法偏好]]"
-    - "[[C3_素材测试与迭代SOP]]"
-    - "[[视频开头钩子库]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - Hook
-    - 设计与脚本框架
-    - 一句话总结
-    - 设计
-    - 大策略
-    - 嵌套钩子结构
-    - 秒最佳时长
-    - 静音优先
-    - 不同
-    - 写法
-decision_value: "用于C2 Hook设计与脚本框架的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "Instagram运营"
+  - "Instagram广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+decision_value: "当需要执行C2 Hook设计与脚本框架相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-04-28"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # C2 Hook设计与脚本框架
 

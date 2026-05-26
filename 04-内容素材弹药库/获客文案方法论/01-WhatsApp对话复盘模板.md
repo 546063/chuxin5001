@@ -1,28 +1,36 @@
 ---
-title: 01-WhatsApp对话复盘模板
+title: "WhatsApp对话复盘模板"
 aliases:
-  - 01-WhatsApp对话复盘模板
+  - "WhatsApp对话复盘模板"
+  - "LinkedIn获客方法"
+  - "WhatsApp转化话术"
+  - "食品机械方法"
 tags:
-  - 内容素材库/获客文案
-  - 文案诊断/咨询转化
-  - B2B获客/外贸询盘
-type: content-card
-source: /Users/mac/ai-workspaces/AI-Workspace-Obsidian/06-客户沟通复盘/01-WhatsApp对话复盘模板.md
-related:
-  - "[[01-文案诊断调用入口]]"
-  - "[[00-获客文案方法论总索引]]"
-summary_cn: 获客文案方法论资料，供文案诊断、询盘转化和私信引流调用。
-summary_en: Routing-ready content note for An先生 content operations.
-retrieval_keywords:
-  - 获客文案
-  - 咨询转化
-  - 询盘
-  - 私信
+  - LinkedIn
   - WhatsApp
-decision_value: 用于判断文案是否能带来咨询、私信、询盘、加微信或WhatsApp动作。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+  - 食品机械
+  - 获客文案
+type: "复盘"
+quality_level: "B"
+summary_cn: "本文档复盘WhatsApp对话复盘模板的执行过程，总结经验教训和可复用方法。适合在复盘类似项目时参考，优化后续执行策略。"
+summary_en: "This document provides actionable guidance on WhatsApp对话复盘模板 for business execution and decision-making."
+related:
+  - "[[02-LinkedIn私信开发SOP]]"
+  - "[[02-文案诊断规则__B2B外贸询盘策略]]"
+  - "[[02-文案诊断规则__LinkedIn私信开发与内容获客SOP]]"
+  - "[[02-文案诊断规则__WhatsApp私聊成交]]"
+  - "[[06-内容素材创意MOC]]"
+retrieval_keywords:
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "食品机械客户开发"
+  - "机械设备询盘"
+  - "WhatsApp对话"
+decision_value: "复盘类似项目时参考本经验教训，避免重复踩坑并复用已验证的有效策略。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # WhatsApp对话复盘模板

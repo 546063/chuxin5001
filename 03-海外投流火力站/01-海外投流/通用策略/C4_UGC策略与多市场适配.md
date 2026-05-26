@@ -1,57 +1,46 @@
 ---
-
-title: C4 UGC策略与多市场适配
-topic: ''
-created: '2026-04-22'
-status: active
-summary_cn: UGC素材策略与多市场本地化方法论。UGC vs 品牌片选择（UGC转化通常更高）、5种UGC类型（开箱/对比测评/使用教程/用户证言/场景展示）、UGC采集SOP、微影响力者渠道（1K-10K粉丝）、Creator获取渠道（Billo/Fiverr/Upwork/TikTok
-  Creator Marketplace）。多市场适配:12个重点市场素材指南（美国/东南亚/西语/欧洲等），本地化Checklist（母语审核/货币/度量衡/文化敏感点）。
-summary_en: UGC creative strategy and multi-market adaptation - UGC vs brand film
-  selection, 5 UGC types, creator acquisition SOP, 12 market adaptation guides, localization
-  checklist.
-one_sentence_summary: UGC素材收集与授权:五步流程+免费备件包激励
-review_note: UGC策略参考
-category: 海外投流
-platform: Facebook
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "C4 UGC策略与多市场适配"
+aliases:
+  - "C4 UGC策略与多市场适配"
+  - "C4_UGC策略与多市场适配"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "文案质量诊断"
+  - "广告优化策略"
 tags:
-    - "#facebook广告/UGC策略"
-    - "#facebook广告/多市场适配"
-    - "#facebook广告/本地化"
+  - Facebook
+  - TikTok
+  - 文案优化
+  - 投流优化
+  - 创意选题
+  - 短视频
+type: "SOP"
+quality_level: "C"
+summary_cn: "本文档提供C4 UGC策略与多市场适配的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作C4 UGC策略与多市场适配相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on C4 UGC策略与多市场适配 for business execution and decision-making."
 related:
-    - "[[C3_素材测试与迭代SOP]]"
-    - "[[C1_素材底层逻辑与算法偏好]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - UGC
-    - 策略与多市场适配
-    - 一句话总结
-    - 采集
-    - SOP
-    - 品牌片选择
-    - 多市场适配
-    - 西语
-    - 东南亚注意事项
-    - 类型与测试预算
-decision_value: "用于C4 UGC策略与多市场适配的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+decision_value: "执行C4 UGC策略与多市场适配任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-04-22"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # C4 UGC策略与多市场适配
 

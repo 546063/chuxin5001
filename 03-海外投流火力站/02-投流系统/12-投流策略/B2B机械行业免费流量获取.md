@@ -1,60 +1,47 @@
 ---
-
 title: "B2B机械行业免费流量获取"
-topic: ""
-created: "'2026-05-15'"
-status: "active"
-summary_cn: "不花钱也能获客的免费流量获取方法，适合预算有限的工厂和刚起步的跨境业务。渠道总览:TikTok自然内容（1-3个月见效）、YouTube SEO（3-6个月）、Facebook群组（2-4周）、LinkedIn内容（1-3个月）、Alibaba/平台（1-2周）、Google SEO（3-6个月）。各平台详细操作方法和零预算方案（每天投入2小时）。"
-summary_en: "Free traffic acquisition methods for B2B machinery, suitable for factories with limited budgets."
-one_sentence_summary: "# B2B机械行业免费流量获取  ## 渠道总览  | 渠道 | 见效时间 | 难度 | 月均询盘 | |
-
+aliases:
+  - "B2B机械行业免费流量获取"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "短视频获客方法"
 tags:
-    - "#facebook广告/数据指标"
-    - "#facebook广告/ROAS拆解"
-    - "#facebook广告/行业基准"
-related:
-    - "[[A5_执行SOP]]"
-    - "[[短视频平台运营策略]]"
-    - "[[UGC收集与授权流程]]"
-retrieval_keywords:
-    - decision
-    - value
-    - Advertising
-    - and
-    - traffic
-    - documentation
-    - review
-    - note
-    - 免费流量策略参考
-    - category
-decision_value: "用于B2B机械行业免费流量获取的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 短视频
+  - SEO优化
+  - 投流优化
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-------|..."
-decision_value: "Advertising and traffic documentation"
-review_note: "免费流量策略参考"
-category: "投流策略"
-platform: []
-industry: "食品加工机械"
-scenario: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
+summary_cn: "本文档阐述B2B机械行业免费流量获取的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定B2B机械行业免费流量获取相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on B2B机械行业免费流量获取 for business execution and decision-making."
 related:
-  - [[05-广告投流增长MOC]]
-retrieval_keywords:
-  - Facebook B2B获客
-  - Facebook素材测试
-  - Facebook再营销受众
-  - 广告预算分配
-  - 广告素材疲劳诊断
-routing_target:
+  - "[[B2B机械行业受众定向策略]]"
+  - "[[B2B机械行业广告素材策略]]"
+  - "[[B2B机械行业预算分配策略]]"
+  - "[[TikTok投流策略-食品加工机械]]"
+  - "[[视频号投流策略-食品加工机械]]"
   - "[[05-广告投流增长MOC]]"
+retrieval_keywords:
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "YouTube广告"
+  - "YouTube获客"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "视频号获客"
+  - "视频号运营"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+decision_value: "当需要执行B2B机械行业免费流量获取相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-17"
+updated: "2026-05-26"
+---
+
 ---
 
 # B2B机械行业免费流量获取

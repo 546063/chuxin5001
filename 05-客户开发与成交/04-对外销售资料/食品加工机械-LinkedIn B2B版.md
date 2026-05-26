@@ -1,51 +1,34 @@
 ---
-
-
-title: "\"食品加工机械-LinkedIn B2B版\""
-topic: "客户开发与成交"
-created: "'2026-05-15'"
-status: "active"
-summary_cn: "LinkedIn B2B版本销售资料，约2000字，全英文，含个人主页About区域模板、InMail模板、帖子模板。适合LinkedIn开发客户、主页介绍、经销商招募等场景。"
-summary_en: "LinkedIn B2B version (~2000 words English), includes About section template, InMail templates, and post templates. Suitable for LinkedIn outreach, profile introduction, and distributor recruitment."
-one_sentence_summary: "# LinkedIn B2B 版本  > 适用于:LinkedIn InMail / 主页About / 行业分析文章 ..."
-review_note: "一般参考"
-category: "客户开发与成交"
-platform: []
-industry: "食品加工机械"
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[07-客户开发成交MOC]]"
-
+title: "LinkedIn B2B 版本"
+aliases:
+  - "LinkedIn B2B 版本"
+  - "食品加工机械-LinkedIn B2B版"
+  - "LinkedIn获客方法"
 tags:
-    - "#客户开发/B2B长周期成交"
-    - "#客户开发/询盘承接"
-    - "#客户开发/WhatsApp承接"
-related:
-    - "[[客户开发SOP]]"
-    - "[[食品机械市场买家与采购决策总纲]]"
-    - "[[食品加工机械-展会版]]"
-retrieval_keywords:
-    - LinkedIn
-    - 版本
-    - 适用于
-    - InMail
-    - 主页
-    - About
-    - 行业分析文章
-    - 经销商开发
-    - 个人主页
-    - 区域
-decision_value: "用于\的决策参考和方法指导。"
-domain: "client_development"
-scenario: "b2b_closing"
-type: "knowledge_note"
+  - LinkedIn
+  - 客户开发
+  - 内容运营
+  - 营销策略
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-
+summary_cn: "本文档阐述LinkedIn B2B 版本的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定LinkedIn B2B 版本相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on LinkedIn B2B 版本 for business execution and decision-making."
+related:
+  - "[[2026中国食品加工机械工厂合集-飞书完整版]]"
+  - "[[食品加工机械-WhatsApp发送版]]"
+  - "[[食品加工机械-展会版]]"
+  - "[[食品加工机械工厂合集-PDF结构版]]"
+  - "[[食品加工机械工厂合集-简洁销售版]]"
+  - "[[05-客户开发与成交MOC]]"
+retrieval_keywords:
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "LinkedIn B"
+  - "海外获客"
+  - "内容营销"
+decision_value: "当需要执行LinkedIn B2B 版本相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-17"
+updated: "2026-05-26"
 ---
 
 # LinkedIn B2B 版本
@@ -138,7 +121,6 @@ Best regards,
 ## 版本3：LinkedIn 行业分析文章（引流）
 
 ```
-Title: 2026 Food Processing Equipment Sourcing Guide: China vs Europe
 
 The global food processing equipment market is shifting.
 

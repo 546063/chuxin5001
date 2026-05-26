@@ -1,56 +1,46 @@
 ---
-
-title: B5 AB测试方法论
-topic: ''
-created: '2026-04-28'
-status: active
-summary_cn: A/B测试三阶段框架:Phase 1发现（新素材同时测试）、Phase 2验证（新 vs 历史最佳）、Phase 3规模化（赢家导入CBO并淘汰底部20%）。测试优先级:素材（70-80%效果）>
-  Hook（前3秒）> Offer > 受众 > 版位 > 出价。素材疲劳5要素诊断（跑了2-4周/频次>2.5/CTR降>20%/CPA涨>30%/情绪重复），满足任意2项即触发迭代。轮换节奏:高预算小受众3-4天、中等预算7-10天、低预算大受众14-21天。
-summary_en: Document regarding B5_AB测试方法论. Reference for business decisions.
-one_sentence_summary: A/B测试方法论:三阶段框架+单变量控制+统计显著性
-review_note: AB测试方法论参考
-category: 海外投流
-platform: Facebook
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "B5 AB测试方法论"
+aliases:
+  - "B5 AB测试方法论"
+  - "B5_AB测试方法论"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "文案质量诊断"
+  - "广告优化策略"
 tags:
-    - "#facebook广告/AB测试"
-    - "#facebook广告/测试方法论"
-    - "#facebook广告/迭代策略"
+  - Facebook
+  - TikTok
+  - 文案优化
+  - 投流优化
+  - 创意选题
+  - 受众定向
+type: "方法论"
+quality_level: "C"
+summary_cn: "本文档阐述B5 AB测试方法论的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定B5 AB测试方法论相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on B5 AB测试方法论 for business execution and decision-making."
 related:
-    - "[[B3_优化策略框架]]"
-    - "[[C3_素材测试与迭代SOP]]"
-    - "[[A5_执行SOP]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 测试方法论
-    - 一句话总结
-    - 测试三阶段框架
-    - 迭代三大策略
-    - 轮换节奏
-    - 测试优先级排序
-    - 核心结论
-    - 待补充
-    - 适用场景
-    - 适合平台
-decision_value: "用于B5 AB测试方法论的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "创意选题方法"
+  - "广告素材测试"
+decision_value: "当需要执行B5 AB测试方法论相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-04-28"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # B5 AB测试方法论
 

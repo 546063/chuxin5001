@@ -1,28 +1,41 @@
 ---
-title: Phase1-2最终报告
+title: "Phase 1-2 最终报告"
 aliases:
-  - Phase1-2最终报告
+  - "Phase 1-2 最终报告"
+  - "Phase1-2最终报告"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-  - 内容素材库/安先生方法论
-  - 短视频获客/项目获客
-  - 账号定位/用户价值
-type: content-card
-source: /Users/mac/Downloads/An先生_import_staging_20260526_200845/extracted/安先生短视频自媒体方法论_Phase1-2_Obsidian样板/安先生短视频自媒体方法论_Phase1-2_Obsidian样板/02-跨境社媒获客/安先生短视频自媒体方法论/Phase1-2最终报告.md
-related:
-  - "[[00-内容素材弹药库总路由]]"
-  - "[[01-文案诊断调用入口]]"
-summary_cn: 安先生短视频自媒体方法论资料，供账号定位、文案诊断、选题优化和数据复盘调用。
-summary_en: Routing-ready content note for An先生 content operations.
-retrieval_keywords:
+  - B2B获客
+  - 文案优化
+  - 账号运营
+  - 创意选题
   - 安先生方法论
-  - 短视频获客
-  - 账号定位
-  - 文案诊断
-  - 选题优化
-decision_value: 用于短视频账号定位、选题、钩子、骨架、文案诊断和账号复盘决策。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+type: "研究报告"
+quality_level: "A"
+summary_cn: "本文档对Phase 1-2 最终报告进行深度调研分析，覆盖市场趋势、竞品对比和策略建议。适合在制定产品策略或进入新市场时作为决策参考。"
+summary_en: "This document provides actionable guidance on Phase 1-2 最终报告 for business execution and decision-making."
+related:
+  - "[[00-026-030批次整理报告]]"
+  - "[[00-026-030课程扫描清单]]"
+  - "[[04-目录总览MOC]]"
+  - "[[06-内容素材创意MOC]]"
+retrieval_keywords:
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "账号定位策略"
+  - "账号冷启动"
+  - "创意选题方法"
+  - "广告素材测试"
+  - "短视频获客"
+  - "短视频素材制作"
+  - "直播获客方法"
+  - "直播询盘转化"
+decision_value: "制定产品策略或进入新市场时参考本调研报告，为决策提供数据支撑。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # Phase 1-2 最终报告

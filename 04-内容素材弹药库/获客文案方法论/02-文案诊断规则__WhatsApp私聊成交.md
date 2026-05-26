@@ -1,28 +1,33 @@
 ---
-title: WhatsApp私聊成交
+title: "WhatsApp私聊成交"
 aliases:
-  - WhatsApp私聊成交
+  - "WhatsApp私聊成交"
+  - "文案诊断规则__WhatsApp私聊成交"
+  - "WhatsApp转化话术"
 tags:
-  - 内容素材库/获客文案
-  - 文案诊断/咨询转化
-  - B2B获客/外贸询盘
-type: content-card
-source: /Users/mac/ai-workspaces/AI-Workspace-Obsidian/05-客户开发与成交/02-跨境运营与客户开发/场景模板/WhatsApp私聊成交.md
-related:
-  - "[[01-文案诊断调用入口]]"
-  - "[[00-获客文案方法论总索引]]"
-summary_cn: 获客文案方法论资料，供文案诊断、询盘转化和私信引流调用。
-summary_en: Routing-ready content note for An先生 content operations.
-retrieval_keywords:
-  - 获客文案
-  - 咨询转化
-  - 询盘
-  - 私信
   - WhatsApp
-decision_value: 用于判断文案是否能带来咨询、私信、询盘、加微信或WhatsApp动作。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+  - 获客文案
+  - 内容运营
+  - 营销策略
+type: "方法论"
+quality_level: "B"
+summary_cn: "本文档阐述WhatsApp私聊成交的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定WhatsApp私聊成交相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on WhatsApp私聊成交 for business execution and decision-making."
+related:
+  - "[[01-WhatsApp对话复盘模板]]"
+  - "[[02-LinkedIn私信开发SOP]]"
+  - "[[02-文案诊断规则__B2B外贸询盘策略]]"
+  - "[[02-文案诊断规则__LinkedIn私信开发与内容获客SOP]]"
+  - "[[06-内容素材创意MOC]]"
+retrieval_keywords:
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "WhatsApp私聊"
+  - "海外获客"
+  - "内容营销"
+decision_value: "当需要执行WhatsApp私聊成交相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # WhatsApp私聊成交

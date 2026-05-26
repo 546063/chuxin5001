@@ -1,57 +1,46 @@
 ---
-
-title: C3 素材测试与迭代SOP
-topic: ''
-created: '2026-04-22'
-status: active
-summary_cn: 素材测试与迭代系统化方法论，包含6维变量测试矩阵（Hook/视觉风格/时长/文案/CTA/版位适配）、每周素材测试SOP、爆量素材裂变SOP（改Hook/改文案/改CTA/改版位/改时长）、素材生产流水线（选题→脚本→拍摄→剪辑→适配→测试→扩量）、素材疲劳诊断与迭代、素材日历模板。目标是建立可持续的素材迭代体系。
-summary_en: Systematic creative testing and iteration methodology - 6-dimension test
-  matrix, weekly testing SOP, viral creative fission, production pipeline, fatigue
-  diagnosis, and content calendar.
-one_sentence_summary: 广告素材策略:工厂实拍+产品演示+客户见证高转化
-review_note: 素材测试迭代SOP核心
-category: 海外投流
-platform: Facebook
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "C3 素材测试与迭代SOP"
+aliases:
+  - "C3 素材测试与迭代SOP"
+  - "C3_素材测试与迭代SOP"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "文案质量诊断"
+  - "广告优化策略"
 tags:
-    - "#facebook广告/优化SOP"
-    - "#facebook广告/日常运营"
-    - "#facebook广告/扩量规则"
+  - Facebook
+  - 抖音
+  - 文案优化
+  - 投流优化
+  - 创意选题
+  - 受众定向
+type: "SOP"
+quality_level: "C"
+summary_cn: "本文档提供C3 素材测试与迭代SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作C3 素材测试与迭代SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on C3 素材测试与迭代SOP for business execution and decision-making."
 related:
-    - "[[C1_素材底层逻辑与算法偏好]]"
-    - "[[C2_Hook设计与脚本框架]]"
-    - "[[C5_素材数据指标与诊断]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 素材测试与迭代
-    - SOP
-    - 一句话总结
-    - 维变量测试矩阵
-    - 爆量素材裂变
-    - 生产流水线
-    - 素材日历
-    - 素材疲劳诊断与迭代
-    - 核心结论
-    - 待补充
-decision_value: "用于C3 素材测试与迭代SOP的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "sop_building"
-type: "sop"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "创意选题方法"
+  - "广告素材测试"
+  - "受众定向策略"
+  - "再营销方法"
+decision_value: "执行C3 素材测试与迭代SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-04-22"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # C3 素材测试与迭代SOP
 

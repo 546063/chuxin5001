@@ -1,28 +1,35 @@
 ---
-title: 06-AI调用提示词__AI提示词必须先给判断框架
+title: "AI提示词必须先给判断框架"
 aliases:
-  - 06-AI调用提示词__AI提示词必须先给判断框架
+  - "AI提示词必须先给判断框架"
+  - "AI调用提示词__AI提示词必须先给判断框架"
+  - "文案质量诊断"
+  - "账号定位方法"
 tags:
-  - 内容素材库/安先生方法论
-  - 短视频获客/项目获客
-  - 账号定位/用户价值
-type: content-card
-source: /Users/mac/Downloads/An先生_import_staging_20260526_200845/extracted/安先生短视频自媒体方法论_046-050_含原文_Obsidian文档/04-内容素材弹药库/安先生短视频自媒体方法论/06-AI调用提示词__AI提示词必须先给判断框架.md
-related:
-  - "[[00-内容素材弹药库总路由]]"
-  - "[[01-文案诊断调用入口]]"
-summary_cn: 安先生短视频自媒体方法论资料，供账号定位、文案诊断、选题优化和数据复盘调用。
-summary_en: Routing-ready content note for An先生 content operations.
-retrieval_keywords:
+  - 文案优化
+  - 账号运营
+  - 创意选题
   - 安先生方法论
-  - 短视频获客
-  - 账号定位
-  - 文案诊断
-  - 选题优化
-decision_value: 用于短视频账号定位、选题、钩子、骨架、文案诊断和账号复盘决策。
-quality_level: imported
-created: 2026-05-26
-updated: 2026-05-26
+type: "提示词"
+quality_level: "A"
+summary_cn: "本文档提供AI提示词必须先给判断框架的AI调用提示词模板，可直接复制使用。适合在用AI生成相关内容、优化文案或批量生产内容时调用。"
+summary_en: "This document provides actionable guidance on AI提示词必须先给判断框架 for business execution and decision-making."
+related:
+  - "[[00-026-030批次整理报告]]"
+  - "[[00-026-030课程扫描清单]]"
+  - "[[04-目录总览MOC]]"
+  - "[[06-内容素材创意MOC]]"
+retrieval_keywords:
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "账号定位策略"
+  - "账号冷启动"
+  - "创意选题方法"
+  - "广告素材测试"
+  - "AI提示词必须先给判"
+decision_value: "使用AI生成AI提示词必须先给判断框架相关内容时直接复制此提示词，提高内容生产效率。"
+created: "2026-05-26"
+updated: "2026-05-26"
 ---
 
 # AI提示词必须先给判断框架

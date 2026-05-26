@@ -1,50 +1,44 @@
 ---
-
 title: "素材测试与迭代SOP"
-topic: ""
-created: "''"
-status: "active"
-summary_cn: "> 本文已被合并至:[[C3_素材测试与迭代SOP]]。本文件保留用于历史追溯，不再作为优先调用文档。相关文档"
-summary_en: "Document regarding 素材测试与迭代SOP. Reference for business decisions."
-one_sentence_summary: "> 本文已被合并至:[[C3_素材测试与迭代SOP]]"
-review_note: "素材测试迭代SOP"
-category: "广告素材与创意"
-platform: "多平台"
-industry: "多行业"
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[06-内容素材创意MOC]]"
-
+aliases:
+  - "素材测试与迭代SOP"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#facebook广告/素材测试"
-    - "#facebook广告/素材迭代"
-    - "#视频工厂/案例拆解"
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - 创意选题
+type: "SOP"
+quality_level: "A"
+summary_cn: "本文档提供素材测试与迭代SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作素材测试与迭代SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on 素材测试与迭代SOP for business execution and decision-making."
 related:
-    - "[[C3_素材测试与迭代SOP]]"
-    - "[[C5_素材数据指标与诊断]]"
-    - "[[C1_素材底层逻辑与算法偏好]]"
+  - "[[素材数据指标与诊断]]"
+  - "[[素材疲劳预防]]"
+  - "[[06-内容素材创意MOC]]"
 retrieval_keywords:
-    - 本文已被合并至
-    - 素材测试与迭代
-    - SOP
-    - 本文件保留用于历史追溯
-    - 不再作为优先调用文档
-    - 一句话总结
-    - 一次只测一个变量
-    - 等量预算
-    - 天最低测试周期
-    - 每周
-decision_value: "用于素材测试与迭代SOP的决策参考和方法指导。"
-domain: "video_factory"
-scenario: "content_production"
-type: "sop"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "Instagram运营"
+  - "Instagram广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+decision_value: "执行素材测试与迭代SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-05-17"
+updated: "2026-05-26"
 ---
+
 > 本文已被合并至：[[C3_素材测试与迭代SOP]]。本文件保留用于历史追溯，不再作为优先调用文档。
 
 

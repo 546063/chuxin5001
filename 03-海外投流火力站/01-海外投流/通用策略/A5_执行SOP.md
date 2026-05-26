@@ -1,51 +1,45 @@
 ---
-
-title: A5 执行SOP
-topic: ''
-created: '2026-04-22'
-status: active
-summary_cn: 从零到第一笔订单的 7 步 SOP（账户准备→素材准备→Campaign搭建→广告创建→学习期观察→首次优化→扩量），按天给出执行节点。冷启动/测品/扩量三套
-  SOP，以及 ASC 上线后 10 天不干预的执行纪律。杀广告硬指标:满足任意 2 条（CPM涨>30%、CTR降>30%、Frequency>3、CPA连续超标）即关。日常运营节奏:每日5分钟快查、每周30分钟深度优化、每月1小时结构复盘。
-summary_en: Document regarding A5_执行SOP. Reference for business decisions.
-one_sentence_summary: 投流执行SOP:7步流程从账户准备到第一笔订单
-review_note: 执行SOP核心 playbook
-category: 海外投流
-platform: Facebook/Meta
-industry: 多行业
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "A5 执行SOP"
+aliases:
+  - "A5 执行SOP"
+  - "A5_执行SOP"
+  - "Facebook投放指南"
+  - "抖音投放指南"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#facebook广告/投放SOP"
-    - "#facebook广告/冷启动"
-    - "#facebook广告/扩量"
+  - Facebook
+  - 抖音
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - Pixel与CAPI
+type: "SOP"
+quality_level: "A"
+summary_cn: "本文档提供A5 执行SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作A5 执行SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on A5 执行SOP for business execution and decision-making."
 related:
-    - "[[A2_账户结构与出价策略]]"
-    - "[[A4_策略决策框架]]"
-    - "[[B4_数据优化执行SOP]]"
-    - "[[A7_诊断排查手册]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - 执行
-    - SOP
-    - 一句话总结
-    - 从零到投放的
-    - 冷启动
-    - 测品
-    - 扩量
-    - ASC
-    - 执行流程
-    - 日常运营节奏
-decision_value: "用于A5 执行SOP的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "sop_building"
-type: "sop"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "抖音投流"
+  - "抖音广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "广告投放策略"
+  - "投流ROI优化"
+  - "Pixel配置"
+  - "CAPI事件匹配"
+decision_value: "执行A5 执行SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-04-22"
+updated: "2026-05-26"
 ---
 
 # A5 执行SOP

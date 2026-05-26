@@ -1,51 +1,42 @@
 ---
-
-
-aliases: '[B2B广告素材复盘, 食品机械素材测试, B2B素材数据指标]'
-topic: ''
-created: '2026-05-10'
-status: active
-summary_cn: '> **与通用框架的区别**:B2B 食品机械客单价高（≥¥20,000）、决策周期长（3-12月）、转化目标不是购买而是询盘（Lead）。所有指标基准和诊断逻辑都围绕"获客"而非"电商转化"。相关文档'
-summary_en: Document regarding B2B食品机械素材测试特化. Reference for business decisions.
-one_sentence_summary: B2B投流策略:客户类型×平台匹配，定向+预算+优化
-review_note: B2B食品机械素材测试参考
-category: ''
-platform: []
-industry: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "B2B 食品机械广告素材测试特化"
+aliases:
+  - "B2B 食品机械广告素材测试特化"
+  - "B2B食品机械素材测试特化"
+  - "Facebook投放指南"
+  - "LinkedIn获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#facebook广告/数据指标"
-    - "#facebook广告/ROAS拆解"
-    - "#facebook广告/行业基准"
-related:
-    - "[[A8_实战案例]]"
-    - "[[C3_素材测试与迭代SOP]]"
-    - "[[C1_素材底层逻辑与算法偏好]]"
-retrieval_keywords:
-    - 食品机械广告素材测试特化
-    - 与通用框架的区别
-    - 食品机械客单价高
-    - 决策周期长
-    - 转化目标不是购买而是询盘
-    - Lead
-    - 所有指标基准和诊断逻辑都围绕
-    - 获客
-    - 而非
-    - 电商转化
-decision_value: "用于B2B食品机械素材测试特化的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
+  - Facebook
+  - LinkedIn
+  - B2B获客
+  - 文案优化
+  - 创意选题
+  - 食品机械
+  - 投流优化
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-
+summary_cn: "本文档阐述B2B 食品机械广告素材测试特化的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定B2B 食品机械广告素材测试特化相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on B2B 食品机械广告素材测试特化 for business execution and decision-making."
+related:
+  - "[[05-广告投流增长MOC]]"
+retrieval_keywords:
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+  - "创意选题方法"
+  - "广告素材测试"
+decision_value: "当需要执行B2B 食品机械广告素材测试特化相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-10"
+updated: "2026-05-26"
 ---
 
 # B2B 食品机械广告素材测试特化

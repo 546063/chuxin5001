@@ -1,57 +1,36 @@
 ---
-
-
-title: "\"食品加工机械-WhatsApp发送版\""
-topic: "客户开发与成交"
-created: "'2026-05-15'"
-status: "active"
-summary_cn: "超简短WhatsApp版本，含6个话术模板（自我介绍版、工厂信息版、产品介绍版、报价版、跟进版、逼单版）。适合WhatsApp直接复制发送，快速与客户建立联系和推进谈判。"
-summary_en: "Ultra-concise WhatsApp version with 6 templates (self-intro, factory info, product intro, quote, follow-up, closing). Ready to copy-paste for WhatsApp outreach, fast customer engagement and negotiation progression."
-one_sentence_summary: "# WhatsApp 发送版本  > 以下内容为可直接复制粘贴发送到WhatsApp的版本  
-
+title: "WhatsApp 发送版本"
+aliases:
+  - "WhatsApp 发送版本"
+  - "食品加工机械-WhatsApp发送版"
+  - "WhatsApp转化话术"
 tags:
-    - "#客户开发/B2B长周期成交"
-    - "#客户开发/询盘承接"
-    - "#客户开发/WhatsApp承接"
-related:
-    - "[[WhatsApp转化结构]]"
-    - "[[客户开发SOP]]"
-    - "[[私域转化]]"
-retrieval_keywords:
-    - 版本
-    - decision
-    - value
-    - WhatsApp
-    - 是海外
-    - 沟通的主要渠道
-    - 快速响应和正确话术直接决定成交
-    - review
-    - note
-    - 一般参考
-decision_value: "用于\的决策参考和方法指导。"
-domain: "client_development"
-scenario: "b2b_closing"
-type: "knowledge_note"
+  - WhatsApp
+  - 客户开发
+  - 内容运营
+  - 营销策略
+type: "方法论"
 quality_level: "B"
-updated: "2026-05-24"
-
----  ## 版本1:首..."
-decision_value: "中 - WhatsApp是海外B2B沟通的主要渠道，快速响应和正确话术直接决定成交"
-review_note: "一般参考"
-category: "客户开发与成交"
-platform: []
-industry: "食品加工机械"
-scenario: []
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
+summary_cn: "本文档阐述WhatsApp 发送版本的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定WhatsApp 发送版本相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on WhatsApp 发送版本 for business execution and decision-making."
 related:
-  - [[01-全库工作总览MOC]]
-retrieval_keywords: ""
-routing_target:
-  - "[[07-客户开发成交MOC]]"
+  - "[[2026中国食品加工机械工厂合集-飞书完整版]]"
+  - "[[食品加工机械-LinkedIn B2B版]]"
+  - "[[食品加工机械-展会版]]"
+  - "[[食品加工机械工厂合集-PDF结构版]]"
+  - "[[食品加工机械工厂合集-简洁销售版]]"
+  - "[[05-客户开发与成交MOC]]"
+retrieval_keywords:
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "WhatsApp 发"
+  - "海外获客"
+  - "内容营销"
+decision_value: "当需要执行WhatsApp 发送版本相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-17"
+updated: "2026-05-26"
+---
+
 ---
 
 # WhatsApp 发送版本

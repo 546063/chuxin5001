@@ -1,36 +1,47 @@
 ---
-
+title: "Facebook广告高频FAQ（20条）"
+aliases:
+  - "Facebook广告高频FAQ（20条）"
+  - "_FAQ"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "文案质量诊断"
 tags:
-    - "#facebook广告/避坑指南"
-    - "#facebook广告/FAQ"
-    - "#facebook广告/常见问题"
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 文案优化
+  - 投流优化
+  - Pixel与CAPI
+type: "索引"
+quality_level: "C"
+summary_cn: "本文档是Facebook广告高频FAQ（20条）的导航索引，汇总相关文档和方法论入口。适合作为Facebook广告高频FAQ（20条）相关任务的起点，快速定位需要读取的具体文档。"
+summary_en: "This document provides actionable guidance on Facebook广告高频FAQ（20条） for business execution and decision-making."
 related:
-    - "[[A9_踩坑FAQ]]"
-    - "[[A7_诊断排查手册]]"
-    - "[[A1_底层逻辑与算法机制]]"
+  - "[[A1_底层逻辑与算法机制]]"
+  - "[[A2_账户结构与出价策略]]"
+  - "[[A3_受众定向与Pixel_CAPI]]"
+  - "[[A4_策略决策框架]]"
+  - "[[A5_执行SOP]]"
+  - "[[05-广告投流增长MOC]]"
 retrieval_keywords:
-    - Facebook
-    - 广告高频
-    - FAQ
-    - 一句话总结
-    - 广告投放高频问题与解答
-    - 覆盖账户
-    - 素材
-    - 受众
-    - 数据等
-    - 核心结论
-decision_value: "用于99_FAQ的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "ad_testing"
-type: "framework"
-quality_level: "B"
-updated: "2026-05-24"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "Instagram运营"
+  - "Instagram广告"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+  - "文案优化技巧"
+decision_value: "进入Facebook广告高频FAQ（20条）相关工作域时先查此处，快速定位需要读取的具体文档。"
+created: "2026-04-28"
+updated: "2026-05-26"
 ---
-
-
-
-
-
 
 # Facebook广告高频FAQ（20条）
 
@@ -369,32 +380,3 @@ Facebook广告投放高频问题与解答，覆盖账户、素材、受众、数
 
 <!-- 原始frontmatter前有非frontmatter内容，已移至此处供参考 -->
 ---title: Facebook广告高频FAQ
-topic: ''
-created: '2026-04-28'
-updated: '2026-05-17'
-type: knowledge
-status: active
-quality_level: B
-summary_cn: '## 一句话总结 Facebook广告投放高频问题与解答，覆盖账户、素材、受众、数据等相关文档'
-summary_en: Document regarding 99_FAQ. Reference for business decisions.
-one_sentence_summary: Facebook广告指南
-decision_value: Advertising and traffic documentation
-review_note: 高频FAQ参考文档
-category: 海外投流
-platform: Facebook
-industry: 多行业
-scenario: 投流策略
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: ''
-related:
-  - [[14-AI工具自动化MOC]]
-  - [[99-目录总览MOC]]
-retrieval_keywords:
-- Facebook B2B获客
-- Facebook素材测试
-- Facebook再营销受众
-- 广告预算分配
-- 广告素材疲劳诊断

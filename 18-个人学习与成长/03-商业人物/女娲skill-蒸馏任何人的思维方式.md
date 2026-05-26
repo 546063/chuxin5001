@@ -1,38 +1,38 @@
 ---
-title: "\"\\\"女娲skill 蒸馏任何人的思维方式\\\"\""
-aliases: "\"[]\""
-tags: "\"[AI工作流, AI技能, ClaudeCode, Codex, Obsidian, OpenClaw, 女娲顾问, 工作流, 工具技能, 待补充, 知识库维护]\""
-topic: "\"AI工作流\""
-created: "\"\\\"2026-05-10\\\"\""
-updated: "2026-05-17"
-type: "\"工具技能\""
-status: "\"待完善\""
-quality_level: "\"B\""
-summary_cn: "\"> [!quote] 你想蒸馏的下一个员工，何必是同事 > **女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工。**相关文档\""
-summary_en: "\"Document regarding 女娲skill-蒸馏任何人的思维方式. Reference for business and personal development.\""
-one_sentence_summary: "\"# 女娲skill - 蒸馏任何人的思维方式  > [!quote] 你想蒸馏的下一个员工，何必是同事 > **女娲帮你...\""
-decision_value: "\"中\""
-review_note: "\"商业人物蒸馏，决策框架与思维模式\""
-category: "\"AI工作流\""
-platform: "\"[Claude Code]\""
-industry: "[]"
-scenario: "\"[内容生成, 知识库维护, 自动化]\""
-source_files: "[]"
-merged_from: "[]"
-old_versions: "[]"
-archived_reason: "[]"
-relations: "[]"
+title: "女娲skill - 蒸馏任何人的思维方式"
+aliases:
+  - "女娲skill - 蒸馏任何人的思维方式"
+  - "女娲skill-蒸馏任何人的思维方式"
+  - "YouTube广告优化"
+  - "X内容营销"
+  - "B2B询盘获客"
+tags:
+  - YouTube
+  - X/Twitter
+  - B2B获客
+  - 个人成长
+type: "方法论"
+quality_level: "B"
+summary_cn: "本文档阐述女娲skill - 蒸馏任何人的思维方式的方法论和判断规则，提供可执行的标准和诊断依据。适合在制定女娲skill - 蒸馏任何人的思维方式相关策略或审核内容质量时调用参考。"
+summary_en: "This document provides actionable guidance on 女娲skill - 蒸馏任何人的思维方式 for business execution and decision-making."
 related:
+  - "[[AlRies]]"
+  - "[[Alex Hormozi]]"
+  - "[[AlexHormozi]]"
+  - "[[Andrej Karpathy]]"
+  - "[[Charlie Munger]]"
+  - "[[学习成长MOC]]"
 retrieval_keywords:
-  - - - 义乌外贸案例复盘
-  - - - 硅谷101科技商业案例
-  - - - 跨海电波商业认知
-  - - - 创业增长认知笔记
-  - - - 播客商业启发笔记
-  - - --
-  - --
-routing_target:
-  - "[[16-学习成长蒸馏MOC]]"
+  - "YouTube广告"
+  - "YouTube获客"
+  - "X营销"
+  - "Twitter获客"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "女娲skill  蒸"
+decision_value: "当需要执行女娲skill - 蒸馏任何人的思维方式相关任务时调用本文档，为内容制作和投流优化提供参考。"
+created: "2026-05-16"
+updated: "2026-05-26"
 ---
 
 # 女娲skill - 蒸馏任何人的思维方式

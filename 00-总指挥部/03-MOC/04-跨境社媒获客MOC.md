@@ -1,52 +1,44 @@
 ---
 title: "04-跨境社媒获客MOC"
-aliases: ["跨境社媒获客", "社媒获客", "社交媒体获客", "海外社媒"]
-tags: ["MOC", "跨境社媒", "获客", "社交媒体", "Facebook", "LinkedIn", "TikTok", "WhatsApp"]
-topic: "跨境社媒获客"
-created: "2026-05-17"
-updated: "2026-05-17"
-type: "moc"
-status: "active"
-quality_level: "S"
-summary_cn: "跨境社媒获客MOC是Facebook/LinkedIn/TikTok/WhatsApp等海外社媒平台获客的统一入口，管辖各平台的内容策略、账号运营、IP打造、素材创作和线索获取。不按单一平台拆分，而是整合为跨平台社媒获客路径。当AI需要制定社媒获客策略、分析某个平台运营方向、或需要内容创意时，先查这里。"
-summary_en: "Cross-platform social media customer acquisition hub covering Facebook, LinkedIn, TikTok, WhatsApp for B2B foreign trade. Integrates content strategy, account operations, IP building, and lead generation without platform fragmentation."
-one_sentence_summary: "跨境社媒获客总入口，Facebook/LinkedIn/TikTok/WhatsApp多平台统一路由"
-decision_value: "帮助判断:哪个社媒平台适合当前目标客户、如何制定跨平台内容策略、账号如何运营、IP人设怎么打造、WhatsApp引流怎么做"
-review_note: "S级主MOC，跨境社媒获客统一入口，整合多平台获客路径，避免按单一平台拆分导致的碎片化"
-category: "外贸市场"
-platform: ["Facebook", "LinkedIn", "TikTok", "WhatsApp", "Instagram"]
-industry: ["食品加工机械", "B2B外贸"]
-scenario: ["制定社媒获客整体策略", "判断某个平台是否值得投入", "做账号IP定位", "制定内容计划", "WhatsApp引流", "LinkedIn开发客户", "TikTok内容制作"]
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: ""
-relations:
-  - - - type: "part_of"
-  - - target: "[[00-总指挥部/03-MOC/01-全库工作总览MOC]]"
-  - - note: "属于全库工作总览的一部分，业务层核心MOC"
-  - - - type: "refers"
-  - - target: "[[00-总指挥部/03-MOC/03-外贸市场情报MOC]]"
-  - - note: "社媒获客需要基于市场情报的客户画像"
-  - - - type: "refers"
-  - - target: "[[00-总指挥部/03-MOC/05-广告投流增长MOC]]"
-  - - note: "社媒有机内容和付费投流协同"
+aliases:
+  - "跨境社媒获客MOC"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "文案质量诊断"
+tags:
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 文案优化
+  - 账号运营
+  - 投流优化
+type: "索引"
+quality_level: "B"
+summary_cn: "本文档是04-跨境社媒获客MOC的导航索引，汇总相关文档和方法论入口。适合作为04-跨境社媒获客MOC相关任务的起点，快速定位需要读取的具体文档。"
+summary_en: "This document provides actionable guidance on 04-跨境社媒获客MOC for business execution and decision-making."
 related:
+  - "[[01-全库工作总览MOC]]"
+  - "[[02-AI读取入口MOC]]"
+  - "[[03-外贸市场情报MOC]]"
+  - "[[05-广告投流增长MOC]]"
+  - "[[06-内容素材创意MOC]]"
 retrieval_keywords:
-  - - - "跨境社媒获客"
-  - - - "Facebook获客"
-  - - - "LinkedIn开发"
-  - - - "TikTok内容"
-  - - - "WhatsApp引流"
-  - - - "社媒IP打造"
-  - - - "账号运营"
-  - - - "内容分发"
-  - - - "B2B社媒"
-  - - - "有机内容"
-  - - --
-  - --
-routing_target:
-  - "[[00-目录总览MOC]]"
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "抖音投流"
+  - "抖音广告"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "视频号获客"
+  - "视频号运营"
+decision_value: "进入04-跨境社媒获客MOC相关工作域时先查此处，快速定位需要读取的具体文档。"
+created: "2026-05-17"
+updated: "2026-05-26"
 ---
 
 # 04-跨境社媒获客MOC

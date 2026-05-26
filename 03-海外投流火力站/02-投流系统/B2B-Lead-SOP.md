@@ -1,49 +1,44 @@
 ---
-
-title: B2B-Lead-SOP
-topic: ''
-created: '2026-05-15'
-status: active
-summary_cn: '## 一句话总结 > B2B Lead SOP分五个阶段:Lead获取→初次响应→需求诊断→方案报价→成交维护，每阶段有标准动作和时效要求，目标是提高转化率。相关文档'
-summary_en: Document regarding B2B-Lead-SOP. Reference for business decisions.
-one_sentence_summary: B2B投流策略:客户类型×平台匹配，定向+预算+优化
-review_note: B2B Lead管理SOP核心
-category: 投流系统
-platform: []
-industry: 食品加工机械
-source_files: []
-merged_from: []
-old_versions: []
-archived_reason: []
-relations: []
-routing_target:
-  - "[[05-广告投流增长MOC]]"
-
+title: "B2B Lead SOP"
+aliases:
+  - "B2B Lead SOP"
+  - "B2B-Lead-SOP"
+  - "Facebook投放指南"
+  - "TikTok投放策略"
+  - "B2B询盘获客"
+  - "表单转化优化"
 tags:
-    - "#facebook广告/数据指标"
-    - "#facebook广告/ROAS拆解"
-    - "#facebook广告/行业基准"
-related:
-    - "[[A5_执行SOP]]"
-    - "[[客户开发SOP]]"
-    - "[[WhatsApp转化结构]]"
-retrieval_keywords:
-    - Lead
-    - SOP
-    - 一句话总结
-    - 分五个阶段
-    - 获取
-    - 初次响应
-    - 需求诊断
-    - 方案报价
-    - 成交维护
-    - 每阶段有标准动作和时效要求
-decision_value: "用于B2B-Lead-SOP的决策参考和方法指导。"
-domain: "overseas_marketing"
-scenario: "sop_building"
-type: "sop"
+  - Facebook
+  - TikTok
+  - B2B获客
+  - 表单设计
+  - 投流优化
+type: "SOP"
 quality_level: "B"
-updated: "2026-05-24"
+summary_cn: "本文档提供B2B Lead SOP的标准操作流程，涵盖关键步骤、执行要点和注意事项。适合在实际操作B2B Lead SOP相关任务时按步骤执行，确保流程标准化和结果可复现。"
+summary_en: "This document provides actionable guidance on B2B Lead SOP for business execution and decision-making."
+related:
+  - "[[TikTok机械视频结构]]"
+  - "[[WhatsApp转化结构]]"
+  - "[[03-目录总览MOC]]"
+  - "[[海外投流总索引]]"
+  - "[[05-广告投流增长MOC]]"
+retrieval_keywords:
+  - "Facebook广告优化"
+  - "Facebook投放"
+  - "TikTok投放"
+  - "TikTok广告"
+  - "LinkedIn获客"
+  - "LinkedIn广告"
+  - "WhatsApp询盘"
+  - "WhatsApp转化"
+  - "B2B获客方法"
+  - "B2B询盘获客"
+  - "表单转化优化"
+  - "LeadGen表单设计"
+decision_value: "执行B2B Lead SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
+created: "2026-05-15"
+updated: "2026-05-26"
 ---
 
 # B2B Lead SOP
