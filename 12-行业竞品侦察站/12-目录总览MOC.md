@@ -61,7 +61,7 @@ This directory is the analysis center for industry cases and competitive intelli
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录说明与使用指南 |
+| [[12-行业竞品侦察站/README]] | 本目录说明与使用指南 |
 
 ## C级整合文稿
 

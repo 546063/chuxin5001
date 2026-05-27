@@ -71,7 +71,7 @@ This directory is a complete personal learning and growth knowledge system. Cove
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录结构说明 |
+| [[18-个人学习与成长/README]] | 本目录结构说明 |
 
 ---
 

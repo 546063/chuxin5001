@@ -60,7 +60,7 @@ This directory manages personal life and interest projects. Covers lifestyle man
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录结构说明 |
+| [[19-个人生活与兴趣项目/README]] | 本目录结构说明 |
 
 ---
 

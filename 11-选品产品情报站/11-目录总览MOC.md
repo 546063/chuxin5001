@@ -60,7 +60,7 @@ This directory is the core base for product research, covering selection methodo
 |------|------|
 | [[00-数据来源验证]] | 研究数据源引用规范 |
 | [[VR互动飞机杯与成人科技产品整合]] | VR 互动产品整合分析 |
-| [[README]] | 本目录说明与使用指南 |
+| [[11-选品产品情报站/README]] | 本目录说明与使用指南 |
 
 ## C级整合文稿
 

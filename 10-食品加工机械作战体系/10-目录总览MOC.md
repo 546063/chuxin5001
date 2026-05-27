@@ -65,7 +65,7 @@ This directory is the core operational knowledge system for food processing mach
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录说明与使用指南 |
+| [[00-总指挥部/README]] | 本目录说明与使用指南 |
 
 ## C级整合文稿
 

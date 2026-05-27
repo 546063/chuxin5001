@@ -202,5 +202,5 @@ water_change_method: <方式>
 ## 关联
 
 - [[Dashboard]] — 数据消费端
-- [[README]] — 系统说明
+- [[19-个人生活与兴趣项目/01-AI水族系统/README]] — 系统说明
 - [[Template-AI巡检日志]] — 巡检模板

@@ -41,7 +41,20 @@ retrieval_keywords:
 decision_value: "当需要执行WhatsApp 获客链路相关任务时调用本文档，为内容制作和投流优化提供参考。"
 created: "2026-05-26"
 updated: "2026-05-26"
+source_path: "04-内容素材弹药库/获客文案方法论/02-文案诊断规则__WhatsApp获客链路.md"
+source_folder: "04-内容素材弹药库/获客文案方法论"
+source_type: "Obsidian vault note"
+organized_by: "Codex"
+organized_tool: "Codex local deterministic script"
+organized_at: "2026-05-27"
+organization_scope: "仅格式整理、来源标注、检索字段补全；不删减原文内容"
 ---
+
+> [!info] 来源与整理说明
+> - 来源文件：`04-内容素材弹药库/获客文案方法论/02-文案诊断规则__WhatsApp获客链路.md`
+> - 原始目录：`04-内容素材弹药库/获客文案方法论`
+> - AI整理工具：Codex（本地机械脚本）
+> - 整理方式：仅做 Obsidian 格式整理、来源标注、检索字段补全；不删减原文内容。
 
 # WhatsApp 获客链路
 
@@ -81,7 +94,7 @@ WhatsApp获客链路
 - 需要补充的数据
 - 需要补充的案例
 - 需要后续搜索的内容
-#待补充
+# 待补充
 ## 广告到 WhatsApp 点击设计
 
 **案例: Dairy Machinery Meta Ads (India) - Lead Gen + WhatsApp**

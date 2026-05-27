@@ -40,7 +40,20 @@ retrieval_keywords:
 decision_value: "执行海外短视频私信承接与WhatsApp转化SOP任务时严格按此SOP操作，确保流程标准化和结果可复现。"
 created: "2026-05-26"
 updated: "2026-05-26"
+source_path: "04-内容素材弹药库/获客文案方法论/08-海外短视频私信承接与WhatsApp转化SOP.md"
+source_folder: "04-内容素材弹药库/获客文案方法论"
+source_type: "Obsidian vault note"
+organized_by: "Codex"
+organized_tool: "Codex local deterministic script"
+organized_at: "2026-05-27"
+organization_scope: "仅格式整理、来源标注、检索字段补全；不删减原文内容"
 ---
+
+> [!info] 来源与整理说明
+> - 来源文件：`04-内容素材弹药库/获客文案方法论/08-海外短视频私信承接与WhatsApp转化SOP.md`
+> - 原始目录：`04-内容素材弹药库/获客文案方法论`
+> - AI整理工具：Codex（本地机械脚本）
+> - 整理方式：仅做 Obsidian 格式整理、来源标注、检索字段补全；不删减原文内容。
 
 # 海外短视频私信承接与WhatsApp转化SOP
 

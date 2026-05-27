@@ -61,7 +61,7 @@ This directory is a complete personal finance and bill analysis knowledge base. 
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录Obsidian知识库使用说明和文件结构 |
+| [[17-个人财务与账单分析/README]] | 本目录Obsidian知识库使用说明和文件结构 |
 | [[00-成交案例复盘模板]] | 成交案例复盘模板（跨目录，与25-成交案例战报库共用） |
 | [[01-失败案例复盘模板]] | 失败案例复盘模板（跨目录，与25-成交案例战报库共用） |
 | [[02-真实业务数据待补充清单]] | 真实业务数据待补充清单（跨目录，与25-成交案例战报库共用） |
@@ -111,7 +111,7 @@ This directory is a complete personal finance and bill analysis knowledge base. 
 
 ## AI调用规则
 
-1. 财务分析先读 [[README]] 了解文件结构
+1. 财务分析先读 [[17-个人财务与账单分析/README]] 了解文件结构
 2. 年度分析查阅 01-年度账单 子目录
 3. 季度分析查阅 02-季度分析 子目录
 4. 清洗规则查阅 03-清洗数据 子目录

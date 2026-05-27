@@ -74,7 +74,7 @@ Master entry for factory visit and assessment. Routes to factory assessment chec
 
 ## 核心主文稿
 - [[07-工厂探访侦察站/MOC]]：工厂探访侦察站主入口，包含探厂问题清单
-- [[07-工厂探访侦察站/README]]：工厂探访侦察站说明文档
+- [[07-侦察站/README]]：工厂探访侦察站说明文档
 
 ## 工作路径
 1. **筛选候选工厂** → 从05-客户开发与成交/04-对外销售资料中选择

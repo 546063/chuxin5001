@@ -53,7 +53,7 @@ This directory is the operational center for full-cycle delivery and after-sales
 
 | 文件 | 说明 |
 |------|------|
-| [[README]] | 本目录说明与使用指南 |
+| [[08-交付与售后复盘/README]] | 本目录说明与使用指南 |
 
 ## C级整合文稿
 
